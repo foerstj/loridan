@@ -2,9 +2,9 @@
 :: TankCreator and gaspy are expected to be in sibling dirs.
 
 :: name of map
-set map=loridan1.5-loa
+set map=loridan
 :: name of map, case-sensitive
-set map_cs=Loridan1.5Loa
+set map_cs=Loridan
 :: path of DSLOA documents dir (where Bits are)
 set doc_dsloa=%USERPROFILE%\Documents\Dungeon Siege LoA
 :: path of DS installation

@@ -2,7 +2,7 @@
 :: TankCreator is expected to be in a sibling dir.
 
 :: name of map
-set map=loridan1.5-loa
+set map=loridan
 :: path of DSLOA documents dir (where Bits are)
 set doc_dsloa=%USERPROFILE%\Documents\Dungeon Siege LoA
 :: path of DS installation
