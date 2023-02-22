@@ -1,0 +1,130 @@
+[t:door_grs_left_05,n:0x00d00094]
+{
+	[placement]
+	{
+	  q orientation = 0,0.983255,0,-0.182236;
+	  p position = 1.342,-3.65,-3.48388,0x73c2b7b3;
+		use_point_scids = 0x00d00095,0x00d00096;
+	}
+}
+[t:door_grs_left_05,n:0x00d0022a]
+{
+	[placement]
+	{
+	  q orientation = 0,0.991445,0,0.130526;
+	  p position = 0.985596,-3,-2.9015,0x878e2e54;
+		use_point_scids = 0x00d00228,0x00d00227;
+	}
+}
+[t:lever_glb_02,n:0x00d00231]
+{
+	[on_off_lever]
+	{
+		off_message = we_req_activate;
+	  x on_scid = 0x00C0002A;
+	}
+	[placement]
+	{
+	  q orientation = -0.0197935,0.992421,0.105861,-0.0591765;
+	  p position = -0.435059,-4,-1.94708,0xe7213ca3;
+		use_point_scids = 0x00d00232;
+	}
+}
+[t:lever_glb_02,n:0x00d008ae]
+{
+	[placement]
+	{
+	  q orientation = -0.0197935,0.992421,0.105861,-0.0591765;
+	  p position = -6.30597,0,-16.9603,0x57093e90;
+		use_point_scids = 0x00d00232;
+	}
+}
+[t:lever_glb_07,n:0x00d006f0]
+{
+	[on_off_lever]
+	{
+		off_message = we_req_activate;
+	  x off_scid = 0x00D006A0;
+	  x on_scid = 0x00D006A0;
+	}
+	[placement]
+	{
+	  q orientation = 0,0.350207,0,-0.93667;
+	  p position = 1.40636,3.82455,-0.0777894,0x3d14a1af;
+		use_point_scids = 0x00d006a3,0x00d006a4;
+	}
+}
+[t:sign_glb_01,n:0x00d00939]
+{
+	[common]
+	{
+		screen_name = "HUB";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.694659,0,-0.71934;
+	  p position = 1.95425,1.90735e-006,-1.50488,0xcedd7888;
+	}
+}
+[t:lever_glb_07,n:0x00d0078b]
+{
+	[on_off_lever]
+	{
+		off_message = we_req_activate;
+	  x off_scid = 0x00D006A0;
+	  x on_scid = 0x00D006A0;
+	}
+	[placement]
+	{
+	  q orientation = 0,0.948322,0,-0.317304;
+	  p position = -0.517559,0,-1.92348,0x1a1e039e;
+		use_point_scids = 0x00d006a4,0x00d006a6;
+	}
+}
+[t:door_grs_left_05,n:0x00d007ea]
+{
+	[placement]
+	{
+	  q orientation = 0,-0.156434,0,-0.987686;
+	  p position = -0.0209352,-3.65,-3.05306,0x24fd28ed;
+		use_point_scids = 0x00d007e6,0x00d007e5;
+	}
+}
+[t:door_grs_farmhouse,n:0x00d007c7]
+{
+	[placement]
+	{
+	  q orientation = 0,-0.390729,0,0.920501;
+	  p position = 1.29507,-2.25,-2.49382,0xde283ef7;
+		use_point_scids = 0x00d007c3,0x00d007c2;
+	}
+}
+[t:sign_glb_beware,n:0x00d00022]
+{
+	[common]
+	{
+		screen_name = "Kuestennebel macht klein und haesslich :-)";
+	}
+	[placement]
+	{
+	  q orientation = 0,-0.987689,0,0.156434;
+	  p position = -3.57432,7.96153,3.06564,0xa705bf6c;
+	}
+}
+[t:lever_glb_06,n:0x00d007c5]
+{
+	[on_off_lever]
+	{
+		off_message = we_req_activate;
+	  x off_scid = 0x00D00831;
+	  x on_scid = 0x00D00831;
+	  f reset_time = 16;
+	  f reset_time_2 = 16;
+	}
+	[placement]
+	{
+	  q orientation = 0.707107,4.86006e-007,-7.77082e-008,-0.707107;
+	  p position = -0.0877838,2.11191,0.174408,0x82de076c;
+		use_point_scids = 0x00d0082b,0x00d00833;
+	}
+}

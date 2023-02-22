@@ -1,0 +1,171 @@
+[t:crate_dsx_a2_r5-spec,n:0x00d00248]
+{
+	[placement]
+	{
+	  q orientation = 0,0.25038,0,0.968148;
+	  p position = -1.97566,-5.93317,-1.65119,0xa0250fd8;
+	}
+}
+[t:crate_dsx_a5_r1-spec,n:0x00d0024a]
+{
+	[placement]
+	{
+	  q orientation = 0,1,0,0;
+	  p position = -6.20753,-3.7854,-4.38691,0xb5c7b35e;
+	}
+}
+[t:crate_dsx_a5_r1-03,n:0x00d0024d]
+{
+	[placement]
+	{
+	  q orientation = 0,-0.499999,0,-0.866023;
+	  p position = -0.681286,-0.115517,1.42241,0x6520b319;
+	}
+}
+[t:cask_glb_ale_df_bandits,n:0x00d00683]
+{
+	[placement]
+	{
+	  p position = -3.92656,-0.650002,-2.01966,0x8d970d64;
+	}
+}
+[t:barrel_glb_df_bandits,n:0x00d006a1]
+{
+	[placement]
+	{
+	  p position = -3.35881,-0.65,-3.55729,0x8d970d64;
+	}
+}
+[t:barrel_glb_df_bandits,n:0x00d006a2]
+{
+	[placement]
+	{
+	  p position = 1.73888,0,1.4417,0x95f562b4;
+	}
+}
+[t:barrel_swp_01_df_bandits,n:0x00d0023a]
+{
+	[placement]
+	{
+	  p position = 3.7189,-4,-3.14682,0x84c44d39;
+	}
+}
+[t:barrel_swp_01_df_bandits,n:0x00d0023e]
+{
+	[placement]
+	{
+	  p position = 2.34623,-3.69175,-3.907,0x84c44d39;
+	}
+}
+[t:barrel_swp_01_df_bandits,n:0x00d0023f]
+{
+	[placement]
+	{
+	  p position = 1.34102,-3.70358,-4.32164,0x84c44d39;
+	}
+}
+[t:barrel_swp_01_df_bandits,n:0x00d00240]
+{
+	[placement]
+	{
+	  p position = -0.270271,-3.99999,-4.86997,0x84c44d39;
+	}
+}
+[t:barrel_swp_01_df_bandits,n:0x00d00241]
+{
+	[placement]
+	{
+	  p position = -1.43191,-3.9617,-5.18361,0x84c44d39;
+	}
+}
+[t:barrel_swp_01_df_bandits,n:0x00d00242]
+{
+	[inventory]
+	{
+		[other]
+		{
+			il_main = potion_mana_super;
+			il_main = potion_health_super;
+			il_main = potion_mana_super;
+			il_main = potion_health_super;
+		}
+	}
+	[placement]
+	{
+	  p position = -2.63557,-3.89172,-5.41481,0x84c44d39;
+	}
+}
+[t:chest_csl_07_df_bandits,n:0x00d00236]
+{
+	[placement]
+	{
+	  q orientation = 0,-0.999648,0,0.0261769;
+	  p position = -0.163115,3.8147e-006,1.33644,0x43d1f3dc;
+	}
+}
+[t:cask_glb_ale_df_bandits,n:0x00d00238]
+{
+	[placement]
+	{
+	  p position = -1.76874,3.8147e-006,1.39457,0x43d1f3dc;
+	}
+}
+[t:cask_glb_ale_df_bandits,n:0x00d00239]
+{
+	[inventory]
+	{
+		[other]
+		{
+			il_main = potion_health_super;
+			il_main = potion_mana_super;
+			il_main = potion_health_super;
+			il_main = potion_mana_super;
+		}
+	}
+	[placement]
+	{
+	  p position = -2.65491,0,1.37711,0x43d1f3dc;
+	}
+}
+[t:crate_glb_df_bandits,n:0x00d00243]
+{
+	[inventory]
+	{
+		[other]
+		{
+			il_main = potion_health_super;
+			il_main = potion_health_super;
+			il_main = potion_mana_super;
+			il_main = potion_mana_super;
+		}
+	}
+	[placement]
+	{
+	  p position = 3.22568,1.90735e-006,1.20677,0x43d1f3dc;
+	}
+}
+[t:crate_glb_df_bandits,n:0x00d00244]
+{
+	[inventory]
+	{
+		[other]
+		{
+			il_main = potion_health_super;
+			il_main = potion_health_super;
+			il_main = potion_mana_super;
+			il_main = potion_mana_super;
+		}
+	}
+	[placement]
+	{
+	  p position = 2.02934,1.90735e-006,1.33015,0x43d1f3dc;
+	}
+}
+[t:chest_csl_08_df_bandits,n:0x00d00237]
+{
+	[placement]
+	{
+	  q orientation = 0,0.82412,0,-0.566401;
+	  p position = -2.58512,-3.74442,-1.96664,0x603cf79d;
+	}
+}

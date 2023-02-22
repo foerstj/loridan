@@ -1,0 +1,164 @@
+[t:respawn_statue,n:0x00700014]
+{
+	[placement]
+	{
+	  q orientation = 0,0.75471,0,0.656059;
+	  p position = -2.84646,-4,-3.42347,0x144b9da4;
+		use_point_scids = 0x00700013;
+	}
+}
+[t:sign_glb_01,n:0x007003ca]
+{
+	[common]
+	{
+		screen_name = "himmelpfort";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.999048,0,0.0436192;
+	  p position = -2.43682,-9.53674e-007,-0.534176,0x452ceae7;
+	}
+}
+[t:sign_glb_01,n:0x00700457]
+{
+	[common]
+	{
+		screen_name = "winterdorf";
+	}
+	[placement]
+	{
+	  p position = -2.63438,-0.246523,-0.145508,0x452ceae7;
+	}
+}
+[t:sign_glb_01,n:0x0070044d]
+{
+	[common]
+	{
+		screen_name = "himmelpfort";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.999657,0,-0.0261771;
+	  p position = 0.669144,0,-3.38562,0xfc55aea9;
+	}
+}
+[t:sign_glb_01,n:0x0070045f]
+{
+	[common]
+	{
+		screen_name = "winterdorf";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.0871558,0,0.996195;
+	  p position = 0.549042,-0.255092,-2.98401,0xfc55aea9;
+	}
+}
+[t:sign_glb_01,n:0x00700456]
+{
+	[common]
+	{
+		screen_name = "himmelpfort";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.725374,0,0.688355;
+	  p position = -0.836617,2.38419e-006,-0.223572,0x28a28053;
+	}
+}
+[t:sign_ice_01,n:0x007002d2]
+{
+	[common]
+	{
+		screen_name = "Himmelpfort";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.0784594,0,0.996917;
+	  p position = 3.70185,2.6226e-006,-1.48726,0xa0946e91;
+	}
+}
+[t:sign_ice_01,n:0x007002d3]
+{
+	[common]
+	{
+		screen_name = "Winterdorf";
+	}
+	[placement]
+	{
+	  q orientation = 0,-0.622511,0,0.782604;
+	  p position = -0.416021,1.90735e-006,-1.46148,0x459792f3;
+	}
+}
+[t:sign_ice_01,n:0x007002ee]
+{
+	[common]
+	{
+		screen_name = "Winterdorf";
+	}
+	[placement]
+	{
+	  q orientation = 0,-0.121869,0,-0.992545;
+	  p position = -2.99145,9.53674e-007,-3.03006,0x0d0c6ad3;
+	}
+}
+[t:sign_ice_01,n:0x007003b6]
+{
+	[common]
+	{
+		screen_name = "Himmelpfort";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.993569,0,-0.113203;
+	  p position = -2.96908,-0.551987,-3.5101,0x0d0c6ad3;
+	}
+}
+[t:sign_ice_01,n:0x007003bc]
+{
+	[common]
+	{
+		screen_name = "Himmelpfort";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.67559,0,0.737277;
+	  p position = 1.88678,1.90735e-006,2.81979,0xa82ee4f0;
+	}
+}
+[t:sign_ice_01,n:0x007003bd]
+{
+	[common]
+	{
+		screen_name = "Winterdorf";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.719337,0,-0.694655;
+	  p position = 1.33112,-0.292079,2.58319,0xa82ee4f0;
+	}
+}
+[t:sign_ice_01,n:0x007003c8]
+{
+	[common]
+	{
+		screen_name = "Winterdorf";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.67559,0,0.737277;
+	  p position = 2.85988,3.8147e-006,-2.03891,0xc943eecb;
+	}
+}
+[t:sign_ice_01,n:0x007004d9]
+{
+	[common]
+	{
+		screen_name = "Himmelpfort";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.748954,0,-0.662619;
+	  p position = 2.44929,-0.532749,-2.25809,0xc943eecb;
+	}
+}

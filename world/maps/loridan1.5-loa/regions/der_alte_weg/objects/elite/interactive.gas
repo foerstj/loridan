@@ -1,0 +1,527 @@
+[t:door_glb_gendungeon_02,n:0x00c00055]
+{
+	[aspect]
+	{
+	  b is_usable = false;
+	  f scale_multiplier = 1.12;
+	}
+	[placement]
+	{
+	  q orientation = 0,1,0,-2.98023e-008;
+	  p position = 0.0145392,-1.5,-0.0206089,0x7f00ae5d;
+	}
+}
+[t:lever_glb_07,n:0x00c00057]
+{
+	[on_off_lever]
+	{
+	  x on_scid = 0x00C00055;
+	  x on_scid_2 = 0x00C0001D;
+	}
+	[placement]
+	{
+	  q orientation = 0,-0.707107,0,0.707107;
+	  p position = 1.7988,-1.5,-1.62129,0x7f00ae5d;
+		use_point_scids = 0x00c0005a;
+	}
+}
+[t:lever_glb_07,n:0x00c00058]
+{
+	[on_off_lever]
+	{
+	  x on_scid = 0x00C00055;
+	}
+	[placement]
+	{
+	  p position = -1.62182,-1.5,1.61634,0x7f00ae5d;
+		use_point_scids = 0x00c00059;
+	}
+}
+[t:door_glb_gendungeon_02,n:0x00c000a2]
+{
+	[aspect]
+	{
+	  b is_usable = false;
+	  f scale_multiplier = 1.12;
+	}
+	[placement]
+	{
+	  p position = -0.0249329,-1.5,0.0600128,0xf33b9801;
+	}
+}
+[t:lever_glb_07,n:0x00c000a3]
+{
+	[on_off_lever]
+	{
+	  x on_scid = 0x00C000A2;
+	}
+	[placement]
+	{
+	  q orientation = 0,1,0,-4.37114e-008;
+	  p position = 1.19166,-1.5,0.977909,0xf33b9801;
+		use_point_scids = 0x00c000a5;
+	}
+}
+[t:lever_glb_07,n:0x00c000a4]
+{
+	[on_off_lever]
+	{
+	  x on_scid = 0x00C000A2;
+	}
+	[placement]
+	{
+	  p position = -1.2193,-1.5,-0.979252,0xf33b9801;
+		use_point_scids = 0x00c000a6;
+	}
+}
+[t:door_glb_gendungeon_02,n:0x00c00090]
+{
+	[aspect]
+	{
+	  b is_usable = false;
+	  f scale_multiplier = 1.12;
+	}
+	[placement]
+	{
+	  p position = -0.0103874,-1.5,-0.0197067,0x92b2c567;
+	}
+}
+[t:lever_glb_07,n:0x00c00091]
+{
+	[on_off_lever]
+	{
+	  x on_scid = 0x00C00090;
+	}
+	[placement]
+	{
+	  q orientation = 0,0.707107,0,0.707107;
+	  p position = 1.63589,-1.5,-1.40009,0x92b2c567;
+		use_point_scids = 0x00c00097;
+	}
+}
+[t:lever_glb_07,n:0x00c00093]
+{
+	[on_off_lever]
+	{
+	  x on_scid = 0x00C00090;
+	}
+	[placement]
+	{
+	  q orientation = 0,0.71325,0,0.700909;
+	  p position = 1.66449,-1.5,1.45861,0x92b2c567;
+		use_point_scids = 0x00c00098;
+	}
+}
+[t:door_glb_gendungeon_02,n:0x00c0002a]
+{
+	[aspect]
+	{
+	  b is_usable = false;
+	  f scale_multiplier = 1.12;
+	}
+	[placement]
+	{
+	  p position = 0.0376282,-1.5,0.103546,0xd63a6a1f;
+	}
+}
+[t:lever_glb_07,n:0x00c00033]
+{
+	[on_off_lever]
+	{
+	  x on_scid = 0x00C0002A;
+	}
+	[placement]
+	{
+	  p position = 1.1588,-1.5,-1.28173,0xd63a6a1f;
+		use_point_scids = 0x00c00035;
+	}
+}
+[t:sign_glb_beware,n:0x00c0020e]
+{
+	[common]
+	{
+		screen_name = "Finde den Schalter, wo Knochen zur Furie werden sieht ein Pilz rot";
+	}
+	[placement]
+	{
+	  q orientation = 0,-4.19095e-008,0,1;
+	  p position = 1.37788,-1.5,1.56446,0xd63a6a1f;
+	}
+}
+[t:door_glb_gendungeon_02,n:0x00c00099]
+{
+	[aspect]
+	{
+	  b is_usable = false;
+	  f scale_multiplier = 1.12;
+	}
+	[placement]
+	{
+	  p position = -0.0347137,-1.5,-0.00111389,0x52d24943;
+	}
+}
+[t:lever_glb_07,n:0x00c0009d]
+{
+	[on_off_lever]
+	{
+	  x on_scid = 0x00C00099;
+	}
+	[placement]
+	{
+	  q orientation = 0,-0.707107,0,0.707107;
+	  p position = 1.65094,-1.5,1.34195,0x52d24943;
+		use_point_scids = 0x00c0009f;
+	}
+}
+[t:lever_glb_05,n:0x00c0001b]
+{
+	[on_off_lever]
+	{
+	  x on_scid = 0x00C0002C;
+	}
+	[placement]
+	{
+	  q orientation = 0,0.707107,0,0.707107;
+	  p position = -1.70046,-1.5,-0.832253,0xd6a0e2ea;
+		use_point_scids = 0x00c0001c;
+	}
+}
+[t:door_glb_gendungeon_02,n:0x00c00088]
+{
+	[aspect]
+	{
+	  b is_usable = false;
+	  f scale_multiplier = 1.12;
+	}
+	[placement]
+	{
+	  p position = 0.0773039,-1.5,-0.038332,0x9df1a422;
+	}
+}
+[t:lever_glb_07,n:0x00c00089]
+{
+	[on_off_lever]
+	{
+	  x on_scid = 0x00C00088;
+	}
+	[placement]
+	{
+	  p position = 1.26437,-1.5,-1.07081,0x9df1a422;
+		use_point_scids = 0x00c0008d;
+	}
+}
+[t:lever_glb_07,n:0x00c0008a]
+{
+	[on_off_lever]
+	{
+	  x on_scid = 0x00C00088;
+	}
+	[placement]
+	{
+	  q orientation = 0,0.707107,0,0.707107;
+	  p position = -1.84569,-1.5,1.61643,0x9df1a422;
+		use_point_scids = 0x00c0008b;
+	}
+}
+[t:door_glb_gendungeon_02,n:0x00c0006b]
+{
+	[aspect]
+	{
+	  b is_usable = false;
+	  f scale_multiplier = 1.12;
+	}
+	[placement]
+	{
+	  p position = 0.0258865,-1.5,0.101135,0x42a88797;
+	}
+}
+[t:lever_glb_07,n:0x00c0006c]
+{
+	[on_off_lever]
+	{
+	  x on_scid = 0x00C0006B;
+	}
+	[placement]
+	{
+	  q orientation = 0,-4.37114e-008,0,-1;
+	  p position = 1.18893,-1.5,-0.772141,0x42a88797;
+		use_point_scids = 0x00c0006e;
+	}
+}
+[t:lever_glb_07,n:0x00c00070]
+{
+	[on_off_lever]
+	{
+	  x on_scid = 0x00C0006B;
+	}
+	[placement]
+	{
+	  q orientation = 0,1,0,0;
+	  p position = -1.18816,-1.5,0.968704,0x42a88797;
+		use_point_scids = 0x00c00071;
+	}
+}
+[t:door_glb_gendungeon_02,n:0x00c000bd]
+{
+	[aspect]
+	{
+	  b is_usable = false;
+	  f scale_multiplier = 1.12;
+	}
+	[placement]
+	{
+	  p position = -0.103874,-1.5,-0.00341034,0x7b68372b;
+	}
+}
+[t:lever_glb_07,n:0x00c000be]
+{
+	[on_off_lever]
+	{
+	  x on_scid = 0x00C000BD;
+	}
+	[placement]
+	{
+	  q orientation = 0,1,0,0;
+	  p position = 1.24635,-1.5,1.00028,0x7b68372b;
+		use_point_scids = 0x00c000c0;
+	}
+}
+[t:door_glb_gendungeon_02,n:0x00c00072]
+{
+	[aspect]
+	{
+	  b is_usable = false;
+	  f scale_multiplier = 1.12;
+	}
+	[placement]
+	{
+	  p position = 0.00765991,-1.5,-0.0845222,0x39ebcf5a;
+	}
+}
+[t:lever_glb_07,n:0x00c00073]
+{
+	[on_off_lever]
+	{
+	  x on_scid = 0x00C00072;
+	}
+	[placement]
+	{
+	  q orientation = 0,1,0,-4.37114e-008;
+	  p position = -1.30075,-1.49999,1.02411,0x39ebcf5a;
+		use_point_scids = 0x00c00075;
+	}
+}
+[t:lever_glb_07,n:0x00c00074]
+{
+	[on_off_lever]
+	{
+	  x on_scid = 0x00C00072;
+	}
+	[placement]
+	{
+	  q orientation = 0,5.96046e-008,0,1;
+	  p position = -1.27281,-1.5,-1.13745,0x39ebcf5a;
+		use_point_scids = 0x00c00076;
+	}
+}
+[t:lever_glb_07,n:0x00c0005c]
+{
+	[on_off_lever]
+	{
+	  x on_scid = 0x00C000B1;
+	}
+	[placement]
+	{
+	  q orientation = 0,0.707107,0,0.707107;
+	  p position = 6.501,-2,5.99858,0x967645b0;
+		use_point_scids = 0x00c0005f;
+	}
+}
+[t:sign_glb_beware,n:0x00c000d1]
+{
+	[common]
+	{
+		screen_name = "Beware! Use this lever and join in Darkworld! :-)";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.743145,0,-0.669131;
+	  p position = 3.25119,-2,5.70448,0x967645b0;
+	}
+}
+[t:sign_glb_beware,n:0x00c000cf]
+{
+	[common]
+	{
+		screen_name = "Beware! End of this Map";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.999391,0,-0.0348992;
+	  p position = 1.35606,-1.5,-0.578941,0x4377adbf;
+	}
+}
+[t:lever_glb_07,n:0x00c00030]
+{
+	[on_off_lever]
+	{
+	  x on_scid = 0x00C00052;
+	}
+	[placement]
+	{
+	  p position = -1.18162,-1.5,1.46758,0xff2c931e;
+		use_point_scids = 0x00c00051;
+	}
+}
+[t:door_glb_gendungeon_02,n:0x00c00052]
+{
+	[aspect]
+	{
+	  b is_usable = false;
+	  f scale_multiplier = 1.12;
+	}
+	[placement]
+	{
+	  p position = -0.119026,-1.5,-0.082016,0xff2c931e;
+	}
+}
+[t:dsx_diagram-03,n:0x00c00194]
+{
+	[placement]
+	{
+	  q orientation = 0.5,-0.5,0.5,-0.5;
+	  p position = 1.19177,-0.16865,-1.97314,0x249951ca;
+	}
+}
+[t:door_glb_gendungeon_02,n:0x00c0004e]
+{
+	[aspect]
+	{
+	  b is_usable = false;
+	  f scale_multiplier = 1.12;
+	}
+	[placement]
+	{
+	  p position = -0.0314255,-1.5,0.0273209,0xfb7b80c4;
+	}
+}
+[t:lever_glb_07,n:0x00c00054]
+{
+	[on_off_lever]
+	{
+	  x on_scid = 0x00C0004E;
+	}
+	[placement]
+	{
+	  p position = 1.15606,-1.5,-0.937855,0xfb7b80c4;
+		use_point_scids = 0x00c00060;
+	}
+}
+[t:lever_glb_07,n:0x00c00056]
+{
+	[on_off_lever]
+	{
+	  x on_scid = 0x00C0004E;
+	}
+	[placement]
+	{
+	  q orientation = 0,0.707107,0,0.707107;
+	  p position = -1.75726,-1.5,1.42173,0xfb7b80c4;
+		use_point_scids = 0x00c00061;
+	}
+}
+[t:door_glb_gendungeon_02,n:0x00c00063]
+{
+	[aspect]
+	{
+	  b is_usable = false;
+	  f scale_multiplier = 1.12;
+	}
+	[placement]
+	{
+	  p position = -0.0119171,-1.5,0.00633621,0x3adffb27;
+	}
+}
+[t:lever_glb_07,n:0x00c00068]
+{
+	[on_off_lever]
+	{
+	  x on_scid = 0x00C00063;
+	}
+	[placement]
+	{
+	  p position = 0.859595,-1.5,-1.17567,0x3adffb27;
+		use_point_scids = 0x00c00066;
+	}
+}
+[t:lever_glb_07,n:0x00c00065]
+{
+	[on_off_lever]
+	{
+	  x on_scid = 0x00C00063;
+	}
+	[placement]
+	{
+	  p position = -1.55521,-3.5,-5.53254,0x04c95385;
+		use_point_scids = 0x00c00067;
+	}
+}
+[t:door_glb_gendungeon_02,n:0x00c000a7]
+{
+	[aspect]
+	{
+	  b is_usable = false;
+	  f scale_multiplier = 1.12;
+	}
+	[placement]
+	{
+	  p position = 0.028923,-1.5,0.0104904,0xb9539ef7;
+	}
+}
+[t:lever_glb_07,n:0x00c000a8]
+{
+	[on_off_lever]
+	{
+	  x on_scid = 0x00C000A7;
+	}
+	[placement]
+	{
+	  p position = -1.27055,-1.5,-0.943678,0xb9539ef7;
+		use_point_scids = 0x00c000aa;
+	}
+}
+[t:lever_glb_07,n:0x00c000a9]
+{
+	[on_off_lever]
+	{
+	  x on_scid = 0x00C000A7;
+	}
+	[placement]
+	{
+	  q orientation = 0,0.707107,0,0.707107;
+	  p position = 1.94982,-1.5,1.36147,0xb9539ef7;
+		use_point_scids = 0x00c000ab;
+	}
+}
+[t:respawn_statue,n:0x00c000b6]
+{
+	[placement]
+	{
+	  q orientation = 0,0.968148,0,-0.25038;
+	  p position = 3.893,3.8147e-006,-0.26683,0xaf29bda5;
+		use_point_scids = 0x00c000b5;
+	}
+}
+[t:lever_glb_05,n:0x00c00064]
+{
+	[on_off_lever]
+	{
+	  x on_scid = 0x00C0009E;
+	}
+	[placement]
+	{
+	  q orientation = 0,0.694658,0,-0.71934;
+	  p position = -1.72719,0,0.941666,0xe20e5bb5;
+		use_point_scids = 0x00c00042;
+	}
+}

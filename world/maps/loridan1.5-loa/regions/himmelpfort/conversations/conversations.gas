@@ -1,0 +1,119 @@
+[conv_garl]
+{
+	[text*]
+	{
+		screen_text = "Ich grüsse Euch
+Es ist mir ein Rätsel wie Ihr es hierher geschafft habt. Diese verdammten Trog`s werden immer dreißter. Gestern nacht  haben sie unseren Vorposten überfallen.
+Natürlich habe  ich heute das Glück, Wache schieben zu dürfen.";
+	  f scroll_rate = 10.000000;
+	}
+}
+[conv_kami]
+{
+	[text*]
+	{
+		screen_text = "Kannst Du mir mal verraten wo ich den ersten Schnitt machen soll?";
+	  f scroll_rate = 10.000000;
+	}
+}
+[conv_kl-f]
+{
+	[text*]
+	{
+		screen_text = "Eigentlich muss  ich doch  Wache schieben.
+Aber ein Schlückchen in Ehren..............";
+	  f scroll_rate = 10.000000;
+	}
+}
+[conv_lobo]
+{
+	[text*]
+	{
+		screen_text = "Pass auf,  ich glaub Poldi will Dir fressen.";
+	  f scroll_rate = 10.000000;
+	}
+}
+[conv_mace]
+{
+	[text*]
+	{
+		screen_text = "Hi
+Ich bin -=AFK=-  Mace, Blowmind hat mich nun doch zur Wache eingeteilt. Dabei hatte  ich doch heute frei. 
+Hoffentlich lässt Leo  noch Küstennebel übrig.
+";
+	  f scroll_rate = 10.000000;
+	}
+}
+[conv_magierin]
+{
+	[text*]
+	{
+		choice = shop;
+		screen_text = "Tretet nur ein.
+Es kommt  in letzter Zeit selten vor, das jemand aus Winterdorf zu uns findet.";
+	  f scroll_rate = 10.000000;
+	}
+}
+[conv_nira]
+{
+	[text*]
+	{
+		screen_text = "Das kommt davon  wenn man  meint  ein Küstennebel geht noch.
+Tolle  Hochzeit.";
+	  f scroll_rate = 10.000000;
+	}
+}
+[conv_piet]
+{
+	[text*]
+	{
+		screen_text = "Tach. Ich hoffe Ihr habt Euch von meinem Haus in Galtohar fern gehalten. Es wird
+ gerade generalüberholt. Wißt Ihr ob es meinen alten Grauschimmeln gut geht? So langsam mache ich mir Sorgen
+ wegen der Beiden.";
+	  f scroll_rate = 10.000000;
+	}
+}
+[conv_rabe]
+{
+	[text*]
+	{
+		screen_text = "Hi
+Bitte stör meine Raben nicht. Wie Du siehst sind sie etwas zu gut gefüttert und haben deshalb Probleme mit dem abheben.";
+	  f scroll_rate = 10.000000;
+	}
+}
+[conv_schmied]
+{
+	[text*]
+	{
+		choice = shop;
+		screen_text = "Grüss Dich.
+Seit die Handelsrouten durch die Trog`s blockiert sind, läuft das Geschäft so mies, das ich meine Schmiede schliessen mußte und jetzt in dieser Hütte  alles zum schleuder Preis  rauswerfe.";
+	  f scroll_rate = 10.000000;
+	}
+}
+[conv_tom]
+{
+	[text*]
+	{
+		screen_text = "Ich würde ja auch lieber feiern, aber einer muss ja den Ausschank machen.";
+	  f scroll_rate = 10.000000;
+	}
+}
+[conv_uschi]
+{
+	[text*]
+	{
+		screen_text = "Guten Tag
+Ich will schon seit Wochen mein Schwein verkaufen. Doch ich glaube das mag keiner.";
+	  f scroll_rate = 10.000000;
+	}
+}
+[conv_yelchi]
+{
+	[text*]
+	{
+		screen_text = "Das wichtigste  ist,  immer gleichmäßig drehen und übergießen.";
+	  f scroll_rate = 10.000000;
+	}
+}

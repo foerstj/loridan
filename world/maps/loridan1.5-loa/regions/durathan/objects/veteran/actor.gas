@@ -1,0 +1,466 @@
+[t:2w_dwarf_legionnaire_guard,n:0x00d00fe6]
+{
+	[common]
+	{
+		screen_name = "Bronzebart";
+	}
+	[mind]
+	{
+		jat_talk = world\ai\jobs\common\job_talk.skrit;
+	}
+	[placement]
+	{
+	  p position = -0.805834,0,-3.85667,0xa4e02cee;
+	}
+}
+[t:2w_dwarf_legionnaire_archer,n:0x00d01052]
+{
+	[common]
+	{
+		screen_name = "Odin";
+	}
+	[placement]
+	{
+	  q orientation = 0,-0.707107,0,0.707107;
+	  p position = -1.94077,0,-0.590524,0xc3dceaa4;
+	}
+}
+[t:2w_mp_guard,n:0x00d01135]
+{
+	[conversation]
+	{
+		[conversations]
+		{
+			* = clint;
+		}
+	}
+	[placement]
+	{
+	  q orientation = 0,-0.743145,0,0.669131;
+	  p position = -1.69562,0,1.79563,0x6f296201;
+	}
+}
+[t:2w_mp_townfolk_female_09,n:0x00d0008e]
+{
+	[common]
+	{
+		screen_name = "Else Kling";
+	}
+	[conversation]
+	{
+		[conversations]
+		{
+			* = else;
+		}
+	}
+	[mind]
+	{
+		jat_talk = world\ai\jobs\common\job_talk.skrit;
+	}
+	[placement]
+	{
+	  q orientation = 0,0.999657,0,0.0261768;
+	  p position = -0.565773,-3.65,1.09308,0x73c2b7b3;
+	}
+}
+[t:2w_mp_townfolk_male_01,n:0x00d00516]
+{
+	[common]
+	{
+		screen_name = "Harald Juhnke";
+	}
+	[conversation]
+	{
+		[conversations]
+		{
+			* = harald;
+		}
+	}
+	[mind]
+	{
+		jat_talk = world\ai\jobs\common\job_talk.skrit;
+	}
+	[placement]
+	{
+	  p position = -0.253595,0.119987,-1.98032,0x0f2f22a7;
+	}
+}
+[t:2w_troll_forest_summon,n:0x00d005d1]
+{
+	[placement]
+	{
+	  q orientation = 0,0.190952,0,0.981599;
+	  p position = 2.63913,0,0.317107,0x0b9634e8;
+	}
+}
+[t:2w_dsx_guard_dunlop,n:0x00d0105e]
+{
+	[placement]
+	{
+	  q orientation = 0,0.62932,0,0.777146;
+	  p position = 1.24682,-9.53674e-007,1.72416,0x867cdc49;
+	}
+}
+[t:2w_dsx_deathknight,n:0x00d00dfc]
+{
+	[common]
+	{
+		screen_name = "Bonie";
+	}
+	[placement]
+	{
+	  p position = -0.399904,-1.90735e-006,1.36158,0xe3b3bd73;
+	}
+}
+[t:2w_fury,n:0x00d00dfd]
+{
+	[placement]
+	{
+	  p position = -3.82489,0,0.375903,0xdfe832e0;
+	}
+}
+[t:2w_dsx_fury,n:0x00d00dfb]
+{
+	[placement]
+	{
+	  p position = 0.919992,1.90735e-006,1.55299,0x8b8004f7;
+	}
+}
+[t:2w_guard_captain_of_crystwind,n:0x00d01150]
+{
+	[common]
+	{
+		screen_name = "Nixusminimax";
+	}
+	[conversation]
+	{
+		[conversations]
+		{
+			* = nixusminimax;
+		}
+	}
+	[inventory]
+	{
+		[equipment]
+		{
+			es_chest = bd_un_pl_f_g_c_avg;
+			es_feet = bo_bo_ch_f_g_c_avg;
+			es_forearms = gl_ga_bl_f_g_c_avg;
+			es_head = he_op_pl_roman;
+			es_weapon_hand = ax_g_c_2h1b_avg;
+		}
+		[other]
+		{
+			il_main = ax_g_c_2h1b_avg;
+			il_shield = sh_w_g_c_r_m_avg;
+		}
+	}
+	[mind]
+	{
+		jat_talk = world\ai\jobs\common\job_talk.skrit;
+	}
+	[placement]
+	{
+	  p position = -2.6738,0,-2.99855,0x220d85da;
+	}
+}
+[t:2w_mp_gypsy_female_02,n:0x00d00fdc]
+{
+	[common]
+	{
+		screen_name = "Aishe";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.87462,0,0.48481;
+	  p position = 2.53252,0,3.5424,0xff76a519;
+	}
+}
+[t:2w_dsx_utraean_elder_male_01,n:0x00d007e0]
+{
+	[conversation]
+	{
+		[conversations]
+		{
+			* = uträatussi;
+		}
+	}
+	[placement]
+	{
+	  q orientation = 0,0.793351,0,-0.608759;
+	  p position = 3.43164,-3.65,-0.241781,0x24fd28ed;
+	}
+}
+[t:2w_azunite_priestess_challe,n:0x00d007e2]
+{
+	[conversation]
+	{
+		[conversations]
+		{
+			* = durothan_zauberin;
+		}
+	}
+	[mind]
+	{
+		jat_talk = world\ai\jobs\common\job_talk.skrit;
+	}
+	[placement]
+	{
+	  q orientation = 0,0.999045,0,-0.0436193;
+	  p position = -0.794568,-3.65,3.31138,0x24fd28ed;
+	}
+}
+[t:2w_mp_gypsy_female_01,n:0x00d00933]
+{
+	[common]
+	{
+		screen_name = "Fatma";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.906308,0,0.422618;
+	  p position = 7.30324,-4.65,-3.91263,0x24fd28ed;
+	}
+}
+[t:2w_chicken_white,n:0x00d00915]
+{
+	[common]
+	{
+	  b is_multi_player = true;
+	}
+	[mind]
+	{
+	  b on_enemy_entered_weapon_engage_range_attack = true;
+	}
+	[placement]
+	{
+	  q orientation = 0,-0.707107,0,0.707107;
+	  p position = 3.71224,-2.3,-1.33684,0x6ff35a4f;
+	}
+}
+[t:2w_chicken_red,n:0x00d00918]
+{
+	[common]
+	{
+	  b is_multi_player = true;
+	}
+	[mind]
+	{
+	  b on_enemy_entered_weapon_engage_range_attack = true;
+	}
+	[placement]
+	{
+	  p position = -3.59483,-2.3,-2.72562,0x6ff35a4f;
+	}
+}
+[t:2w_chicken_red,n:0x00d00914]
+{
+	[common]
+	{
+	  b is_multi_player = true;
+	}
+	[mind]
+	{
+	  b on_enemy_entered_weapon_engage_range_attack = true;
+	}
+	[placement]
+	{
+	  q orientation = 0,0.707107,0,0.707107;
+	  p position = 1.95308,0,2.25339,0x476cbe6a;
+	}
+}
+[t:2w_chicken_white,n:0x00d00916]
+{
+	[common]
+	{
+	  b is_multi_player = true;
+	}
+	[mind]
+	{
+	  b on_enemy_entered_weapon_engage_range_attack = true;
+	}
+	[placement]
+	{
+	  p position = -0.613922,0,3.64061,0x476cbe6a;
+	}
+}
+[t:2w_chicken_grey,n:0x00d00917]
+{
+	[common]
+	{
+	  b is_multi_player = true;
+	}
+	[mind]
+	{
+	  b on_enemy_entered_weapon_engage_range_attack = true;
+	}
+	[placement]
+	{
+	  p position = 3.43211,1.90735e-006,2.15001,0x476cbe6a;
+	}
+}
+[t:2w_chicken_red_super,n:0x00d00919]
+{
+	[actor]
+	{
+		alignment = aa_neutral;
+	}
+	[aspect]
+	{
+	  f life = 1;
+	  f mana = 1;
+	  f max_life = 1;
+	  f max_mana = 1;
+	  f scale_multiplier = 1;
+	}
+	[common]
+	{
+	  b rollover_display = true;
+		screen_name = "Big Put Put";
+	}
+	[defend]
+	{
+	  f defense = 3;
+	}
+	[mind]
+	{
+	  b on_friend_entered_icz_flee = true;
+	}
+	[placement]
+	{
+	  p position = -0.269606,0,1.52408,0x476cbe6a;
+	}
+}
+[t:2w_chicken_grey,n:0x00d00910]
+{
+	[common]
+	{
+	  b is_multi_player = true;
+	}
+	[mind]
+	{
+	  b on_enemy_entered_weapon_engage_range_attack = true;
+	}
+	[placement]
+	{
+	  q orientation = 0,0.707107,0,0.707107;
+	  p position = -2.41709,1.90735e-006,-0.104431,0x7debc2b5;
+	}
+}
+[t:2w_chicken_red,n:0x00d00911]
+{
+	[common]
+	{
+	  b is_multi_player = true;
+	}
+	[mind]
+	{
+	  b on_enemy_entered_weapon_engage_range_attack = true;
+	}
+	[placement]
+	{
+	  q orientation = 0,1,0,0;
+	  p position = -3.642,0,-0.701217,0x7debc2b5;
+	}
+}
+[t:2w_cow_black_white,n:0x00d00912]
+{
+	[aspect]
+	{
+	  b is_selectable = true;
+	}
+	[body]
+	{
+	  f avg_move_velocity = 3.2;
+	}
+	[common]
+	{
+	  b is_multi_player = true;
+	  b rollover_display = true;
+		screen_name = "Susi";
+	}
+	[mind]
+	{
+	  i flee_count = 1000;
+	  f flee_distance = 4;
+	  b on_enemy_entered_weapon_engage_range_attack = true;
+	  b on_friend_entered_icz_flee = true;
+	}
+	[placement]
+	{
+	  q orientation = 0,0.833885,0,0.551937;
+	  p position = 1.59094,0,-2.43402,0x1d9cad59;
+	}
+}
+[t:2w_mule_nt_r1,n:0x00d00931]
+{
+	[mind]
+	{
+	  f flee_distance = 4;
+	  b on_friend_entered_ocz_flee = true;
+	}
+	[placement]
+	{
+	  q orientation = 0,1,0,0;
+	  p position = -0.977616,0,-2.56353,0x1d9cad59;
+	}
+}
+[t:2w_townfolk_male_05,n:0x00d00934]
+{
+	[common]
+	{
+		screen_name = "Ruediger";
+	}
+	[placement]
+	{
+	  q orientation = 0,-0.551937,0,0.833886;
+	  p position = 0.72937,-8,-3.35077,0xec755d71;
+	}
+}
+[t:2w_blacksmith_moik_stourn,n:0x00d007c0]
+{
+	[conversation]
+	{
+		[conversations]
+		{
+			* = durothan_schmied;
+		}
+	}
+	[placement]
+	{
+	  q orientation = 0,-0.61566,0,-0.788008;
+	  p position = 2.0908,-2.25,0.216108,0xde283ef7;
+	}
+}
+[t:2w_troll_forest,n:0x00d005ce]
+{
+	[placement]
+	{
+	  q orientation = 0,0.979316,0,0.202336;
+	  p position = -4.11606,-0.4,1.3187,0x38fd6895;
+	}
+}
+[t:2w_troll_forest,n:0x00d005cd]
+{
+	[placement]
+	{
+	  q orientation = 0,-0.29441,0,0.955679;
+	  p position = 1.05908,0,-1.90931,0x026819ae;
+	}
+}
+[t:2w_troll_forest_boss_01,n:0x00d005cf]
+{
+	[placement]
+	{
+	  q orientation = 0,-0.999111,0,0.0421537;
+	  p position = 0.36568,0,-0.840948,0x026819ae;
+	}
+}
+[t:2w_troll_forest_boss_01,n:0x00d005d2]
+{
+	[placement]
+	{
+	  q orientation = 0,-0.188862,0,0.982004;
+	  p position = 0.036173,0,-0.696276,0x1eadf3da;
+	}
+}

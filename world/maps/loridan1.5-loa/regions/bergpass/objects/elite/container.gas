@@ -1,0 +1,442 @@
+[t:3w_chest_ice_01_id_r1,n:0x00700713]
+{
+	[placement]
+	{
+	  q orientation = 0,-0.948324,0,-0.317304;
+	  p position = 2.92061,-17.6806,-3.84465,0x28a560a4;
+	}
+}
+[t:3w_barrel_ice_01_id_r1,n:0x00700710]
+{
+	[placement]
+	{
+	  p position = -1.40599,-12,-4.62659,0xa5ce41cd;
+	}
+}
+[t:3w_barrel_ice_01_id_r1,n:0x00700711]
+{
+	[placement]
+	{
+	  p position = -2.22228,-12,-4.39194,0xa5ce41cd;
+	}
+}
+[t:3w_barrel_ice_01_id_r1,n:0x00700712]
+{
+	[placement]
+	{
+	  p position = -0.205998,3.94915,3.23436,0x046561e0;
+	}
+}
+[t:3w_barrel_ice_01_id_r1,n:0x0070070e]
+{
+	[placement]
+	{
+	  p position = 3.98999,-1.90735e-006,-3.09697,0xb523db1a;
+	}
+}
+[t:3w_barrel_ice_01_id_r1,n:0x0070070f]
+{
+	[placement]
+	{
+	  p position = 3.05069,0,-3.21668,0xb523db1a;
+	}
+}
+[t:3w_chest_ice_01_un_id_r1,n:0x00700707]
+{
+	[placement]
+	{
+	  q orientation = 0,0.829037,0,-0.559193;
+	  p position = 0.505539,5.975,1.08559,0x2db010d9;
+	}
+}
+[t:3w_crate_ice_01_id_r2,n:0x00700708]
+{
+	[placement]
+	{
+	  p position = 2.65356,5.975,-2.25743,0x2db010d9;
+	}
+}
+[t:3w_crate_ice_02_id_r2,n:0x00700709]
+{
+	[placement]
+	{
+	  p position = 2.55257,5.975,2.6185,0x2db010d9;
+	}
+}
+[t:3w_crate_ice_02_id_r2,n:0x0070070a]
+{
+	[placement]
+	{
+	  p position = 1.04644,5.975,2.84494,0x2db010d9;
+	}
+}
+[t:3w_barrel_ice_01_id_r2,n:0x007006ff]
+{
+	[placement]
+	{
+	  p position = 3.9969,9.53674e-007,3.25134,0x84d6a1d7;
+	}
+}
+[t:3w_chest_ice_01_un_id_r2,n:0x00700706]
+{
+	[placement]
+	{
+	  q orientation = 0,0.999962,0,-0.00872665;
+	  p position = 2.78433,1.90735e-006,2.78549,0xb63c42b1;
+	}
+}
+[t:3w_chest_ice_01_id_r2,n:0x007006f5]
+{
+	[inventory]
+	{
+		[other]
+		{
+			il_main = 3w_ice_mage_boss_01;
+		}
+	}
+	[placement]
+	{
+	  q orientation = 0,0.991445,0,-0.130526;
+	  p position = -1.74359,-0.230343,-0.190882,0xe3e59620;
+	}
+}
+[t:3w_barrel_ice_01_id_r2,n:0x007006fe]
+{
+	[placement]
+	{
+	  q orientation = 0,1,0,0;
+	  p position = 1.14886,9.53674e-007,-0.839108,0xd56e3c5b;
+	}
+}
+[t:3w_crate_ice_01_id_r2,n:0x0070070b]
+{
+	[placement]
+	{
+	  p position = -3.59856,-2,-3.57156,0x0ceae08a;
+	}
+}
+[t:3w_crate_ice_01_id_r2,n:0x0070070c]
+{
+	[placement]
+	{
+	  p position = 2.76701,0,0.797226,0xbbb81e35;
+	}
+}
+[t:3w_crate_ice_01_id_r2,n:0x0070070d]
+{
+	[placement]
+	{
+	  p position = 3.11583,0,-0.228031,0xbbb81e35;
+	}
+}
+[t:3w_crate_ice_01_id_r1,n:0x00700717]
+{
+	[placement]
+	{
+	  p position = -1.04797,0,-3.29978,0x1daba17d;
+	}
+}
+[t:3w_crate_ice_01_id_r1,n:0x00700718]
+{
+	[placement]
+	{
+	  p position = -1.82314,0,-2.34714,0x1daba17d;
+	}
+}
+[t:3w_barrel_ice_01_id_r1,n:0x00700719]
+{
+	[inventory]
+	{
+		[other]
+		{
+			il_main = potion_mana_super;
+			il_main = potion_health_super;
+			il_main = potion_mana_super;
+		}
+	}
+	[placement]
+	{
+	  p position = -0.676064,0,-2.27747,0x1daba17d;
+	}
+}
+[t:3w_barrel_ice_01_id_r1,n:0x0070071a]
+{
+	[placement]
+	{
+	  p position = 0.160957,0,-3.19824,0x1daba17d;
+	}
+}
+[t:3w_barrel_ice_01_id_r1,n:0x0070071b]
+{
+	[placement]
+	{
+	  p position = -0.798584,1.90735e-006,-1.10425,0x1daba17d;
+	}
+}
+[t:3w_barrel_ice_01_id_r1,n:0x0070071c]
+{
+	[placement]
+	{
+	  p position = 0.420128,0,-1.92819,0x1daba17d;
+	}
+}
+[t:3w_barrel_ice_01_id_r1,n:0x0070071d]
+{
+	[placement]
+	{
+	  p position = 0.974945,1.90735e-006,-2.83063,0x1daba17d;
+	}
+}
+[t:3w_crate_ice_01_id_r2,n:0x00700725]
+{
+	[placement]
+	{
+	  p position = -7.19668,-3.95,-5.70615,0x14afe06a;
+	}
+}
+[t:3w_crate_ice_01_id_r2,n:0x00700726]
+{
+	[placement]
+	{
+	  p position = 1.60034,0,1.21543,0x9e49f24d;
+	}
+}
+[t:3w_crate_ice_01_id_r2,n:0x00700727]
+{
+	[placement]
+	{
+	  p position = 2.68817,0,1.10717,0x9e49f24d;
+	}
+}
+[t:3w_crate_ice_01_id_r2,n:0x00700728]
+{
+	[placement]
+	{
+	  p position = 2.19618,0,0.208643,0x9e49f24d;
+	}
+}
+[t:3w_crate_ice_01_id_r2,n:0x00700729]
+{
+	[placement]
+	{
+	  p position = 3.31438,0.0172863,-0.0437622,0x9e49f24d;
+	}
+}
+[t:3w_crate_ice_01_id_r2,n:0x0070072a]
+{
+	[placement]
+	{
+	  p position = -1.78233,-6,-3.14422,0x2251f550;
+	}
+}
+[t:3w_chest_ice_01_un_id_r1,n:0x0070072b]
+{
+	[placement]
+	{
+	  q orientation = 0,0.771625,0,0.636078;
+	  p position = -3.01328,0,-1.2859,0xf6307b50;
+	}
+}
+[t:3w_barrel_ice_01_id_r1,n:0x0070072c]
+{
+	[placement]
+	{
+	  p position = -2.9661,0,0.983087,0xf6307b50;
+	}
+}
+[t:3w_barrel_ice_01_id_r1,n:0x0070072d]
+{
+	[placement]
+	{
+	  p position = -3.31737,1.90735e-006,1.95879,0xf6307b50;
+	}
+}
+[t:3w_barrel_ice_01_id_r1,n:0x0070072e]
+{
+	[inventory]
+	{
+		[other]
+		{
+			il_main = potion_health_super;
+			il_main = potion_mana_super;
+			il_main = potion_mana_super;
+		}
+	}
+	[placement]
+	{
+	  p position = -3.31509,0,0.12088,0xf6307b50;
+	}
+}
+[t:3w_crate_ice_01_id_r2,n:0x00700723]
+{
+	[placement]
+	{
+	  p position = 3.47105,1.90735e-006,-0.997833,0x865911be;
+	}
+}
+[t:3w_crate_ice_01_id_r2,n:0x00700724]
+{
+	[placement]
+	{
+	  p position = 2.52204,3.8147e-006,-0.984589,0x865911be;
+	}
+}
+[t:3w_barrel_ice_01_id_r1,n:0x0070072f]
+{
+	[placement]
+	{
+	  p position = 0.514881,-3.90973,0.973694,0x9c74d3a9;
+	}
+}
+[t:3w_barrel_ice_01_id_r1,n:0x00700730]
+{
+	[placement]
+	{
+	  p position = -0.587066,-3.82193,0.940093,0x9c74d3a9;
+	}
+}
+[t:3w_crate_ice_01_id_r1,n:0x00700731]
+{
+	[placement]
+	{
+	  p position = -1.15698,-3.93024,0.168499,0x9c74d3a9;
+	}
+}
+[t:3w_crate_ice_02_id_r2,n:0x00700732]
+{
+	[placement]
+	{
+	  p position = 0.403717,-3.9307,-0.193752,0x9c74d3a9;
+	}
+}
+[t:3w_chest_ice_01_un_id_r2,n:0x00700721]
+{
+	[placement]
+	{
+	  q orientation = 0,0.942641,0,-0.333807;
+	  p position = -2.46578,-5.85315,-0.714327,0x9025b29a;
+	}
+}
+[t:3w_crate_ice_01_id_r1,n:0x00700722]
+{
+	[placement]
+	{
+	  p position = -0.652161,-5.59952,-1.11118,0x9025b29a;
+	}
+}
+[t:3w_barrel_ice_01_id_r2,n:0x0070071e]
+{
+	[placement]
+	{
+	  p position = -2.166,1.90735e-006,-0.536058,0x5bd3fef7;
+	}
+}
+[t:3w_barrel_ice_01_id_r2,n:0x0070071f]
+{
+	[placement]
+	{
+	  p position = -3.03527,0,-1.15106,0x5bd3fef7;
+	}
+}
+[t:3w_barrel_ice_01_id_r2,n:0x00700720]
+{
+	[placement]
+	{
+	  p position = -3.53145,1.90735e-006,-0.109402,0x5bd3fef7;
+	}
+}
+[t:3w_crate_ice_01_id_r1,n:0x00700715]
+{
+	[placement]
+	{
+	  p position = 0.997573,-2,-1.36022,0x11f56e10;
+	}
+}
+[t:3w_crate_ice_01_id_r1,n:0x00700716]
+{
+	[placement]
+	{
+	  p position = -0.12674,-1.92397,-1.56747,0x11f56e10;
+	}
+}
+[t:3w_crate_ice_01_id_r1,n:0x007006a7]
+{
+	[inventory]
+	{
+		[other]
+		{
+			il_main = potion_mana_super;
+			il_main = potion_mana_super;
+		}
+	}
+	[placement]
+	{
+	  p position = 0.466998,-1.90735e-006,0.893944,0xccf6db55;
+	}
+}
+[t:3w_crate_ice_01_id_r1,n:0x007006ee]
+{
+	[placement]
+	{
+	  p position = 0.497429,-1.19209e-006,1.94046,0xccf6db55;
+	}
+}
+[t:3w_crate_ice_01_id_r1,n:0x007006ef]
+{
+	[inventory]
+	{
+		[other]
+		{
+			il_main = potion_health_super;
+			il_main = potion_health_super;
+			il_main = potion_mana_super;
+		}
+	}
+	[placement]
+	{
+	  p position = -0.387081,2.6226e-006,1.26946,0xccf6db55;
+	}
+}
+[t:3w_barrel_ice_01_id_r1,n:0x007006f0]
+{
+	[placement]
+	{
+	  p position = 0.500557,6,1.00404,0x5e48f63c;
+	}
+}
+[t:3w_barrel_ice_01_id_r1,n:0x007006f2]
+{
+	[placement]
+	{
+	  p position = -0.226013,5.99999,0.877835,0x5e48f63c;
+	}
+}
+[t:3w_barrel_ice_01_id_r2,n:0x007006f3]
+{
+	[placement]
+	{
+	  p position = 1.62588,0,3.51625,0xf5dd5769;
+	}
+}
+[t:3w_barrel_ice_01_id_r2,n:0x007006f4]
+{
+	[inventory]
+	{
+		[other]
+		{
+			il_main = potion_health_super;
+			il_main = potion_mana_super;
+		}
+	}
+	[placement]
+	{
+	  p position = 0.93972,-1.90735e-006,3.09089,0xf5dd5769;
+	}
+}
+[t:3w_barrel_ice_supplies_02,n:0x007002d0]
+{
+	[placement]
+	{
+	  p position = 1.67924,-3.81219,-5.04306,0xe7acc0ba;
+	}
+}

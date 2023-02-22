@@ -1,0 +1,479 @@
+[start_positions]
+{
+	[t:start_group,n:default]
+	{
+	  b default = true;
+		description = "Hier gibt`s die besten Waffen und Tränke.";
+	  b dev_only = false;
+	  i id = 1;
+		screen_name = "galtohar";
+		[start_position]
+		{
+		  i id = 5;
+			position = 2.758059,0.000000,1.812553,0x1E8B70E3;
+			[camera]
+			{
+			  f azimuth = 0.500000;
+			  f distance = 20.000000;
+			  f orbit = 0.000000;
+				position = 2.758059,0.000000,1.812553,0x1E8B70E3;
+			}
+		}
+		[start_position]
+		{
+		  i id = 7;
+			position = -1.294386,0.000000,-3.113491,0x13D8AEB9;
+			[camera]
+			{
+			  f azimuth = 0.500000;
+			  f distance = 20.000000;
+			  f orbit = 0.000000;
+				position = -1.294386,0.000000,-3.113491,0x13D8AEB9;
+			}
+		}
+		[start_position]
+		{
+		  i id = 6;
+			position = 2.723892,0.000000,-0.722931,0x263CC2B4;
+			[camera]
+			{
+			  f azimuth = 0.500000;
+			  f distance = 20.000000;
+			  f orbit = 0.000000;
+				position = 2.723892,0.000000,-0.722931,0x263CC2B4;
+			}
+		}
+		[start_position]
+		{
+		  i id = 8;
+			position = 2.452248,-1.000000,-3.685287,0xDF5DA301;
+			[camera]
+			{
+			  f azimuth = 0.500000;
+			  f distance = 20.000000;
+			  f orbit = 0.000000;
+				position = 2.452248,-1.000000,-3.685287,0xDF5DA301;
+			}
+		}
+		[start_position]
+		{
+		  i id = 3;
+			position = -0.155233,0.000000,2.692665,0x2F8BB50E;
+			[camera]
+			{
+			  f azimuth = 0.500000;
+			  f distance = 20.000000;
+			  f orbit = 0.000000;
+				position = -0.155233,0.000000,2.692665,0x2F8BB50E;
+			}
+		}
+		[start_position]
+		{
+		  i id = 2;
+			position = -0.320740,0.000000,-0.916182,0x6EC49A4B;
+			[camera]
+			{
+			  f azimuth = 0.500000;
+			  f distance = 20.000000;
+			  f orbit = 0.000000;
+				position = -0.320740,0.000000,-0.916182,0x6EC49A4B;
+			}
+		}
+		[start_position]
+		{
+		  i id = 4;
+			position = -2.982849,0.000000,-0.214574,0xCDAE4E2C;
+			[camera]
+			{
+			  f azimuth = 0.500000;
+			  f distance = 20.000000;
+			  f orbit = 0.000000;
+				position = -2.982849,0.000000,-0.214574,0xCDAE4E2C;
+			}
+		}
+		[start_position]
+		{
+		  i id = 1;
+			position = -0.376587,0.000000,-2.989374,0x91DC85CE;
+			[camera]
+			{
+			  f azimuth = 0.500000;
+			  f distance = 20.000000;
+			  f orbit = 0.000000;
+				position = -0.376587,0.000000,-2.989374,0x91DC85CE;
+			}
+		}
+		[world_levels]
+		{
+			[elite]
+			{
+			  required_level = 82;
+			}
+			[normal]
+			{
+			  required_level = 0;
+			}
+			[veteran]
+			{
+			  required_level = 54;
+			}
+		}
+	}
+	[t:start_group,n:durathan]
+	{
+	  b default = false;
+		description = "welcome in durathan";
+	  b dev_only = false;
+	  i id = 4;
+		screen_name = "durathan";
+		[start_position]
+		{
+		  i id = 9;
+			position = 3.279079,0.000000,-3.318878,0x3B140F3E;
+			[camera]
+			{
+			  f azimuth = 0.500000;
+			  f distance = 20.000000;
+			  f orbit = 0.000000;
+				position = 3.279079,0.000000,-3.318878,0x3B140F3E;
+			}
+		}
+		[start_position]
+		{
+		  i id = 10;
+			position = 3.222397,0.000004,2.520912,0xD222FCA9;
+			[camera]
+			{
+			  f azimuth = 0.500000;
+			  f distance = 20.000000;
+			  f orbit = 0.000000;
+				position = 3.222397,0.000004,2.520912,0xD222FCA9;
+			}
+		}
+		[start_position]
+		{
+		  i id = 9;
+			position = -1.552628,0.000000,0.246552,0xD222FCA9;
+			[camera]
+			{
+			  f azimuth = 0.500000;
+			  f distance = 20.000000;
+			  f orbit = 0.000000;
+				position = -1.552628,0.000000,0.246552,0xD222FCA9;
+			}
+		}
+		[start_position]
+		{
+		  i id = 9;
+			position = 2.036711,0.000004,0.591888,0x3B140F3E;
+			[camera]
+			{
+			  f azimuth = 0.500000;
+			  f distance = 20.000000;
+			  f orbit = 0.000000;
+				position = 2.036711,0.000004,0.591888,0x3B140F3E;
+			}
+		}
+		[start_position]
+		{
+		  i id = 9;
+			position = 0.793425,0.000002,0.891312,0xC376A79E;
+			[camera]
+			{
+			  f azimuth = 0.500000;
+			  f distance = 20.000000;
+			  f orbit = 0.000000;
+				position = 0.793425,0.000002,0.891312,0xC376A79E;
+			}
+		}
+		[start_position]
+		{
+		  i id = 10;
+			position = 1.609909,0.000002,1.251207,0x840F2B16;
+			[camera]
+			{
+			  f azimuth = 0.500000;
+			  f distance = 20.000000;
+			  f orbit = 0.000000;
+				position = 1.609909,0.000002,1.251207,0x840F2B16;
+			}
+		}
+		[start_position]
+		{
+		  i id = 9;
+			position = 3.425331,0.000000,-0.040589,0x8991D7C8;
+			[camera]
+			{
+			  f azimuth = 0.500000;
+			  f distance = 20.000000;
+			  f orbit = 0.000000;
+				position = 3.425331,0.000000,-0.040589,0x8991D7C8;
+			}
+		}
+		[start_position]
+		{
+		  i id = 10;
+			position = 1.376655,0.000000,-0.275589,0x287BC35B;
+			[camera]
+			{
+			  f azimuth = 0.500000;
+			  f distance = 20.000000;
+			  f orbit = 0.000000;
+				position = 1.376655,0.000000,-0.275589,0x287BC35B;
+			}
+		}
+		[world_levels]
+		{
+			[elite]
+			{
+			  required_level = 89;
+			}
+			[normal]
+			{
+			  required_level = 16;
+			}
+			[veteran]
+			{
+			  required_level = 63;
+			}
+		}
+	}
+	[t:start_group,n:himmelpfort]
+	{
+	  b default = false;
+		description = "Stadt der Engel";
+	  b dev_only = false;
+	  i id = 3;
+		screen_name = "Himmelpfort";
+		[start_position]
+		{
+		  i id = 1;
+			position = 0.583275,0.000000,-0.438829,0xC260B142;
+			[camera]
+			{
+			  f azimuth = 0.500000;
+			  f distance = 20.000000;
+			  f orbit = 0.000000;
+				position = 0.583275,0.000000,-0.438829,0xC260B142;
+			}
+		}
+		[start_position]
+		{
+		  i id = 2;
+			position = 3.221134,0.000000,1.370867,0xA0329BEF;
+			[camera]
+			{
+			  f azimuth = 0.500000;
+			  f distance = 20.000000;
+			  f orbit = 0.000000;
+				position = 3.221134,0.000000,1.370867,0xA0329BEF;
+			}
+		}
+		[start_position]
+		{
+		  i id = 3;
+			position = 2.112442,0.000000,2.329745,0xD71B194D;
+			[camera]
+			{
+			  f azimuth = 0.500000;
+			  f distance = 20.000000;
+			  f orbit = 0.000000;
+				position = 2.112442,0.000000,2.329745,0xD71B194D;
+			}
+		}
+		[start_position]
+		{
+		  i id = 4;
+			position = 0.186945,0.000000,1.559746,0x18A34B64;
+			[camera]
+			{
+			  f azimuth = 0.500000;
+			  f distance = 20.000000;
+			  f orbit = 0.000000;
+				position = 0.186945,0.000000,1.559746,0x18A34B64;
+			}
+		}
+		[start_position]
+		{
+		  i id = 5;
+			position = -2.790422,0.000000,1.498505,0xE875BF2D;
+			[camera]
+			{
+			  f azimuth = 0.500000;
+			  f distance = 20.000000;
+			  f orbit = 0.000000;
+				position = -2.790422,0.000000,1.498505,0xE875BF2D;
+			}
+		}
+		[start_position]
+		{
+		  i id = 6;
+			position = 0.095474,0.000000,1.260312,0xACAAAB7B;
+			[camera]
+			{
+			  f azimuth = 0.500000;
+			  f distance = 20.000000;
+			  f orbit = 0.000000;
+				position = 0.095474,0.000000,1.260312,0xACAAAB7B;
+			}
+		}
+		[start_position]
+		{
+		  i id = 8;
+			position = 2.450556,0.000000,2.778373,0x22744EBE;
+			[camera]
+			{
+			  f azimuth = 0.500000;
+			  f distance = 20.000000;
+			  f orbit = 0.000000;
+				position = 2.450556,0.000000,2.778373,0x22744EBE;
+			}
+		}
+		[start_position]
+		{
+		  i id = 7;
+			position = 0.909105,0.000000,-0.584175,0x22744EBE;
+			[camera]
+			{
+			  f azimuth = 0.500000;
+			  f distance = 20.000000;
+			  f orbit = 0.000000;
+				position = 0.909105,0.000000,-0.584175,0x22744EBE;
+			}
+		}
+		[world_levels]
+		{
+			[elite]
+			{
+			  required_level = 86;
+			}
+			[normal]
+			{
+			  required_level = 10;
+			}
+			[veteran]
+			{
+			  required_level = 59;
+			}
+		}
+	}
+	[t:start_group,n:winterdorf]
+	{
+	  b default = false;
+		description = "zieh dich warm an";
+	  b dev_only = false;
+	  i id = 2;
+		screen_name = "Winterdorf";
+		[start_position]
+		{
+		  i id = 1;
+			position = 0.441437,0.000000,-0.549553,0x555F3661;
+			[camera]
+			{
+			  f azimuth = 0.500000;
+			  f distance = 20.000000;
+			  f orbit = 0.000000;
+				position = 0.441437,0.000000,-0.549553,0x555F3661;
+			}
+		}
+		[start_position]
+		{
+		  i id = 5;
+			position = -1.043633,0.000000,-3.225060,0x36EEA26F;
+			[camera]
+			{
+			  f azimuth = 0.500000;
+			  f distance = 20.000000;
+			  f orbit = 0.000000;
+				position = -1.043633,0.000000,-3.225060,0x36EEA26F;
+			}
+		}
+		[start_position]
+		{
+		  i id = 6;
+			position = 3.442015,0.000000,-1.008934,0xBAF37AB9;
+			[camera]
+			{
+			  f azimuth = 0.500000;
+			  f distance = 20.000000;
+			  f orbit = 0.000000;
+				position = 3.442015,0.000000,-1.008934,0xBAF37AB9;
+			}
+		}
+		[start_position]
+		{
+		  i id = 7;
+			position = 2.557796,0.000000,-2.980049,0xA84E6D42;
+			[camera]
+			{
+			  f azimuth = 0.500000;
+			  f distance = 20.000000;
+			  f orbit = 0.000000;
+				position = 2.557796,0.000000,-2.980049,0xA84E6D42;
+			}
+		}
+		[start_position]
+		{
+		  i id = 4;
+			position = 3.231091,0.000000,3.775116,0xA84E6D42;
+			[camera]
+			{
+			  f azimuth = 0.500000;
+			  f distance = 20.000000;
+			  f orbit = 0.000000;
+				position = 3.231091,0.000000,3.775116,0xA84E6D42;
+			}
+		}
+		[start_position]
+		{
+		  i id = 3;
+			position = -2.065372,0.000000,-0.607330,0xA24FE313;
+			[camera]
+			{
+			  f azimuth = 0.500000;
+			  f distance = 20.000000;
+			  f orbit = 0.000000;
+				position = -2.065372,0.000000,-0.607330,0xA24FE313;
+			}
+		}
+		[start_position]
+		{
+		  i id = 2;
+			position = 1.670295,0.000000,1.089745,0x6B9693C5;
+			[camera]
+			{
+			  f azimuth = 0.500000;
+			  f distance = 20.000000;
+			  f orbit = 0.000000;
+				position = 1.670295,0.000000,1.089745,0x6B9693C5;
+			}
+		}
+		[start_position]
+		{
+		  i id = 8;
+			position = -0.210426,0.000000,-0.727409,0x230B8E9D;
+			[camera]
+			{
+			  f azimuth = 0.500000;
+			  f distance = 20.000000;
+			  f orbit = 0.000000;
+				position = -0.210426,0.000000,-0.727409,0x230B8E9D;
+			}
+		}
+		[world_levels]
+		{
+			[elite]
+			{
+			  required_level = 84;
+			}
+			[normal]
+			{
+			  required_level = 6;
+			}
+			[veteran]
+			{
+			  required_level = 56;
+			}
+		}
+	}
+}

@@ -1,0 +1,231 @@
+[t:3w_chest_csl_08_un_fd_r1,n:0x00a0088a]
+{
+	[placement]
+	{
+	  q orientation = 0,0.453991,0,0.891006;
+	  p position = -26.543,1.45001,32.4992,0x957a6edf;
+	}
+}
+[t:3w_barrel_swp_01_ds_r2,n:0x00a00707]
+{
+	[placement]
+	{
+	  p position = -1.64585,-5.61195,-0.187563,0x7c0b9d98;
+	}
+}
+[t:3w_barrel_swp_01_ds_r2,n:0x00a00708]
+{
+	[placement]
+	{
+	  p position = -2.96511,-5.80172,0.0721569,0x7c0b9d98;
+	}
+}
+[t:3w_barrel_swp_01_ds_r2,n:0x00a0070a]
+{
+	[placement]
+	{
+	  p position = -3.67519,-6,-0.658464,0x7c0b9d98;
+	}
+}
+[t:3w_barrel_swp_01_ds_r2,n:0x00a0070b]
+{
+	[placement]
+	{
+	  p position = -2.29113,-5.8989,-1.14445,0x7c0b9d98;
+	}
+}
+[t:3w_chest_grs_02_ds_r2,n:0x00a0070d]
+{
+	[placement]
+	{
+	  q orientation = 0,0.909961,0,-0.414693;
+	  p position = 1.99945,3.8147e-006,1.67055,0x75b4e75d;
+	}
+}
+[t:3w_barrel_swp_01_ds_r2,n:0x00a00709]
+{
+	[placement]
+	{
+	  p position = -2.63413,3.8147e-006,1.65695,0xb84f7583;
+	}
+}
+[t:3w_barrel_swp_01_ds_r2,n:0x00a0070c]
+{
+	[placement]
+	{
+	  p position = -1.30879,1.90735e-006,0.947681,0xb84f7583;
+	}
+}
+[t:3w_chest_grs_02_ds_r2,n:0x00a00730]
+{
+	[placement]
+	{
+	  q orientation = 0,0.891006,0,-0.453991;
+	  p position = 0.117074,1.90735e-006,1.96079,0x0118d9f5;
+	}
+}
+[t:3w_chest_csl_02_ds_r2,n:0x00a00731]
+{
+	[placement]
+	{
+	  q orientation = 0,0.622515,0,-0.782608;
+	  p position = 2.33438,3.8147e-006,-1.50371,0x0118d9f5;
+	}
+}
+[t:3w_barrel_swp_01_ds_r2,n:0x00a0072d]
+{
+	[placement]
+	{
+	  p position = 2.36198,-3.82294,-4.63467,0x0d2b9160;
+	}
+}
+[t:3w_barrel_swp_01_ds_r2,n:0x00a0072e]
+{
+	[placement]
+	{
+	  p position = 2.54755,-4,-5.90045,0x0d2b9160;
+	}
+}
+[t:3w_barrel_swp_01_ds_r2,n:0x00a0072f]
+{
+	[placement]
+	{
+	  p position = 3.688,-4,-4.66675,0x0d2b9160;
+	}
+}
+[t:3w_chest_cav_01_un_dunes2hades,n:0x00a00701]
+{
+	[placement]
+	{
+	  q orientation = 0,0.649448,0,-0.760406;
+	  p position = 0.274267,2,-3.41044,0x2f7037c0;
+	}
+}
+[t:3w_barrel_swp_01_ds_r2,n:0x00a00702]
+{
+	[placement]
+	{
+	  p position = -1.26587,3.8147e-006,0.836008,0xb55a108e;
+	}
+}
+[t:3w_barrel_swp_01_ds_r2,n:0x00a00703]
+{
+	[placement]
+	{
+	  p position = -2.40097,2.86102e-006,1.02322,0xb55a108e;
+	}
+}
+[t:3w_barrel_swp_01_ds_r2,n:0x00a00704]
+{
+	[placement]
+	{
+	  p position = -3.27217,2.86102e-006,1.23029,0xb55a108e;
+	}
+}
+[t:3w_barrel_swp_01_ds_r2,n:0x00a00705]
+{
+	[placement]
+	{
+	  p position = -3.04896,2.86102e-006,0.329062,0xb55a108e;
+	}
+}
+[t:3w_barrel_swp_01_ds_r2,n:0x00a00706]
+{
+	[placement]
+	{
+	  p position = -1.83618,1.90735e-006,0.238053,0xb55a108e;
+	}
+}
+[t:3w_crate_grs_03_dm_r8,n:0x00a00767]
+{
+	[placement]
+	{
+	  p position = 0.688221,3.8147e-006,0.507902,0x0599f2c9;
+	}
+}
+[t:3w_crate_grs_03_dm_r8,n:0x00a00768]
+{
+	[placement]
+	{
+	  p position = 1.62773,1.90735e-006,-0.431762,0x0599f2c9;
+	}
+}
+[t:3w_crate_grs_03_dm_r8,n:0x00a00769]
+{
+	[placement]
+	{
+	  p position = 0.313311,9.53674e-007,-1.10917,0x0599f2c9;
+	}
+}
+[t:3w_crate_grs_03_dm_r8,n:0x00a0076a]
+{
+	[placement]
+	{
+	  p position = -1.11723,1.90735e-006,-1.80617,0x0599f2c9;
+	}
+}
+[t:3w_crate_grs_03_dm_r8,n:0x00a0076b]
+{
+	[placement]
+	{
+	  p position = -0.95523,9.53674e-007,-0.523955,0x0599f2c9;
+	}
+}
+[t:3w_crate_grs_03_dm_r8,n:0x00a0076c]
+{
+	[placement]
+	{
+	  p position = -0.452367,1.90735e-006,0.662378,0x0599f2c9;
+	}
+}
+[t:3w_crate_grs_03_dm_r8,n:0x00a0076d]
+{
+	[placement]
+	{
+	  p position = 1.7787,0,0.879364,0x0599f2c9;
+	}
+}
+[t:3w_barrel_cav_02_dm_r8,n:0x00a00763]
+{
+	[placement]
+	{
+	  p position = -1.27767,7.62939e-006,-2.96016,0x1aca47db;
+	}
+}
+[t:3w_barrel_cav_02_dm_r8,n:0x00a00764]
+{
+	[placement]
+	{
+	  p position = -2.46815,7.62939e-006,-2.67813,0x1aca47db;
+	}
+}
+[t:3w_barrel_cav_02_dm_r8,n:0x00a00765]
+{
+	[placement]
+	{
+	  p position = -3.57951,3.8147e-006,-2.79207,0x1aca47db;
+	}
+}
+[t:3w_barrel_cav_02_dm_r8,n:0x00a00766]
+{
+	[placement]
+	{
+	  p position = -1.53763,-5.95062,-3.69067,0x05f5cc9b;
+	}
+}
+[t:3w_chest_csl_03_dm_r8,n:0x00a0076f]
+{
+	[placement]
+	{
+	  q orientation = 0,-0.731354,0,0.681998;
+	  p position = 3.33152,-3.99995,-1.71176,0x32721010;
+	}
+}
+[t:3w_footlocker_glb_01_dm_r8,n:0x00a0076e]
+{
+	[placement]
+	{
+	  q orientation = 0,0.803857,0,0.594823;
+	  p position = -5.90532,-3.82426,-4.05751,0x23d74f33;
+	}
+}

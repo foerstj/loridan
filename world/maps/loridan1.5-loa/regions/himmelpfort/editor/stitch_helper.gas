@@ -1,0 +1,21 @@
+[stitch_helper_data]
+{
+	source_region_guid = 0x0000000A;
+	source_region_name = himmelpfort;
+	[t:stitch_editor,n:d_g_h]
+	{
+		dest_region = d_g_h;
+		[node_ids]
+		{
+			0x00000011 = 0x56A1E9FA,10;
+		}
+	}
+	[t:stitch_editor,n:trog]
+	{
+		dest_region = trog;
+		[node_ids]
+		{
+			0x00000012 = 0xD145E7C6,7;
+		}
+	}
+}

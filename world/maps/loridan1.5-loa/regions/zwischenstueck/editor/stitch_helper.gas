@@ -1,0 +1,21 @@
+[stitch_helper_data]
+{
+	source_region_guid = 0x0000000E;
+	source_region_name = zwischenstueck;
+	[t:stitch_editor,n:durathan]
+	{
+		dest_region = durathan;
+		[node_ids]
+		{
+			0x00000014 = 0x98675454,10;
+		}
+	}
+	[t:stitch_editor,n:trog]
+	{
+		dest_region = trog;
+		[node_ids]
+		{
+			0x00000013 = 0xB4FE7FD1,10;
+		}
+	}
+}

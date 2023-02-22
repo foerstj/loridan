@@ -1,0 +1,76 @@
+[clint]
+{
+	[text*]
+	{
+		screen_text = "Hallo Fremder
+Wir versuchen hier die Stellung zu halten bis Verstärkung kommt.
+Odin und Bronzebart sind die 2 dicksten.......ähm.......kampfstärksten Zwerge die ich je sah. Ohne diese beiden würde es schlecht um uns stehen.";
+	  f scroll_rate = 10.000000;
+	}
+}
+[durothan_schmied]
+{
+	[text*]
+	{
+		choice = shop;
+		screen_text = "Moin Moin
+Wat hamm`se denn für Sorgen?
+Klinge stumpf oder Rost an der Rüstung?
+";
+	  f scroll_rate = 10.000000;
+	}
+}
+[durothan_zauberin]
+{
+	[text*]
+	{
+		choice = shop;
+		screen_text = "Kommt nur Herein und schaut was ich für Euch habe.";
+	  f scroll_rate = 10.000000;
+	}
+}
+[else]
+{
+	[text*]
+	{
+		screen_text = "Guten Tag
+Ich bin Else Kling. Darf ich Dir zur Stärkung etwas Buttermilch anbieten?";
+	  f scroll_rate = 10.000000;
+	}
+}
+[harald]
+{
+	[text*]
+	{
+		choice = more;
+	  i order = 0;
+		screen_text = "Hallo
+Kennst Du meine Alte schon?
+Ich frag mich noch immer wieso ich diese Kratzbuerste geheiratet habe.";
+	  f scroll_rate = 10.000000;
+	}
+	[text*]
+	{
+	  i order = 1;
+		screen_text = "Hast Du nicht zufällig ein Fläschchen Weinbrand? Mir ist so komisch, ich fühle mich.........so..........nüchtern.";
+	  f scroll_rate = 10.000000;
+	}
+}
+[nixusminimax]
+{
+	[text*]
+	{
+		screen_text = "Geht besser nicht da hinter. Ich sah dort schreckliche Kreaturen.";
+	  f scroll_rate = 10.000000;
+	}
+}
+[uträatussi]
+{
+	[text*]
+	{
+		screen_text = "Hallo
+Ich bin das Überbleibsel einer alten Clownfamilie.
+Leider geht meine Schminke auch langsam zur Neige.";
+	  f scroll_rate = 10.000000;
+	}
+}

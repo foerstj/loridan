@@ -1,0 +1,16 @@
+[hilfe]
+{
+	[text*]
+	{
+		screen_text = "Endlich läßt sich mal jemand blicken. Ich sitze hier 2 Tage fest. Mein Bruder hat ein Haus im Gadewitzer Busch. Er wollte mich vor 4 Tagen besuchen. Doch als er Vorgestern immer noch nicht bei mir war, machte ich mich auf den Weg ihn zu suchen. ";
+	  f scroll_rate = 10.000000;
+	}
+}
+[endlich]
+{
+	[text*]
+	{
+		screen_text = "Habt Ihr was von meinem Bruder gehört?.";
+	  f scroll_rate = 10.000000;
+	}
+}
