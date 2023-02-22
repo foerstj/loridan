@@ -2,7 +2,7 @@
 {
 	description = "Willkommen im Land Loridan";
   b dev_only = false;
-	screen_name = "Loridan ver. 1.5-LoA";
+	screen_name = "Loridan (remastered)";
 	timeofday = 0h0m;
   b use_node_mesh_index = true;
   f world_frustum_radius = 45.000000;
