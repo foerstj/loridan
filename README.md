@@ -11,6 +11,8 @@ This map is re-buildable and editable. I opened & saved every region in Siege Ed
   The internal name is *world/maps/loridan*.\
   The generated file name is *Dungeon Siege/DSLOA/Loridan.dsmap*.\
   The ingame name is *Loridan (remastered)*.
+- The veteran & elite world levels are auto-generated. Siege Editor cannot handle them and deletes them when opening & saving a region anyway.
+- Fixed umlaut in conversation id
 
 ## How to build
 
