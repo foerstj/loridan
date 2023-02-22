@@ -1,0 +1,13 @@
+[stitch_helper_data]
+{
+	source_region_guid = 0x00000001;
+	source_region_name = galtohar;
+	[t:stitch_editor,n:gadewitzer_busch]
+	{
+		dest_region = gadewitzer_busch;
+		[node_ids]
+		{
+			0x00000001 = 0x92A8D6B4,7;
+		}
+	}
+}

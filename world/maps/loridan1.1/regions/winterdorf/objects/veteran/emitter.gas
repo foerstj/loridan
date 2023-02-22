@@ -1,0 +1,37 @@
+[t:emitter_glb_smoke_01,n:0x004004a8]
+{
+	[placement]
+	{
+	  p position = 4.11725,4.77746,4.5962,0xa526c8db;
+	}
+}
+[t:emitter_glb_smoke_01,n:0x004004a7]
+{
+	[placement]
+	{
+	  p position = -5.63861,4.35665,3.4957,0xbc551468;
+	}
+}
+[t:emitter_glb_smoke_01,n:0x004004a6]
+{
+	[placement]
+	{
+	  p position = 0.743241,4.89455,0.770278,0x84ae7a2f;
+	}
+}
+[t:emitter_glb_smoke_01,n:0x004004a5]
+{
+	[placement]
+	{
+	  q orientation = 0,1,0,0;
+	  p position = -5.06723,4.53493,0.173412,0xbdbac130;
+	}
+}
+[t:emitter_glb_smoke_01,n:0x004004a9]
+{
+	[placement]
+	{
+	  q orientation = 0,-0.707107,0,0.707107;
+	  p position = -4.26275,10.3747,1.53185,0xf5a48e8e;
+	}
+}

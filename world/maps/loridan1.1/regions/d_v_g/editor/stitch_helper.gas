@@ -1,0 +1,14 @@
+[stitch_helper_data]
+{
+	source_region_guid = 0x00000008;
+	source_region_name = d_v_g;
+	[t:stitch_editor,n:bergpass]
+	{
+		dest_region = bergpass;
+		[node_ids]
+		{
+			0x00000008 = 0x3224C07F,1;
+			0x00000009 = 0x11A7D054,1;
+		}
+	}
+}

@@ -1,0 +1,12 @@
+[t:cmd_camera_move,n:0x00600016]
+{
+	[cmd_camera_move]
+	{
+	  f distance = 15;
+	}
+	[placement]
+	{
+	  q orientation = -0.118428,0.671637,-0.114409,-0.722349;
+	  p position = 2.43358,19.8996,-0.625351,0x5c1cd9ec;
+	}
+}

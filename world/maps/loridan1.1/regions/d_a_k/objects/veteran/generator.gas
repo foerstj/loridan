@@ -1,0 +1,60 @@
+[t:generator_generic,n:0x0060001b]
+{
+	[generator_basic]
+	{
+		child_template_name = "2w_klaw";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.547856,0,0.836573;
+	  p position = -0.160503,0,-0.0323091,0x7e388d2f;
+	}
+}
+[t:generator_generic,n:0x0060002a]
+{
+	[generator_basic]
+	{
+		child_template_name = "2w_klaw";
+	}
+	[placement]
+	{
+	  q orientation = 0,-0.829057,0,0.559165;
+	  p position = -1.53653,0,0.838112,0xd4352884;
+	}
+}
+[t:generator_generic,n:0x0060002b]
+{
+	[generator_basic]
+	{
+		child_template_name = "2w_klaw";
+	}
+	[placement]
+	{
+	  q orientation = 0,-0.83697,0,0.547249;
+	  p position = 1.74061,-0.5,1.93226,0xf48d3243;
+	}
+}
+[t:generator_generic,n:0x00600087]
+{
+	[generator_basic]
+	{
+		child_template_name = "2w_klaw_boss_01";
+	}
+	[placement]
+	{
+	  q orientation = 0,-0.520129,0,0.854088;
+	  p position = 1.27771,0,0.132191,0xdc822510;
+	}
+}
+[t:generator_generic,n:0x00600084]
+{
+	[generator_basic]
+	{
+		child_template_name = "2w_klaw_boss_01";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.981983,0,-0.18897;
+	  p position = 1.00867,0,-1.35417,0xd5105c35;
+	}
+}

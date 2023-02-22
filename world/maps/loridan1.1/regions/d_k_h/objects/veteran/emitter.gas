@@ -1,0 +1,14 @@
+[t:emt_sound_act,n:0x0030001a]
+{
+	[placement]
+	{
+	  q orientation = 0,-0.707107,0,0.707107;
+	  p position = 0.465858,-0.75,0.17511,0x01aa3c91;
+	}
+	[sound_emitter_act]
+	{
+		event_sound = "env_shrine_mana";
+	  f max_dist = 15;
+	  b start_on_creation = false;
+	}
+}

@@ -1,0 +1,107 @@
+[t:lever_glb_05,n:0x0030002d]
+{
+	[on_off_lever]
+	{
+		off_message = we_req_activate;
+	  x off_scid = 0x00300030;
+	  x on_scid = 0x00300030;
+	}
+	[placement]
+	{
+	  q orientation = 0,1,0,0;
+	  p position = 0.382111,0,-0.338074,0x6a279bb7;
+		use_point_scids = 0x00300027,0x00300028;
+	}
+}
+[t:lever_glb_05,n:0x0030002e]
+{
+	[on_off_lever]
+	{
+		off_message = we_req_activate;
+	  x off_scid = 0x00300030;
+	  x on_scid = 0x00300030;
+	}
+	[placement]
+	{
+	  p position = -5.98096,3.9,1.06046,0x8ee7364a;
+		use_point_scids = 0x00300026,0x00300028;
+	}
+}
+[t:respawn_statue,n:0x00300024]
+{
+	[placement]
+	{
+	  q orientation = 0,0.814116,0,0.580703;
+	  p position = -3.66174,-12,-4.51886,0x6c4d15bf;
+		use_point_scids = 0x00300025;
+	}
+}
+[t:debris_glb_bone_rock_breakable_01,n:0x00300011]
+{
+	[placement]
+	{
+	  q orientation = 0,0.707107,0,0.707107;
+	  p position = -1.56526,-2,-3.4617,0x3faaecf1;
+	}
+}
+[t:debris_glb_bone_rock_breakable_02,n:0x00300016]
+{
+	[placement]
+	{
+	  q orientation = 0,0.707107,0,0.707107;
+	  p position = -1.63826,-1.95008,-1.33335,0x3faaecf1;
+	}
+}
+[t:debris_glb_bone_rock_breakable_03,n:0x00300017]
+{
+	[placement]
+	{
+	  p position = 3.92484,-4,-3.48997,0xb03520f3;
+	}
+}
+[t:debris_glb_bone_rock_breakable_05,n:0x00300019]
+{
+	[placement]
+	{
+	  q orientation = 0,0.743145,0,-0.669131;
+	  p position = 3.38083,-4,-4.6852,0xb03520f3;
+	}
+}
+[t:debris_glb_bone_rock_breakable_04,n:0x00300018]
+{
+	[placement]
+	{
+	  p position = -2.64731,7.90228,3.64263,0x5e90229d;
+	}
+}
+[t:debris_glb_bone_rock_breakable_01,n:0x0030001c]
+{
+	[placement]
+	{
+	  p position = 2.20958,8,5.40319,0x5e90229d;
+	}
+}
+[t:sign_glb_01,n:0x00300114]
+{
+	[common]
+	{
+		screen_name = "winterdorf";
+	}
+	[placement]
+	{
+	  q orientation = 0,1,0,-4.37114e-008;
+	  p position = -2.76837,-0.261929,1.17719,0x46c11534;
+	}
+}
+[t:sign_glb_01,n:0x00300115]
+{
+	[common]
+	{
+		screen_name = "galtohar";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.636078,0,-0.771625;
+	  p position = -3.19202,-0.299997,1.39565,0x46c11534;
+	}
+}

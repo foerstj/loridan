@@ -1,0 +1,17 @@
+[t:elevator_2s_1c_1n,n:0x00800010]
+{
+	[elevator_2s_1c_1n]
+	{
+	  i connect_door_level1 = 9;
+	  i connect_door_level2 = 10;
+	  x connect_node = 0x9FA49EFD;
+	  f duration = 25;
+	  i elevator_door_level1 = 2;
+	  i elevator_door_level2 = 2;
+	  x elevator_node = 0xA23A78E8;
+	}
+	[placement]
+	{
+	  p position = -2.66663,0,1.5423,0x2588eb7a;
+	}
+}

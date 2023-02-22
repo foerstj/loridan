@@ -1,0 +1,42 @@
+[conv_akira]
+{
+	[text*]
+	{
+		screen_text = "Halt! Ich muß Euch warnen, der Weg nach Winterdorf wird von wilden Kreaturen blockiert.
+Sicher habt Ihr auch bemerkt das Galtohar ziemlich verlassen ist. Nun, die sind wohl noch alle in Himmelpfort bei der Hochzeit.
+Leider ist das Reisezentrum schon in den Händen dieser Monster und zu Fuss  über den Bergpass will ich nicht gehen.
+Dort ist so mieses Wetter das ich mit meinen schwachen Augen kaum was sehen kann.";
+	  f scroll_rate = 10.000000;
+	}
+}
+[conversation_adw]
+{
+	[text*]
+	{
+		choice = shop;
+		screen_text = "So tretet nur näher und wählet mit bedacht.";
+	  f scroll_rate = 10.000000;
+	}
+}
+[ichgruesseeuchfremdling]
+{
+	[text*]
+	{
+		choice = shop;
+		screen_text = "Ich hoffe mein bescheidenes Angebot findet eure Anerkennung.
+";
+	  f scroll_rate = 10.000000;
+	}
+}
+[tach_auch]
+{
+	[text*]
+	{
+		choice = more;
+		screen_text = "Ich heiße Euch willkommen.
+Unsere Öffnungszeiten sind: Montags bis Freitags von 8 bis 19Uhr
+Aber fragen sie zur Sicherheit lieber nochmal meine Schwester. Sie führt auch die Verkaufsgespräche.
+";
+	  f scroll_rate = 10.000000;
+	}
+}

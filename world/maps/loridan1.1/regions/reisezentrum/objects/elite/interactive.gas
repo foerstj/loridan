@@ -1,0 +1,71 @@
+[t:lever_glb_06,n:0x00500000]
+{
+	[common]
+	{
+		screen_name = "winterdorf";
+	}
+	[on_off_lever]
+	{
+		off_message = we_req_activate;
+	  x off_scid = 0x00500003;
+	  x on_scid = 0x00500003;
+	  f required_level = 6;
+        f required_level_2 = 56;
+        f required_level_3 = 84;
+	  f reset_time = 16;
+	  f reset_time_2 = 16;
+	}
+	[placement]
+	{
+	  q orientation = 0.185769,0.682268,0.682268,-0.185769;
+	  p position = -0.0861097,2.20485,-0.065456,0x88718cb4;
+		use_point_scids = 0x00500002,0x0050001b;
+	}
+}
+[t:valve_gob_03,n:0x00500024]
+{
+	[common]
+	{
+		screen_name = "galtohar";
+	}
+	[on_off_lever]
+	{
+		off_message = we_req_activate;
+	  x off_scid = 0x00500020;
+	  x on_scid = 0x00500020;
+        f required_level = 0;
+        f required_level_2 = 54;
+        f required_level_3 = 82;
+	  f reset_time = 16;
+	  f reset_time_2 = 16;
+	}
+	[placement]
+	{
+	  p position = 0.0157105,0.1,-0.0209255,0xf0238c61;
+		use_point_scids = 0x0050001f,0x0050001e;
+	}
+}
+[t:lever_glb_06,n:0x00500029]
+{
+	[common]
+	{
+		screen_name = "himmelpfort";
+	}
+	[on_off_lever]
+	{
+		off_message = we_req_activate;
+	  x off_scid = 0x0050002A;
+	  x on_scid = 0x0050002A;
+	  f required_level = 10;
+        f required_level_2 = 59;
+        f required_level_3 = 86;
+	  f reset_time = 16;
+	  f reset_time_2 = 16;
+	}
+	[placement]
+	{
+	  q orientation = 0.707107,0,0,-0.707107;
+	  p position = -0.0350065,2.19102,0.0293217,0xf12aa693;
+		use_point_scids = 0x00500023,0x00500028;
+	}
+}

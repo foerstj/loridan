@@ -1,0 +1,10 @@
+[t:region,n:region]
+{
+	created = silverfire,heiko;
+	description = "Stadt der Engel";
+  x guid = 0x0000000A;
+	lastmodified = SILVERFIRE,Heiko;
+	notes = none;
+  x scid_range = 0x0000000A;
+	se_version = 1.10.0.0327 (msqa:2002.08.0701);
+}

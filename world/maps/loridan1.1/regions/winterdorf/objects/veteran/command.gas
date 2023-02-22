@@ -1,0 +1,40 @@
+[t:light_flicker,n:0x00400537]
+{
+	[light_flicker]
+	{
+	  f flicker_frequency_max = 10;
+	  f flicker_frequency_min = 6;
+	  x siege_light = 0xDE2DB2B4;
+	}
+	[placement]
+	{
+	  p position = 2.50401,-2.95,3.15601,0xa526c8db;
+	}
+}
+[t:light_flicker,n:0x0040080f]
+{
+	[light_flicker]
+	{
+	  f duration = 0.7;
+	  f flicker_frequency_max = 10;
+	  f flicker_frequency_min = 6;
+	  x siege_light = 0xE968504D;
+	}
+	[placement]
+	{
+	  p position = -3.23257,-3.5,2.6755,0xbc551468;
+	}
+}
+[t:light_flicker,n:0x00400012]
+{
+	[light_flicker]
+	{
+	  f flicker_frequency_max = 10;
+	  f flicker_frequency_min = 7;
+	  x siege_light = 0x34F14AFB;
+	}
+	[placement]
+	{
+	  p position = -2.80498,-3.65,1.00166,0xbdbac130;
+	}
+}

@@ -1,0 +1,20 @@
+[conversation_susi]
+{
+	[text*]
+	{
+		screen_text = "Ähm
+Hallo......tja .............ähm.......wie soll ich sagen?........Ich glaube....ähm.....ich hab mich verfahren.";
+	  f scroll_rate = 5.000000;
+	}
+}
+[conversation_tai]
+{
+	[text*]
+	{
+		screen_text = "Oh Hallo
+Wie ich sehe bin ich nicht der einzige Tollpatsch. 
+Ich war mit meinem Zögling Lobo auf dem Weg nach Himmelpfort, als ich mich plötzlich hier unten wiederfand. Zu meinem Pech ist mein Drache auch noch, in der Kälte dort oben, geschrumpft.
+Mit so einem Minidrachen kann ich doch nicht in den Kampf ziehen. ";
+	  f scroll_rate = 8.000000;
+	}
+}

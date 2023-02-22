@@ -1,0 +1,8 @@
+[t:camera_quake,n:0x007002ec]
+{
+	[placement]
+	{
+	  q orientation = 0,-0.707107,0,0.707107;
+	  p position = 1.07743,0.249998,0.180328,0xec5b2390;
+	}
+}

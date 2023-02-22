@@ -1,0 +1,5 @@
+[node_mesh_index]
+{
+	0x00000e69 = t_th01_teleport-hub-elevator-a;
+	0x00000e6a = t_th01_teleport-hub-top-a;
+}

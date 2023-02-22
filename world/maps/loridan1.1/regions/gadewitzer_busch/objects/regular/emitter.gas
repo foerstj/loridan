@@ -1,0 +1,36 @@
+[t:emt_sound,n:0x00200016]
+{
+	[placement]
+	{
+	  p position = -2.72382,-0.096386,-2.35172,0xb4343171;
+	}
+	[sound_emitter]
+	{
+		event_sound = "env_waterfall";
+	  f max_dist = 40;
+	}
+}
+[t:emt_sound,n:0x002001a3]
+{
+	[placement]
+	{
+	  p position = -2.80081,-0.0822525,-2.83536,0xcfa17e57;
+	}
+	[sound_emitter]
+	{
+		event_sound = "env_waterfall";
+	  f max_dist = 20;
+	}
+}
+[t:emt_sound,n:0x002001ab]
+{
+	[placement]
+	{
+	  p position = -2.77473,0.109276,1.30712,0x1f5c0761;
+	}
+	[sound_emitter]
+	{
+		event_sound = "env_waterfall";
+	  f max_dist = 30;
+	}
+}

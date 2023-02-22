@@ -1,0 +1,105 @@
+[conversation_bruecke]
+{
+	[text*]
+	{
+		screen_text = "Eine schönen Tag wünsch ich Fremder. Wie Ihr seht ist die Brücke eingestürzt. Es war vor 3 Tagen als hier so seltsame Gestalten vorbei kamen. Sie nannten sich die Keeper. Deren Drachen waren so fett, das nach Ihnen die Brücke einbrach.
+Jetzt suchen wir verzweifelt Handwerker die das wieder ins Reine bringen können. Die Zwerge hätten das nötige Werkzeug. Doch sie haben gerade Betriebsferien, weil ihr König Leopolt seine Nira geheiratet hat. Er hat sich dafür extra  einen Anzug  und 
+neue Turnschuhe gekauft";
+	  f scroll_rate = 10.000000;
+	}
+}
+[conversation_gabi]
+{
+	[text*]
+	{
+		screen_text = "Oh
+Ich hätte nie gedacht das sich hier mal Jemand blicken läßt. Seit Tagen hopsen diese Biester da draußen rum. Könntet Ihr nicht den Weg  ins Dorf freimachen?";
+	  f scroll_rate = 10.000000;
+	}
+}
+[conversation_hannes]
+{
+	[text*]
+	{
+		screen_text = "Hallo
+Was wollt Ihr denn in diesem Kaff? Hier ist doch wirklich der Hund begraben.
+Wenn`s hier noch Esel gäbe, wär ich längst mit meinem Krempel verschwunden.";
+	  f scroll_rate = 10.000000;
+	}
+}
+[conversation_helga]
+{
+	[text*]
+	{
+		screen_text = "Ich möchte nicht unhöflich erscheinen. Doch wir möchten gerade essen und ich bitte sie deshalb zu gehen.";
+	  f scroll_rate = 10.000000;
+	}
+}
+[conversation_jenny]
+{
+	[text*]
+	{
+		screen_text = "Wie tief muss man denn sinken, das man mit Lilo aufs Zimmer geht?";
+	  f scroll_rate = 10.000000;
+	}
+}
+[conversation_krilliac]
+{
+	[text*]
+	{
+		screen_text = "Verzeihung, aber leider hab ich keine Esel mehr. 
+Die letzten 4 hab ich an die Keeper verkauft. Sie brauchten auf die Schnelle was für Ihre Drachen, zum verfüttern.";
+	  f scroll_rate = 10.000000;
+	}
+}
+[conversation_lilo]
+{
+	[text*]
+	{
+		screen_text = "Hi
+Ich bin Lilo.
+ Wenn Du Zeit hättest, ich hab oben ein Zimmer.";
+	  f scroll_rate = 10.000000;
+	}
+}
+[conversation_lilya]
+{
+	[text*]
+	{
+		choice = shop;
+		screen_text = "Hallo einsamer Wanderer!
+Ihr solltet Euch bei mir mit neuen Zaubersprüchen und Tränken ausrüsten. Ich hörte von vielen Gefahren die in den Höhlen und Wäldern lauern sollen.";
+	  f scroll_rate = 10.000000;
+	}
+}
+[conversation_schmied]
+{
+	[text*]
+	{
+		choice = shop;
+		screen_text = "Na, habt ihr mich also gefunden!
+Der Haupteingang ist leider wegen Platzmangel versperrt.
+Wir führen Damenschuhe jeder Größe.
+Ich kann Euch auch meine besten Schwerter und Rüstungen zu einem günstigem Preis anbieten. Schaut Euch nur um.";
+	  f scroll_rate = 10.000000;
+	}
+}
+[conversation_soldat]
+{
+	[text*]
+	{
+		screen_text = "Guten Tag
+Leider kann ich mich kaum noch an etwas erinnern. Ich weiß nur das ich einen Weg auf die andere Seite der Brücke suchte. Ich war, glaube ich in einer Art von Keller, als mich diese Biester angriffen. Bevor ich bewußtlos wurde, muss ich mich noch bis zum Schmied geschleppt haben. Denn dort fand mich dann Helga.";
+	  f scroll_rate = 10.000000;
+	}
+}
+[conversation_wirt]
+{
+	[text*]
+	{
+		screen_text = "Guten Tag!
+Ich will nicht lang drumherum reden. Setzt Euch hin, wartet bis Ihr bedient werdet und verhaltet Euch ruhig.
+Wenn es wegen Euch hier drin Ärger gibt, fliegt ihr schneller raus als Gom seinen Stab  aus der Erde ziehen kann.";
+	  f scroll_rate = 10.000000;
+	}
+}

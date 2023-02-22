@@ -1,0 +1,314 @@
+[t:door_grs_ornate_right,n:0x001001c1]
+{
+	[door_basic]
+	{
+	  x second_door = 0x001001C2;
+	}
+	[placement]
+	{
+	  q orientation = 0,-0.819152,0,-0.573576;
+	  p position = 11.4159,-2,-6.81417,0x13f37f22;
+		use_point_scids = 0x00100240,0x001001cb;
+	}
+}
+[t:door_grs_ornate_left,n:0x001001c2]
+{
+	[door_basic]
+	{
+	  x second_door = 0x001001C1;
+	}
+	[placement]
+	{
+	  q orientation = 0,0.824126,0,0.566406;
+	  p position = 12.3939,-2,-4.18556,0x13f37f22;
+		use_point_scids = 0x00100240,0x001001cb;
+	}
+}
+[t:sign_glb_beware,n:0x0010050e]
+{
+	[common]
+	{
+		screen_name = "wenn keine Million drin ist warst Du zulangsam";
+	}
+	[placement]
+	{
+	  q orientation = 0,-0.976296,0,-0.21644;
+	  p position = 2.25659,-2,4.53419,0x13f37f22;
+	}
+}
+[t:sign_glb_blacksmith_01,n:0x001002fd]
+{
+	[placement]
+	{
+	  q orientation = 0,0.809017,0,-0.587785;
+	  p position = 4.86644,0.344544,-8.00756,0x9ef27105;
+	}
+}
+[t:door_grs_right_05,n:0x00100313]
+{
+	[placement]
+	{
+	  q orientation = 0,-0.984808,0,-0.173648;
+	  p position = 3.70118,-3.1,-6.37133,0x9ef27105;
+		use_point_scids = 0x00100319,0x00100300;
+	}
+}
+[t:door_glb_woodfence_right_01,n:0x001002a8]
+{
+	[placement]
+	{
+	  p position = -1.99794,-0.85,0.998074,0x9325edc2;
+		use_point_scids = 0x001002ae,0x001002d3;
+	}
+}
+[t:sign_glb_blacksmith_03,n:0x001002fe]
+{
+	[common]
+	{
+		screen_name = "Hoffmann & Söhne    Stahl in seiner schärfsten Form";
+	}
+	[placement]
+	{
+	  q orientation = 0,3.5204e-007,0,-1;
+	  p position = 2.46467,0,-3.79432,0xfc9c3464;
+	}
+}
+[t:door_grs_barn_left,n:0x00100143]
+{
+	[placement]
+	{
+	  q orientation = 0,0.923879,0,-0.382684;
+	  p position = -3.56032,-4.25,-3.53885,0xfcf05c8c;
+		use_point_scids = 0x00100145,0x0010014b;
+	}
+}
+[t:sign_glb_magicshop_01,n:0x001004fe]
+{
+	[common]
+	{
+		screen_name = "zur lustigen Giftmixerin";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.147809,0,0.989016;
+	  p position = -1.66689,-4.55,-7.43349,0xfcf05c8c;
+	}
+}
+[t:rock_grs_breakable_01,n:0x001002af]
+{
+	[placement]
+	{
+	  p position = 0.132553,-6,-1.56041,0xbe98f192;
+	}
+}
+[t:sign_glb_01,n:0x001005f9]
+{
+	[common]
+	{
+		screen_name = "winterdorf";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.0871557,0,0.996195;
+	  p position = 0.546898,0,-1.32362,0xf225ce3a;
+	}
+}
+[t:sign_glb_01,n:0x00100509]
+{
+	[common]
+	{
+		screen_name = "schnapp Dir die Million";
+	}
+	[placement]
+	{
+	  q orientation = 0,-0.649448,0,-0.760405;
+	  p position = -3.07014,0,-1.99314,0x4f8231be;
+	}
+}
+[t:sign_glb_01,n:0x0010050a]
+{
+	[common]
+	{
+		screen_name = "zur lustigen Giftmixerin";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.656059,0,-0.75471;
+	  p position = -3.45202,0,-1.99136,0x4f8231be;
+	}
+}
+[t:sign_glb_01,n:0x0010050b]
+{
+	[common]
+	{
+		screen_name = "Hoffmann & Söhne";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.920505,0,0.390731;
+	  p position = -3.25184,-0.376784,-1.92842,0x4f8231be;
+	}
+}
+[t:door_grs_barn_right,n:0x001002ac]
+{
+	[placement]
+	{
+	  q orientation = 0,-0.986286,0,0.165048;
+	  p position = -0.0486107,-3.65,-3.07292,0x58953128;
+		use_point_scids = 0x001002a6,0x001002a7;
+	}
+}
+[t:door_grs_queensmen_right,n:0x0010032b]
+{
+	[placement]
+	{
+	  q orientation = 0,-0.986286,0,0.165048;
+	  p position = -0.133308,-3.65,-3.17352,0xe33832f5;
+		use_point_scids = 0x0010031c,0x0010031d;
+	}
+}
+[t:valve_gob_03,n:0x0010053f]
+{
+	[on_off_lever]
+	{
+		off_message = we_req_activate;
+	  x off_scid = 0x00100606;
+	  x on_scid = 0x00100606;
+        f required_level = 0;
+        f required_level_2 = 54;
+        f required_level_3 = 82;
+	  f reset_time = 16;
+	  f reset_time_2 = 16;
+	}
+	[placement]
+	{
+	  p position = -0.041687,0.100065,0.00230026,0x93f8a045;
+		use_point_scids = 0x001005f7,0x00100600;
+	}
+}
+[t:sign_glb_01,n:0x001005fb]
+{
+	[common]
+	{
+		screen_name = "winterdorf";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.656059,0,0.754709;
+	  p position = 1.3926,1,1.80522,0x06ba1045;
+	}
+}
+[t:sign_glb_barn_03,n:0x00100510]
+{
+	[common]
+	{
+		screen_name = "Besuchen Sie doch mal Rheiny und Su";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.707107,0,0.707107;
+	  p position = 0.110062,0,-1.86463,0x101cb58e;
+	}
+}
+[t:sign_glb_beware,n:0x00100657]
+{
+	[common]
+	{
+		screen_name = "Vorsicht, freilaufende Tiere.";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.999391,0,-0.0348996;
+	  p position = -0.926813,1.90735e-006,-1.64219,0x5f5a6618;
+	}
+}
+[t:door_grs_barn_left,n:0x0010032c]
+{
+	[placement]
+	{
+	  q orientation = 0,0.986286,0,-0.165048;
+	  p position = 1.26756,-3.75,-3.6242,0x426d6563;
+		use_point_scids = 0x00100333,0x00100372;
+	}
+}
+[t:sign_glb_beware,n:0x001004a4]
+{
+	[common]
+	{
+		screen_name = "Beware! Dies ist kein Weg für neue Charaktere";
+	}
+	[placement]
+	{
+	  p position = 3.84169,9.53674e-007,-2.94873,0x875ae701;
+	}
+}
+[t:respawn_statue,n:0x001004ae]
+{
+	[placement]
+	{
+	  q orientation = 0,0.866026,0,0.5;
+	  p position = 1.1262,0,1.49319,0x35ce38cc;
+		use_point_scids = 0x00100500;
+	}
+}
+[t:sign_glb_beware,n:0x001004a5]
+{
+	[common]
+	{
+		screen_name = "Hier wird gebaut! Eltern haften für Ihre Kinder!";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.997564,0,0.0697564;
+	  p position = -0.496088,3.8147e-006,2.25583,0x0e0671cd;
+	}
+}
+[t:sign_glb_beware,n:0x00100323]
+{
+	[common]
+	{
+		screen_name = "Willkommen im Tal der Ahnungslosen";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.71934,0,0.694658;
+	  p position = -2.92676,0,1.43081,0xb1b0b1f4;
+	}
+}
+[t:lever_glb_07,n:0x001000e2]
+{
+	[on_off_lever]
+	{
+		off_message = we_req_activate;
+	  x off_scid = 0x0010004B;
+	  x on_scid = 0x0010004B;
+	}
+	[placement]
+	{
+	  p position = -0.452156,0,-0.807449,0x8e388512;
+		use_point_scids = 0x00100019,0x0010001f;
+	}
+}
+[t:lever_glb_07,n:0x001000e3]
+{
+	[on_off_lever]
+	{
+		off_message = we_req_activate;
+	  x off_scid = 0x0010004B;
+	  x on_scid = 0x0010004B;
+	}
+	[placement]
+	{
+	  p position = -5.22385,3.9,1.78207,0xc2ca0676;
+		use_point_scids = 0x0010004a,0x0010001f;
+	}
+}
+[t:respawn_statue,n:0x001005fd]
+{
+	[placement]
+	{
+	  q orientation = 0,0.350207,0,-0.936672;
+	  p position = -2.85269,0,-2.92936,0x84ebe047;
+		use_point_scids = 0x001005fe;
+	}
+}

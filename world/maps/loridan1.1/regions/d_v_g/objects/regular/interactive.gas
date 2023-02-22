@@ -1,0 +1,131 @@
+[t:lever_on_off_01,n:0x00800016]
+{
+	[on_off_lever]
+	{
+		off_message = we_req_activate;
+	  x off_scid = 0x00800010;
+	  x on_scid = 0x00800010;
+	}
+	[placement]
+	{
+	  q orientation = 0,1,0,-1.62921e-007;
+	  p position = -0.535876,0.654092,0.00712585,0x82944913;
+		use_point_scids = 0x00800013;
+	}
+}
+[t:respawn_statue,n:0x008000c1]
+{
+	[placement]
+	{
+	  p position = -0.292442,0,-1.26332,0xb59a4739;
+		use_point_scids = 0x008000c5;
+	}
+}
+[t:lever_glb_07,n:0x0080001c]
+{
+	[on_off_lever]
+	{
+	  x on_scid = 0x00800018;
+	  b one_shot = true;
+	}
+	[placement]
+	{
+	  q orientation = 0,1,0,0;
+	  p position = 2.47619,-2.5,5.2214,0x11a7d054;
+		use_point_scids = 0x00800019;
+	}
+}
+[t:door_glb_gendungeon_06,n:0x00800018]
+{
+	[aspect]
+	{
+	  b is_usable = false;
+	}
+	[placement]
+	{
+	  q orientation = 0,1,0,0;
+	  p position = -0.0323105,-1.5,0.0872421,0xccc357fe;
+	}
+}
+[t:fountain_csl_health,n:0x008000b9]
+{
+	[aspect]
+	{
+	  f use_range = 0.5;
+	}
+	[fountain]
+	{
+	  f heal_amount = 50;
+	  f heal_freq = 5;
+	  f health_left = 78.4;
+	  f health_regen = 0.083;
+	}
+	[placement]
+	{
+	  q orientation = 0,1,0,-1.62921e-007;
+	  p position = 0.0298615,-0.333781,-0.360168,0x30ade7e3;
+	}
+}
+[t:fountain_csl_mana,n:0x008000b7]
+{
+	[aspect]
+	{
+	  f use_range = 0.5;
+	}
+	[common]
+	{
+		[instance_triggers]
+		{
+			[*]
+			{
+			  b can_self_destruct = true;
+				condition* = receive_world_message("we_req_use",0,"on_every_message");
+			  f delay = 0.000000;
+			  b flip_flop = false;
+			  b multi_player = true;
+			  b no_trig_bits = false;
+				occupants_group = ;
+			  f reset_duration = 0.000000;
+			  b single_player = true;
+			  b single_shot = false;
+			  b start_active = true;
+			}
+		}
+	}
+	[fountain]
+	{
+	  f heal_amount = 50;
+	  f health_left = 78.4;
+	  f health_regen = 0.083;
+	  f repeat_freq = 3;
+	}
+	[placement]
+	{
+	  q orientation = 0,1,0,-1.62921e-007;
+	  p position = 0.884735,-0.29033,-0.375214,0xe0a6e46f;
+	}
+}
+[t:lever_on_off_01,n:0x00800015]
+{
+	[on_off_lever]
+	{
+		off_message = we_req_activate;
+	  x off_scid = 0x00800010;
+	  x on_scid = 0x00800010;
+	}
+	[placement]
+	{
+	  q orientation = 0,1,0,0;
+	  p position = 0.138899,0.378258,-0.95829,0xd98c2cbf;
+		use_point_scids = 0x00800014;
+	}
+}
+[t:respawn_statue,n:0x0080006a]
+{
+	[placement]
+	{
+	  q orientation = 0,0.829038,0,0.559193;
+	  p position = -2.72943,0,1.20599,0x0f0ccfdc;
+		use_point_scids = 0x00800069;
+	}
+}
