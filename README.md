@@ -2,17 +2,15 @@
 
 The original 3rd-party Loridan map, remastered.
 
-## What I did - TODO
+## What I did
 
 This map is re-buildable and editable. I opened & saved every region in Siege Editor v1.7. The dsmap file can be rebuilt using the batch scripts, provided you have the folder structure of Dungeon Siege, TankCreator and gaspy.
-- Converted the map to use node mesh index
-- Some regions had hotpoints unsupported by SE. All north vectors were fixed.
 - SE saves the "required_level" attributes for multiplayer start positions with an "i" in front, which however breaks the level requirement.\
   This is fixed during build by a gaspy script.
 - Renamed the map so there are no conflicts with the original map.\
-  The internal name is *world/maps/kingdom-of-ehb*.\
-  The generated file name is *Dungeon Siege/Maps/Kingdom of Ehb.dsmap*.\
-  The ingame name is *Kingdom of Ehb (remastered)*.
+  The internal name is *world/maps/loridan*.\
+  The generated file name is *Dungeon Siege/DSLOA/Loridan.dsmap*.\
+  The ingame name is *Loridan (remastered)*.
 
 ## How to build
 
