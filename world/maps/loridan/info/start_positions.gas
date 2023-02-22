@@ -107,15 +107,15 @@
 		{
 			[elite]
 			{
-			  required_level = 82;
+			  i required_level = 82;
 			}
 			[normal]
 			{
-			  required_level = 0;
+			  i required_level = 0;
 			}
 			[veteran]
 			{
-			  required_level = 54;
+			  i required_level = 54;
 			}
 		}
 	}
@@ -226,15 +226,15 @@
 		{
 			[elite]
 			{
-			  required_level = 89;
+			  i required_level = 89;
 			}
 			[normal]
 			{
-			  required_level = 16;
+			  i required_level = 16;
 			}
 			[veteran]
 			{
-			  required_level = 63;
+			  i required_level = 63;
 			}
 		}
 	}
@@ -345,15 +345,15 @@
 		{
 			[elite]
 			{
-			  required_level = 86;
+			  i required_level = 86;
 			}
 			[normal]
 			{
-			  required_level = 10;
+			  i required_level = 10;
 			}
 			[veteran]
 			{
-			  required_level = 59;
+			  i required_level = 59;
 			}
 		}
 	}
@@ -464,15 +464,15 @@
 		{
 			[elite]
 			{
-			  required_level = 84;
+			  i required_level = 84;
 			}
 			[normal]
 			{
-			  required_level = 6;
+			  i required_level = 6;
 			}
 			[veteran]
 			{
-			  required_level = 56;
+			  i required_level = 56;
 			}
 		}
 	}

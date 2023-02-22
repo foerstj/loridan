@@ -1,0 +1,176 @@
+[t:lever_glb_02,n:0x0060001a]
+{
+	[on_off_lever]
+	{
+	  x on_scid = 0x0060001B;
+	  x on_scid_2 = 0x0060002A;
+	  x on_scid_3 = 0x0060002B;
+	}
+	[placement]
+	{
+	  q orientation = 7.61563e-005,0.00872664,-0.0087262,0.999924;
+	  p position = 2.28803,0.5,-1.94113,0xd4352884;
+		use_point_scids = 0x00600018;
+	}
+}
+[t:lever_glb_01,n:0x00600010]
+{
+	[on_off_lever]
+	{
+		off_message = we_req_activate;
+	  x off_scid = 0x00600014;
+	  f on_message_delay_2 = 2;
+	  x on_scid = 0x00600014;
+	  x on_scid_2 = 0x00600051;
+	}
+	[placement]
+	{
+	  q orientation = 0,0.00872665,0,0.999962;
+	  p position = 3.85191,-0.996534,-1.98556,0xf87b2091;
+		use_point_scids = 0x00600015;
+	}
+}
+[t:fountain_csl_mana,n:0x00600080]
+{
+	[aspect]
+	{
+	  f use_range = 0.5;
+	}
+	[common]
+	{
+		[instance_triggers]
+		{
+			[*]
+			{
+			  b can_self_destruct = true;
+				condition* = receive_world_message("we_req_use",0,"on_every_message");
+			  f delay = 0.000000;
+			  b flip_flop = false;
+			  b multi_player = true;
+			  b no_trig_bits = false;
+				occupants_group = ;
+			  f reset_duration = 0.000000;
+			  b single_player = true;
+			  b single_shot = false;
+			  b start_active = true;
+			}
+		}
+	}
+	[fountain]
+	{
+	  f heal_amount = 50;
+	  f health_left = 78.4;
+	  f health_regen = 0.083;
+	  f repeat_freq = 3;
+	}
+	[placement]
+	{
+	  q orientation = 0,1,0,-1.62921e-007;
+	  p position = 0.232934,-0.134287,-0.369625,0xd4011473;
+	}
+}
+[t:lever_glb_01,n:0x00600012]
+{
+	[on_off_lever]
+	{
+		off_message = we_req_activate;
+	  x off_scid = 0x00600014;
+	  x on_scid = 0x00600014;
+	}
+	[placement]
+	{
+	  q orientation = 0,0.0436195,0,0.999048;
+	  p position = -3.22108,0.746648,-1.98421,0x560300b7;
+		use_point_scids = 0x00600017;
+	}
+}
+[t:sign_ice_01,n:0x0060010b]
+{
+	[common]
+	{
+		screen_name = "Himmelpfort";
+	}
+	[placement]
+	{
+	  q orientation = 0,-0.43837,0,0.898792;
+	  p position = -3.33353,9.53674e-007,-0.328799,0x4e500cae;
+	}
+}
+[t:door_glb_crypt_01,n:0x00600034]
+{
+	[placement]
+	{
+	  q orientation = 0,1,0,0;
+	  p position = 0.0262909,-1.5,0.00440598,0xc083a034;
+		use_point_scids = 0x00600035,0x00600036;
+	}
+}
+[t:lever_glb_07,n:0x00600082]
+{
+	[on_off_lever]
+	{
+		off_message = we_req_activate;
+		off_message_2 = we_req_activate;
+	  x off_scid = 0x00600084;
+	  x off_scid_2 = 0x00600087;
+	  x on_scid = 0x00600084;
+	  x on_scid_2 = 0x00600087;
+	}
+	[placement]
+	{
+	  q orientation = 0,-0.688354,0,0.725374;
+	  p position = -2.19516,-1.5,-0.629593,0x372e0f5a;
+		use_point_scids = 0x00600085;
+	}
+}
+[t:fountain_csl_health,n:0x0060007f]
+{
+	[aspect]
+	{
+	  f use_range = 0.5;
+	}
+	[common]
+	{
+		[instance_triggers]
+		{
+			[*]
+			{
+			  b can_self_destruct = true;
+				condition* = receive_world_message("we_req_use",0,"on_every_message");
+			  f delay = 0.000000;
+			  b flip_flop = false;
+			  b multi_player = true;
+			  b no_trig_bits = false;
+				occupants_group = ;
+			  f reset_duration = 0.000000;
+			  b single_player = true;
+			  b single_shot = false;
+			  b start_active = true;
+			}
+		}
+	}
+	[fountain]
+	{
+	  f heal_amount = 50;
+	  f heal_freq = 5;
+	  f health_left = 78.4;
+	  f health_regen = 0.083;
+	}
+	[placement]
+	{
+	  q orientation = 0,1,0,-1.78814e-007;
+	  p position = -0.660513,-0.461433,-0.369976,0x40b72748;
+	}
+}
+[t:sign_ice_01,n:0x00600109]
+{
+	[common]
+	{
+		screen_name = "himmelpfort";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.743142,0,0.669128;
+	  p position = -0.19255,-1.5,-0.843447,0xf83d3c7b;
+	}
+}

@@ -1,0 +1,216 @@
+[t:lever_glb_06,n:0x00a00032]
+{
+	[on_off_lever]
+	{
+		off_message = we_req_activate;
+	  x off_scid = 0x00A0087E;
+	  x on_scid = 0x00A0087E;
+	  f required_level = 10;
+	  f reset_time = 16;
+	  f reset_time_2 = 16;
+	}
+	[placement]
+	{
+	  q orientation = 0.707107,0,0,-0.707107;
+	  p position = -0.0417014,2.19875,0.0537033,0x7986ec05;
+		use_point_scids = 0x00a00033,0x00a0089c;
+	}
+}
+[t:door_grs_peasant_right,n:0x00a0029d]
+{
+	[placement]
+	{
+	  q orientation = 0,-0.983255,0,0.182236;
+	  p position = 0.0142899,-3.7,-2.92409,0xc14bb5e2;
+		use_point_scids = 0x00a0029e,0x00a0029f;
+	}
+}
+[t:door_grs_left_05,n:0x00a0027f]
+{
+	[placement]
+	{
+	  q orientation = 0,-0.923879,0,0.382684;
+	  p position = -3.63747,-4.25,-3.58959,0xcbb8036b;
+		use_point_scids = 0x00a00282,0x00a00281;
+	}
+}
+[t:sign_glb_magicshop_01,n:0x00a00915]
+{
+	[common]
+	{
+		screen_name = "Tante Käthe`s Zauberstube";
+	}
+	[placement]
+	{
+	  q orientation = 0,-0.85264,0,0.522499;
+	  p position = -7.47962,-4.54995,-2.19524,0xcbb8036b;
+	}
+}
+[t:sign_glb_blacksmith_03,n:0x00a00916]
+{
+	[common]
+	{
+		screen_name = "Heute Räumungsverkauf";
+	}
+	[placement]
+	{
+	  q orientation = 0,-0.85264,0,0.522499;
+	  p position = 5.85882,-0.499957,0.584045,0xc760cd95;
+	}
+}
+[t:sign_glb_01,n:0x00a0090d]
+{
+	[common]
+	{
+		screen_name = "winterdorf";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.390731,0,-0.920505;
+	  p position = 3.74711,4,3.57093,0x4fa85fea;
+	}
+}
+[t:sign_glb_01,n:0x00a0092d]
+{
+	[common]
+	{
+		screen_name = "winterdorf";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.999657,0,-0.0261771;
+	  p position = 0.749424,4.00002,0.79532,0x2cef04e0;
+	}
+}
+[t:door_grs_peasant_left,n:0x00a00296]
+{
+	[placement]
+	{
+	  q orientation = 0,0.986286,0,-0.165048;
+	  p position = 1.30823,-3.65,-3.44804,0x03dea639;
+		use_point_scids = 0x00a00298,0x00a00297;
+	}
+}
+[t:sign_glb_01,n:0x00a00993]
+{
+	[common]
+	{
+		screen_name = "Durathan";
+	}
+	[placement]
+	{
+	  q orientation = 0,-0.999048,0,0.0436191;
+	  p position = -3.30751,0,-3.38632,0xaa387e8f;
+	}
+}
+[t:sign_grs_tavern,n:0x00a00244]
+{
+	[common]
+	{
+		screen_name = "Zur warmen Cervicia";
+	}
+	[placement]
+	{
+	  p position = 10.9977,0.153237,0.513714,0x7b90d1e8;
+	}
+}
+[t:door_grs_queensmen_left,n:0x00a002eb]
+{
+	[placement]
+	{
+	  q orientation = 0,0.707107,0,0.707107;
+	  p position = 9.26698,-1.5,1.29864,0x7b90d1e8;
+		use_point_scids = 0x00a002ed,0x00a002ec;
+	}
+}
+[t:sign_glb_01,n:0x00a009c2]
+{
+	[common]
+	{
+		screen_name = "Durathan";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.300706,0,0.953717;
+	  p position = 1.89531,-0.954195,-2.94648,0xc7f23db4;
+	}
+}
+[t:sign_glb_magic_left,n:0x00a00914]
+{
+	[placement]
+	{
+	  q orientation = 0,0.573576,0,-0.819152;
+	  p position = 2.81348,9.53674e-007,3.96452,0x7d61b08a;
+	}
+}
+[t:sign_glb_blacksmith_right,n:0x00a008bb]
+{
+	[placement]
+	{
+	  q orientation = 0,0.0436197,0,0.999048;
+	  p position = -1.01105,0,-0.886141,0x1b932481;
+	}
+}
+[t:door_grs_peasant_left,n:0x00a002e8]
+{
+	[placement]
+	{
+	  q orientation = 0,0.707107,0,0.707107;
+	  p position = -4.62066,-2.65,2.41586,0xe12d67c8;
+		use_point_scids = 0x00a00306,0x00a00304;
+	}
+}
+[t:door_grs_peasant_left,n:0x00a002e9]
+{
+	[placement]
+	{
+	  p position = 4.5111,-2.65,-0.840939,0xe12d67c8;
+		use_point_scids = 0x00a00302,0x00a00301;
+	}
+}
+[t:door_grs_peasant_left,n:0x00a002ea]
+{
+	[placement]
+	{
+	  p position = -3.60058,-2.65,-0.836712,0xe12d67c8;
+		use_point_scids = 0x00a00305,0x00a00303;
+	}
+}
+[t:lever_glb_07,n:0x00a009cb]
+{
+	[on_off_lever]
+	{
+		off_message = we_req_activate;
+	  x off_scid = 0x00A009C1;
+	  x on_scid = 0x00A009C1;
+	}
+	[placement]
+	{
+	  p position = -4.97076,3.9,2.49709,0xe10318a5;
+		use_point_scids = 0x00a009c3,0x00a009c5;
+	}
+}
+[t:lever_glb_07,n:0x00a009ca]
+{
+	[on_off_lever]
+	{
+		off_message = we_req_activate;
+	  x off_scid = 0x00A009C1;
+	  x on_scid = 0x00A009C1;
+	}
+	[placement]
+	{
+	  q orientation = 0,0.681998,0,-0.731354;
+	  p position = -0.37141,0,1.61861,0x8a24e6fe;
+		use_point_scids = 0x00a009c5,0x00a009c4;
+	}
+}
+[t:door_grs_farmhouse,n:0x00a00279]
+{
+	[placement]
+	{
+	  q orientation = 0,0.91706,0,0.398749;
+	  p position = 1.22844,-2.25,-2.42114,0x314c7123;
+		use_point_scids = 0x00a0027b,0x00a0027a;
+	}
+}
