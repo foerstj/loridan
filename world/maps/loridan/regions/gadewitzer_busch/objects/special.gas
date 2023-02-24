@@ -6,7 +6,7 @@
 		{
 			[*]
 			{
-				action* = set_player_world_location("gadewitzerbusch");
+				action* = set_player_world_location("gadewitzer_busch");
 				action* = mood_change("map_world_fh_r1_1");
 			  b can_self_destruct = true;
 				condition* = party_member_within_bounding_box(1.000000,0.500000,4.000000,"on_every_enter");
@@ -144,7 +144,7 @@
 		{
 			[*]
 			{
-				action* = set_player_world_location("gadewitzerbusch");
+				action* = set_player_world_location("gadewitzer_busch");
 				action* = mood_change("map_world_fh_r1_1");
 				action* = send_world_message("we_req_activate",0x00200768,1f,"default","every",0);
 				action* = send_world_message("we_req_activate",0x0020079B,1f,"default","every",0);

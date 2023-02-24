@@ -1,11 +1,11 @@
 [world_locations]
 {
-    [t:location,n:Galtohar]
+    [t:location,n:galtohar]
     {
         id = 0101;
         screen_name = "leider gottes Galtohar";
     }
-    [t:location,n:GadewitzerBusch]
+    [t:location,n:gadewitzer_busch]
     {
         id = 0102;
         screen_name = "um pilze zu suchen den Gadewitzer Busch";
@@ -35,7 +35,7 @@
         id = 0107;
         screen_name = "den Bergpass";
     }
-    [t:location,n:d_v_G]
+    [t:location,n:d_v_g]
     {
         id = 0108;
         screen_name = "die vergessene Grotte, wegen seines Übergewichtes";
