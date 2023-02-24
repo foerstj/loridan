@@ -5,52 +5,52 @@
         id = 0101;
         screen_name = "leider gottes Galtohar";
     }
-    [t:location,n:gadewitzer_busch]
+    [t:location,n:gadewitz_bush]
     {
         id = 0102;
         screen_name = "um pilze zu suchen den Gadewitzer Busch";
     }
-    [t:location,n:d_k_h]
+    [t:location,n:small_cave]
     {
         id = 0103;
         screen_name = "die kleine Höhle";
     }
-    [t:location,n:winterdorf]
+    [t:location,n:wintersville]
     {
         id = 0104;
         screen_name = "das Winterdorf leicht angefroren";
     }
-    [t:location,n:reise]
+    [t:location,n:travel_center]
     {
         id = 0105;
         screen_name = "das Reisezentrum mit Urlaubslaune";
     }
-    [t:location,n:d_a_k]
+    [t:location,n:old_cellar]
     {
         id = 0106;
         screen_name = "den alten Keller mit zitternden Beinen";
     }
-    [t:location,n:bergpass]
+    [t:location,n:mountain_pass]
     {
         id = 0107;
         screen_name = "den Bergpass";
     }
-    [t:location,n:d_v_g]
+    [t:location,n:forgotten_grotto]
     {
         id = 0108;
         screen_name = "die vergessene Grotte, wegen seines Übergewichtes";
     }
-    [t:location,n:d_g_h]
+    [t:location,n:large_cave]
     {
         id = 0109;
         screen_name = "die große Höhle";
     }
-    [t:location,n:himmelpfort]
+    [t:location,n:heavensgate]
     {
         id = 0110;
         screen_name = "himmelpfort dank Redbull";
     }
-    [t:location,n:trog]
+    [t:location,n:trog_canyon]
     {
         id = 0111;
         screen_name = "die Trogschlucht";
@@ -60,7 +60,7 @@
         id = 0112;
         screen_name = "Durathan etwas ramponiert";
     }
-    [t:location,n:d_a_w]
+    [t:location,n:old_pathway]
     {
         id = 0113;
         screen_name = "durch scharfes Nachdenken, den alten Weg";

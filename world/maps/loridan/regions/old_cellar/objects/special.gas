@@ -143,7 +143,7 @@
 		{
 			[*]
 			{
-				action* = set_player_world_location("d_a_k");
+				action* = set_player_world_location("old_cellar");
 				action* = fade_nodes(0x00000004,1,-1,-1,"out:black");
 				action* = mood_change("map_world_sr_r1_3");
 			  b can_self_destruct = true;
@@ -176,7 +176,7 @@
 			[*]
 			{
 				action* = mood_change("multiplayer_world_snow_town_3");
-				action* = set_player_world_location("winterdorf");
+				action* = set_player_world_location("wintersville");
 				action* = fade_nodes(0x00000004,1,-1,-1,"in");
 			  b can_self_destruct = true;
 				condition* = party_member_within_bounding_box(0.200000,0.500000,3.500000,"on_every_enter");
@@ -285,7 +285,7 @@
 			[*]
 			{
 				action* = mood_change("multiplayer_world_snow_town_3");
-				action* = set_player_world_location("winterdorf");
+				action* = set_player_world_location("wintersville");
 				action* = fade_nodes(0x00000004,1,-1,-1,"in");
 				action* = send_world_message("we_req_activate",0x00600016,0f,"all_conditions","every",0);
 			  b can_self_destruct = true;
@@ -317,7 +317,7 @@
 		{
 			[*]
 			{
-				action* = set_player_world_location("d_a_k");
+				action* = set_player_world_location("old_cellar");
 				action* = fade_nodes(0x00000004,1,-1,-1,"out:black");
 				action* = mood_change("map_world_sr_r1_3");
 			  b can_self_destruct = true;

@@ -6,7 +6,7 @@
 		{
 			[*]
 			{
-				action* = set_player_world_location("bergpass");
+				action* = set_player_world_location("mountain_pass");
 				action* = mood_change("multiplayer_world_snow_town_3c");
 			  b can_self_destruct = true;
 				condition* = party_member_within_bounding_box(7.000000,0.500000,0.500000,"on_every_enter");
@@ -673,7 +673,7 @@
 			[*]
 			{
 				action* = fade_nodes(0x00000007,5,2,-1,"out:black");
-				action* = set_player_world_location("d_g_h");
+				action* = set_player_world_location("large_cave");
 				action* = mood_change("multiplayer_world_sr2_4");
 				action* = fade_nodes(0x00000009,1,-1,-1,"out:black");
 			  b can_self_destruct = true;
@@ -705,7 +705,7 @@
 			[*]
 			{
 				action* = fade_nodes(0x00000007,5,2,-1,"in");
-				action* = set_player_world_location("bergpass");
+				action* = set_player_world_location("mountain_pass");
 				action* = mood_change("multiplayer_world_snow_town_6");
 			  b can_self_destruct = true;
 				condition* = party_member_within_bounding_box(0.500000,0.500000,2.000000,"on_every_enter");

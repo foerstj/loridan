@@ -7,7 +7,7 @@
 			[*]
 			{
 				action* = mood_change("map_world_fd_r1_2");
-				action* = set_player_world_location("d_k_h");
+				action* = set_player_world_location("small_cave");
 			  b can_self_destruct = true;
 				condition* = party_member_within_bounding_box(0.500000,0.500000,4.000000,"on_every_enter");
 			  f delay = 0.000000;
@@ -74,7 +74,7 @@
 			[*]
 			{
 				action* = mood_change("map_world_fd_r1_2");
-				action* = set_player_world_location("d_k_h");
+				action* = set_player_world_location("small_cave");
 			  b can_self_destruct = true;
 				condition* = party_member_within_bounding_box(0.500000,0.500000,4.000000,"on_every_enter");
 			  f delay = 0.000000;

@@ -6,7 +6,7 @@
 		{
 			[*]
 			{
-				action* = set_player_world_location("reise");
+				action* = set_player_world_location("travel_center");
 				action* = mood_change("multiplayer_world_new_hub_teleport");
 			  b can_self_destruct = true;
 				condition* = party_member_within_bounding_box(0.500000,0.500000,3.000000,"on_every_enter");
@@ -36,7 +36,7 @@
 		{
 			[*]
 			{
-				action* = set_player_world_location("reise");
+				action* = set_player_world_location("travel_center");
 				action* = mood_change("multiplayer_world_new_hub_teleport");
 			  b can_self_destruct = true;
 				condition* = party_member_within_bounding_box(0.500000,0.500000,2.000000,"on_every_enter");
@@ -66,7 +66,7 @@
 		{
 			[*]
 			{
-				action* = set_player_world_location("reise");
+				action* = set_player_world_location("travel_center");
 				action* = mood_change("multiplayer_world_new_hub_teleport");
 			  b can_self_destruct = true;
 				condition* = party_member_within_bounding_box(0.500000,0.500000,2.000000,"on_every_enter");
@@ -96,7 +96,7 @@
 		{
 			[*]
 			{
-				action* = set_player_world_location("reise");
+				action* = set_player_world_location("travel_center");
 				action* = mood_change("multiplayer_world_new_hub_teleport");
 			  b can_self_destruct = true;
 				condition* = party_member_within_bounding_box(0.500000,0.500000,2.000000,"on_every_enter");
@@ -126,7 +126,7 @@
 		{
 			[*]
 			{
-				action* = set_player_world_location("reise");
+				action* = set_player_world_location("travel_center");
 				action* = mood_change("multiplayer_world_new_hub_teleport");
 			  b can_self_destruct = true;
 				condition* = party_member_within_bounding_box(0.500000,0.500000,2.000000,"on_every_enter");
@@ -156,7 +156,7 @@
 		{
 			[*]
 			{
-				action* = set_player_world_location("reise");
+				action* = set_player_world_location("travel_center");
 				action* = mood_change("multiplayer_world_new_hub_teleport");
 			  b can_self_destruct = true;
 				condition* = party_member_within_bounding_box(0.500000,0.500000,2.000000,"on_every_enter");
@@ -186,7 +186,7 @@
 		{
 			[*]
 			{
-				action* = set_player_world_location("reise");
+				action* = set_player_world_location("travel_center");
 				action* = mood_change("multiplayer_world_new_hub_teleport");
 			  b can_self_destruct = true;
 				condition* = party_member_within_bounding_box(0.500000,0.500000,2.000000,"on_every_enter");
@@ -216,7 +216,7 @@
 		{
 			[*]
 			{
-				action* = set_player_world_location("reise");
+				action* = set_player_world_location("travel_center");
 				action* = mood_change("multiplayer_world_new_hub_teleport");
 			  b can_self_destruct = true;
 				condition* = party_member_within_bounding_box(0.500000,0.500000,2.000000,"on_every_enter");
@@ -246,7 +246,7 @@
 		{
 			[*]
 			{
-				action* = set_player_world_location("reise");
+				action* = set_player_world_location("travel_center");
 				action* = mood_change("multiplayer_world_new_hub_teleport");
 			  b can_self_destruct = true;
 				condition* = party_member_within_bounding_box(0.500000,0.500000,2.000000,"on_every_enter");
