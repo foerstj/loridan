@@ -1,6 +1,6 @@
 [lights]
 {
-	[t:directional,n:light_0xc7719d35]
+	[t:directional,n:light_0x3fd54c06]
 	{
 	  b active = true;
 	  b affects_actors = true;

@@ -1,124 +1,5 @@
 [start_positions]
 {
-	[t:start_group,n:galtohar]
-	{
-	  b default = true;
-		description = "Hier gibt`s die besten Waffen und Tränke.";
-	  b dev_only = false;
-	  i id = 1;
-		screen_name = "galtohar";
-		[start_position]
-		{
-		  i id = 5;
-			position = 2.758059,0.000000,1.812553,0x1E8B70E3;
-			[camera]
-			{
-			  f azimuth = 0.500000;
-			  f distance = 20.000000;
-			  f orbit = 0.000000;
-				position = 2.758059,0.000000,1.812553,0x1E8B70E3;
-			}
-		}
-		[start_position]
-		{
-		  i id = 7;
-			position = -1.294386,0.000000,-3.113491,0x13D8AEB9;
-			[camera]
-			{
-			  f azimuth = 0.500000;
-			  f distance = 20.000000;
-			  f orbit = 0.000000;
-				position = -1.294386,0.000000,-3.113491,0x13D8AEB9;
-			}
-		}
-		[start_position]
-		{
-		  i id = 6;
-			position = 2.723892,0.000000,-0.722931,0x263CC2B4;
-			[camera]
-			{
-			  f azimuth = 0.500000;
-			  f distance = 20.000000;
-			  f orbit = 0.000000;
-				position = 2.723892,0.000000,-0.722931,0x263CC2B4;
-			}
-		}
-		[start_position]
-		{
-		  i id = 8;
-			position = 2.452248,-1.000000,-3.685287,0xDF5DA301;
-			[camera]
-			{
-			  f azimuth = 0.500000;
-			  f distance = 20.000000;
-			  f orbit = 0.000000;
-				position = 2.452248,-1.000000,-3.685287,0xDF5DA301;
-			}
-		}
-		[start_position]
-		{
-		  i id = 3;
-			position = -0.155233,0.000000,2.692665,0x2F8BB50E;
-			[camera]
-			{
-			  f azimuth = 0.500000;
-			  f distance = 20.000000;
-			  f orbit = 0.000000;
-				position = -0.155233,0.000000,2.692665,0x2F8BB50E;
-			}
-		}
-		[start_position]
-		{
-		  i id = 2;
-			position = -0.320740,0.000000,-0.916182,0x6EC49A4B;
-			[camera]
-			{
-			  f azimuth = 0.500000;
-			  f distance = 20.000000;
-			  f orbit = 0.000000;
-				position = -0.320740,0.000000,-0.916182,0x6EC49A4B;
-			}
-		}
-		[start_position]
-		{
-		  i id = 4;
-			position = -2.982849,0.000000,-0.214574,0xCDAE4E2C;
-			[camera]
-			{
-			  f azimuth = 0.500000;
-			  f distance = 20.000000;
-			  f orbit = 0.000000;
-				position = -2.982849,0.000000,-0.214574,0xCDAE4E2C;
-			}
-		}
-		[start_position]
-		{
-		  i id = 1;
-			position = -0.376587,0.000000,-2.989374,0x91DC85CE;
-			[camera]
-			{
-			  f azimuth = 0.500000;
-			  f distance = 20.000000;
-			  f orbit = 0.000000;
-				position = -0.376587,0.000000,-2.989374,0x91DC85CE;
-			}
-		}
-		[world_levels]
-		{
-			[elite]
-			{
-			  i required_level = 82;
-			}
-			[regular]
-			{
-			  i required_level = 0;
-			}
-			[veteran]
-			{
-			  i required_level = 54;
-			}
-		}
-	}
 	[t:start_group,n:durathan]
 	{
 	  b default = false;
@@ -235,6 +116,125 @@
 			[veteran]
 			{
 			  i required_level = 63;
+			}
+		}
+	}
+	[t:start_group,n:galtohar]
+	{
+	  b default = true;
+		description = "Hier gibt`s die besten Waffen und Tränke.";
+	  b dev_only = false;
+	  i id = 1;
+		screen_name = "galtohar";
+		[start_position]
+		{
+		  i id = 5;
+			position = 2.758059,0.000000,1.812553,0x1E8B70E3;
+			[camera]
+			{
+			  f azimuth = 0.500000;
+			  f distance = 20.000000;
+			  f orbit = 0.000000;
+				position = 2.758059,0.000000,1.812553,0x1E8B70E3;
+			}
+		}
+		[start_position]
+		{
+		  i id = 7;
+			position = -1.294386,0.000000,-3.113491,0x13D8AEB9;
+			[camera]
+			{
+			  f azimuth = 0.500000;
+			  f distance = 20.000000;
+			  f orbit = 0.000000;
+				position = -1.294386,0.000000,-3.113491,0x13D8AEB9;
+			}
+		}
+		[start_position]
+		{
+		  i id = 6;
+			position = 2.723892,0.000000,-0.722931,0x263CC2B4;
+			[camera]
+			{
+			  f azimuth = 0.500000;
+			  f distance = 20.000000;
+			  f orbit = 0.000000;
+				position = 2.723892,0.000000,-0.722931,0x263CC2B4;
+			}
+		}
+		[start_position]
+		{
+		  i id = 8;
+			position = 2.452248,-1.000000,-3.685287,0xDF5DA301;
+			[camera]
+			{
+			  f azimuth = 0.500000;
+			  f distance = 20.000000;
+			  f orbit = 0.000000;
+				position = 2.452248,-1.000000,-3.685287,0xDF5DA301;
+			}
+		}
+		[start_position]
+		{
+		  i id = 3;
+			position = -0.155233,0.000000,2.692665,0x2F8BB50E;
+			[camera]
+			{
+			  f azimuth = 0.500000;
+			  f distance = 20.000000;
+			  f orbit = 0.000000;
+				position = -0.155233,0.000000,2.692665,0x2F8BB50E;
+			}
+		}
+		[start_position]
+		{
+		  i id = 2;
+			position = -0.320740,0.000000,-0.916182,0x6EC49A4B;
+			[camera]
+			{
+			  f azimuth = 0.500000;
+			  f distance = 20.000000;
+			  f orbit = 0.000000;
+				position = -0.320740,0.000000,-0.916182,0x6EC49A4B;
+			}
+		}
+		[start_position]
+		{
+		  i id = 4;
+			position = -2.982849,0.000000,-0.214574,0xCDAE4E2C;
+			[camera]
+			{
+			  f azimuth = 0.500000;
+			  f distance = 20.000000;
+			  f orbit = 0.000000;
+				position = -2.982849,0.000000,-0.214574,0xCDAE4E2C;
+			}
+		}
+		[start_position]
+		{
+		  i id = 1;
+			position = -0.376587,0.000000,-2.989374,0x91DC85CE;
+			[camera]
+			{
+			  f azimuth = 0.500000;
+			  f distance = 20.000000;
+			  f orbit = 0.000000;
+				position = -0.376587,0.000000,-2.989374,0x91DC85CE;
+			}
+		}
+		[world_levels]
+		{
+			[elite]
+			{
+			  i required_level = 82;
+			}
+			[regular]
+			{
+			  i required_level = 0;
+			}
+			[veteran]
+			{
+			  i required_level = 54;
 			}
 		}
 	}
