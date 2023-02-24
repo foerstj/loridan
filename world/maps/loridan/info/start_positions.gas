@@ -1,6 +1,6 @@
 [start_positions]
 {
-	[t:start_group,n:default]
+	[t:start_group,n:galtohar]
 	{
 	  b default = true;
 		description = "Hier gibt`s die besten Waffen und Tränke.";
@@ -109,7 +109,7 @@
 			{
 			  i required_level = 82;
 			}
-			[normal]
+			[regular]
 			{
 			  i required_level = 0;
 			}
@@ -228,7 +228,7 @@
 			{
 			  i required_level = 89;
 			}
-			[normal]
+			[regular]
 			{
 			  i required_level = 16;
 			}
@@ -238,7 +238,7 @@
 			}
 		}
 	}
-	[t:start_group,n:himmelpfort]
+	[t:start_group,n:heavensgate]
 	{
 	  b default = false;
 		description = "Stadt der Engel";
@@ -347,7 +347,7 @@
 			{
 			  i required_level = 86;
 			}
-			[normal]
+			[regular]
 			{
 			  i required_level = 10;
 			}
@@ -357,7 +357,7 @@
 			}
 		}
 	}
-	[t:start_group,n:winterdorf]
+	[t:start_group,n:wintersville]
 	{
 	  b default = false;
 		description = "zieh dich warm an";
@@ -466,7 +466,7 @@
 			{
 			  i required_level = 84;
 			}
-			[normal]
+			[regular]
 			{
 			  i required_level = 6;
 			}

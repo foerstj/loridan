@@ -21,7 +21,7 @@
 	  f orbit = 0.000000;
 		position = 0.000000,0.000000,0.000000,0x00000000;
 	}
-      [worlds]
+	[worlds]
 	{
 		[regular]
 		{
