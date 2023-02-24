@@ -55,7 +55,7 @@
 	  p position = -2.12549,0,-1.8829,0x46bbe4fc;
 	}
 }
-[t:2w_barrel_glb_fh_r1,n:0x0020076c]
+[t:barrel_glb_fh_r1,n:0x0020076c]
 {
 	[inventory]
 	{
