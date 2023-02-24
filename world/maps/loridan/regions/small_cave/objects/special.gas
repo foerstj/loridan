@@ -227,6 +227,12 @@
 }
 [t:mana_shrine,n:0x0030001b]
 {
+	[fountain]
+	{
+	  f heal_amount = 3.6;
+	  f health_left = 468;
+	  f health_regen = 0.19274;
+	}
 	[placement]
 	{
 	  p position = -0.0693893,0.0600224,-0.0902405,0x01aa3c91;
