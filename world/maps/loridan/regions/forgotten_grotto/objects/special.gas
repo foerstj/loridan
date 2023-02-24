@@ -6,7 +6,6 @@
 		{
 			[*]
 			{
-				action* = set_player_world_location("forgotten_grotto");
 				action* = fade_nodes(0x00000007,8,2,-1,"in"), doc("sinkhole plate in when falling failsafe");
 			  b can_self_destruct = true;
 				condition* = receive_world_message("we_req_activate",0,"on_every_message");
@@ -34,6 +33,22 @@
 				occupants_group = ;
 			  f reset_duration = 0.000000;
 			  b single_player = true;
+			  b single_shot = false;
+			  b start_active = true;
+			}
+			[*]
+			{
+				action* = set_player_world_location("forgotten_grotto");
+			  b can_self_destruct = true;
+				condition* = receive_world_message("we_req_activate",0,"on_every_message");
+				condition* = party_member_within_node(0x00000007,-1,-1,-1,"wait_for_every_message");
+			  f delay = 0.000000;
+			  b flip_flop = false;
+			  b multi_player = true;
+			  b no_trig_bits = false;
+				occupants_group = ;
+			  f reset_duration = 0.000000;
+			  b single_player = false;
 			  b single_shot = false;
 			  b start_active = true;
 			}
@@ -125,7 +140,6 @@
 			[*]
 			{
 				action* = fade_nodes(0x00000007,1,-1,-1,"out:black");
-				action* = set_player_world_location("forgotten_grotto");
 				action* = mood_change("map_world_dm_r8_2");
 			  b can_self_destruct = true;
 				condition* = party_member_within_bounding_box(3.000000,1.500000,0.300000,"on_every_enter");
@@ -136,6 +150,21 @@
 				occupants_group = ;
 			  f reset_duration = 0.000000;
 			  b single_player = true;
+			  b single_shot = false;
+			  b start_active = true;
+			}
+			[*]
+			{
+				action* = set_player_world_location("forgotten_grotto");
+			  b can_self_destruct = true;
+				condition* = party_member_within_bounding_box(3.000000,1.500000,0.300000,"on_every_enter");
+			  f delay = 0.000000;
+			  b flip_flop = false;
+			  b multi_player = true;
+			  b no_trig_bits = false;
+				occupants_group = ;
+			  f reset_duration = 0.000000;
+			  b single_player = false;
 			  b single_shot = false;
 			  b start_active = true;
 			}
@@ -155,7 +184,6 @@
 			[*]
 			{
 				action* = fade_nodes(0x00000007,1,-1,-1,"in");
-				action* = set_player_world_location("mountain_pass");
 				action* = mood_change("multiplayer_world_snow_town_6");
 			  b can_self_destruct = true;
 				condition* = party_member_within_bounding_box(3.000000,1.500000,0.300000,"on_every_enter");
@@ -166,6 +194,21 @@
 				occupants_group = ;
 			  f reset_duration = 0.000000;
 			  b single_player = true;
+			  b single_shot = false;
+			  b start_active = true;
+			}
+			[*]
+			{
+				action* = set_player_world_location("mountain_pass");
+			  b can_self_destruct = true;
+				condition* = party_member_within_bounding_box(3.000000,1.500000,0.300000,"on_every_enter");
+			  f delay = 0.000000;
+			  b flip_flop = false;
+			  b multi_player = true;
+			  b no_trig_bits = false;
+				occupants_group = ;
+			  f reset_duration = 0.000000;
+			  b single_player = false;
 			  b single_shot = false;
 			  b start_active = true;
 			}
