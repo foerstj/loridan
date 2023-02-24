@@ -1,0 +1,21 @@
+[stitch_helper_data]
+{
+	source_region_guid = 0x0000000A;
+	source_region_name = heavensgate;
+	[t:stitch_editor,n:large_cave]
+	{
+		dest_region = large_cave;
+		[node_ids]
+		{
+			0x00000011 = 0x56A1E9FA,10;
+		}
+	}
+	[t:stitch_editor,n:trog_canyon]
+	{
+		dest_region = trog_canyon;
+		[node_ids]
+		{
+			0x00000012 = 0xD145E7C6,7;
+		}
+	}
+}

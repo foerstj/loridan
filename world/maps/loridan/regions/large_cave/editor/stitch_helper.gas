@@ -1,0 +1,21 @@
+[stitch_helper_data]
+{
+	source_region_guid = 0x00000009;
+	source_region_name = large_cave;
+	[t:stitch_editor,n:mountain_pass]
+	{
+		dest_region = mountain_pass;
+		[node_ids]
+		{
+			0x00000010 = 0x55B028DA,1;
+		}
+	}
+	[t:stitch_editor,n:heavensgate]
+	{
+		dest_region = heavensgate;
+		[node_ids]
+		{
+			0x00000011 = 0x6CE01202,10;
+		}
+	}
+}

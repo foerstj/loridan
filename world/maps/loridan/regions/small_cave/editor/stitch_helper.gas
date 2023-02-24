@@ -1,0 +1,21 @@
+[stitch_helper_data]
+{
+	source_region_guid = 0x00000003;
+	source_region_name = small_cave;
+	[t:stitch_editor,n:gadewitz_bush]
+	{
+		dest_region = gadewitz_bush;
+		[node_ids]
+		{
+			0x00000002 = 0x4AB063E4,10;
+		}
+	}
+	[t:stitch_editor,n:wintersville]
+	{
+		dest_region = wintersville;
+		[node_ids]
+		{
+			0x00000003 = 0x93757AA8,10;
+		}
+	}
+}

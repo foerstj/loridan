@@ -1,0 +1,31 @@
+[stitch_helper_data]
+{
+	source_region_guid = 0x00000007;
+	source_region_name = mountain_pass;
+	[t:stitch_editor,n:large_cave]
+	{
+		dest_region = large_cave;
+		[node_ids]
+		{
+			0x00000010 = 0x2FF8FE26,13;
+		}
+	}
+	[t:stitch_editor,n:forgotten_grotto]
+	{
+		dest_region = forgotten_grotto;
+		[node_ids]
+		{
+			0x00000008 = 0x3B096DCB,10;
+			0x00000009 = 0x25919FDA,13;
+		}
+	}
+	[t:stitch_editor,n:wintersville]
+	{
+		dest_region = wintersville;
+		[node_ids]
+		{
+			0x00000006 = 0x27FCF071,1;
+			0x00000007 = 0x27FCF071,2;
+		}
+	}
+}

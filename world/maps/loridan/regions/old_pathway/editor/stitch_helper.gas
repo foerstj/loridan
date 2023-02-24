@@ -1,0 +1,13 @@
+[stitch_helper_data]
+{
+	source_region_guid = 0x0000000C;
+	source_region_name = old_pathway;
+	[t:stitch_editor,n:durathan]
+	{
+		dest_region = durathan;
+		[node_ids]
+		{
+			0x0000000e = 0x2DD18797,1;
+		}
+	}
+}

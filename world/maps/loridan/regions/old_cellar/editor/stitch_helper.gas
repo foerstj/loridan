@@ -1,0 +1,14 @@
+[stitch_helper_data]
+{
+	source_region_guid = 0x00000006;
+	source_region_name = old_cellar;
+	[t:stitch_editor,n:wintersville]
+	{
+		dest_region = wintersville;
+		[node_ids]
+		{
+			0x00000004 = 0x0F184820,1;
+			0x00000005 = 0x8C3BC40B,1;
+		}
+	}
+}

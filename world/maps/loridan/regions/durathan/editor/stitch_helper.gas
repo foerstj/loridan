@@ -2,17 +2,17 @@
 {
 	source_region_guid = 0x0000000D;
 	source_region_name = durathan;
-	[t:stitch_editor,n:der_alte_weg]
+	[t:stitch_editor,n:old_pathway]
 	{
-		dest_region = der_alte_weg;
+		dest_region = old_pathway;
 		[node_ids]
 		{
 			0x0000000e = 0x38FD6895,13;
 		}
 	}
-	[t:stitch_editor,n:zwischenstueck]
+	[t:stitch_editor,n:spacer]
 	{
-		dest_region = zwischenstueck;
+		dest_region = spacer;
 		[node_ids]
 		{
 			0x00000014 = 0xF69E02AC,10;

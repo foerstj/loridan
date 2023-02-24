@@ -1,0 +1,21 @@
+[stitch_helper_data]
+{
+	source_region_guid = 0x00000002;
+	source_region_name = gadewitz_bush;
+	[t:stitch_editor,n:small_cave]
+	{
+		dest_region = small_cave;
+		[node_ids]
+		{
+			0x00000002 = 0xE7651F33,10;
+		}
+	}
+	[t:stitch_editor,n:galtohar]
+	{
+		dest_region = galtohar;
+		[node_ids]
+		{
+			0x00000001 = 0xDA181ACF,7;
+		}
+	}
+}
