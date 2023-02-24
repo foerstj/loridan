@@ -1,4 +1,4 @@
-[hilfe]
+[help]
 {
 	[text*]
 	{
@@ -6,7 +6,7 @@
 	  f scroll_rate = 10.000000;
 	}
 }
-[endlich]
+[finally]
 {
 	[text*]
 	{

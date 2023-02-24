@@ -50,7 +50,7 @@
 	{
 		[conversations]
 		{
-			* = else;
+			* = else_kling;
 		}
 	}
 	[mind]
@@ -182,7 +182,7 @@
 	{
 		[conversations]
 		{
-			* = utraeatussi;
+			* = utraean;
 		}
 	}
 	[placement]
@@ -197,7 +197,7 @@
 	{
 		[conversations]
 		{
-			* = durothan_zauberin;
+			* = durathan_mage;
 		}
 	}
 	[mind]
@@ -423,7 +423,7 @@
 	{
 		[conversations]
 		{
-			* = durothan_schmied;
+			* = durathan_smith;
 		}
 	}
 	[placement]

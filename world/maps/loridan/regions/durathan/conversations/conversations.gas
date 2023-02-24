@@ -8,7 +8,7 @@ Odin und Bronzebart sind die 2 dicksten.......ähm.......kampfstärksten Zwerge di
 	  f scroll_rate = 10.000000;
 	}
 }
-[durothan_schmied]
+[durathan_smith]
 {
 	[text*]
 	{
@@ -20,7 +20,7 @@ Klinge stumpf oder Rost an der Rüstung?
 	  f scroll_rate = 10.000000;
 	}
 }
-[durothan_zauberin]
+[durathan_mage]
 {
 	[text*]
 	{
@@ -29,7 +29,7 @@ Klinge stumpf oder Rost an der Rüstung?
 	  f scroll_rate = 10.000000;
 	}
 }
-[else]
+[else_kling]
 {
 	[text*]
 	{
@@ -64,7 +64,7 @@ Ich frag mich noch immer wieso ich diese Kratzbuerste geheiratet habe.";
 	  f scroll_rate = 10.000000;
 	}
 }
-[utraeatussi]
+[utraean]
 {
 	[text*]
 	{

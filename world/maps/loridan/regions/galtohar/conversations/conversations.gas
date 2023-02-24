@@ -18,7 +18,7 @@ Dort ist so mieses Wetter das ich mit meinen schwachen Augen kaum was sehen kann
 	  f scroll_rate = 10.000000;
 	}
 }
-[ichgruesseeuchfremdling]
+[greetings_stranger]
 {
 	[text*]
 	{
@@ -28,7 +28,7 @@ Dort ist so mieses Wetter das ich mit meinen schwachen Augen kaum was sehen kann
 	  f scroll_rate = 10.000000;
 	}
 }
-[tach_auch]
+[gday]
 {
 	[text*]
 	{

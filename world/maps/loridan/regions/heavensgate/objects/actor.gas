@@ -16,7 +16,7 @@
 	{
 		[conversations]
 		{
-			* = conv_magierin;
+			* = conv_mage;
 		}
 	}
 	[mind]
@@ -433,7 +433,7 @@
 	{
 		[conversations]
 		{
-			* = conv_rabe;
+			* = conv_raven;
 		}
 	}
 	[placement]
@@ -712,7 +712,7 @@
 	{
 		[conversations]
 		{
-			* = conv_kl-f;
+			* = conv_klf;
 		}
 	}
 	[placement]
@@ -1062,7 +1062,7 @@
 	{
 		[conversations]
 		{
-			* = conv_schmied;
+			* = conv_smith;
 		}
 	}
 	[mind]

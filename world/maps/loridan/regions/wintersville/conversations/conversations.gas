@@ -1,4 +1,4 @@
-[conversation_bruecke]
+[conversation_bridge]
 {
 	[text*]
 	{
@@ -72,7 +72,7 @@ Ihr solltet Euch bei mir mit neuen Zaubersprüchen und Tränken ausrüsten. Ich hör
 	  f scroll_rate = 10.000000;
 	}
 }
-[conversation_schmied]
+[conversation_smith]
 {
 	[text*]
 	{
@@ -84,7 +84,7 @@ Ich kann Euch auch meine besten Schwerter und Rüstungen zu einem günstigem Preis
 	  f scroll_rate = 10.000000;
 	}
 }
-[conversation_soldat]
+[conversation_soldier]
 {
 	[text*]
 	{
@@ -93,7 +93,7 @@ Leider kann ich mich kaum noch an etwas erinnern. Ich weiß nur das ich einen Weg
 	  f scroll_rate = 10.000000;
 	}
 }
-[conversation_wirt]
+[conversation_host]
 {
 	[text*]
 	{

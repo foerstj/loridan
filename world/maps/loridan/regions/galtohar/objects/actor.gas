@@ -4,7 +4,7 @@
 	{
 		[conversations]
 		{
-			* = tach_auch;
+			* = gday;
 		}
 	}
 	[placement]
@@ -18,7 +18,7 @@
 	{
 		[conversations]
 		{
-			* = ichgruesseeuchfremdling;
+			* = greetings_stranger;
 		}
 	}
 	[mind]

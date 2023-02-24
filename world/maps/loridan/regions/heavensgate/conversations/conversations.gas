@@ -16,7 +16,7 @@ Natürlich habe  ich heute das Glück, Wache schieben zu dürfen.";
 	  f scroll_rate = 10.000000;
 	}
 }
-[conv_kl-f]
+[conv_klf]
 {
 	[text*]
 	{
@@ -44,7 +44,7 @@ Hoffentlich lässt Leo  noch Küstennebel übrig.
 	  f scroll_rate = 10.000000;
 	}
 }
-[conv_magierin]
+[conv_mage]
 {
 	[text*]
 	{
@@ -73,7 +73,7 @@ Tolle  Hochzeit.";
 	  f scroll_rate = 10.000000;
 	}
 }
-[conv_rabe]
+[conv_raven]
 {
 	[text*]
 	{
@@ -82,7 +82,7 @@ Bitte stör meine Raben nicht. Wie Du siehst sind sie etwas zu gut gefüttert und 
 	  f scroll_rate = 10.000000;
 	}
 }
-[conv_schmied]
+[conv_smith]
 {
 	[text*]
 	{

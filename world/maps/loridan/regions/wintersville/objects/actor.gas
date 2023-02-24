@@ -792,7 +792,7 @@
 	{
 		[conversations]
 		{
-			* = conversation_bruecke;
+			* = conversation_bridge;
 		}
 	}
 	[placement]
@@ -829,7 +829,7 @@
 	{
 		[conversations]
 		{
-			* = conversation_soldat;
+			* = conversation_soldier;
 		}
 	}
 	[mind]
@@ -852,7 +852,7 @@
 	{
 		[conversations]
 		{
-			* = conversation_schmied;
+			* = conversation_smith;
 		}
 	}
 	[placement]
@@ -891,7 +891,7 @@
 	{
 		[conversations]
 		{
-			* = conversation_wirt;
+			* = conversation_host;
 		}
 	}
 	[placement]

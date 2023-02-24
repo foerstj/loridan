@@ -1511,7 +1511,7 @@
 	{
 		[conversations]
 		{
-			* = endlich;
+			* = finally;
 		}
 	}
 	[mind]
