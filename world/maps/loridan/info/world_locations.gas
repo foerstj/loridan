@@ -5,7 +5,7 @@
         id = 0101;
         screen_name = "leider gottes Galtohar";
     }
-    [t:location,n:gadewitz_bush]
+    [t:location,n:gadewitz_woods]
     {
         id = 0102;
         screen_name = "um pilze zu suchen den Gadewitzer Busch";

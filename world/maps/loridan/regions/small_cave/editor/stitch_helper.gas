@@ -2,9 +2,9 @@
 {
 	source_region_guid = 0x00000003;
 	source_region_name = small_cave;
-	[t:stitch_editor,n:gadewitz_bush]
+	[t:stitch_editor,n:gadewitz_woods]
 	{
-		dest_region = gadewitz_bush;
+		dest_region = gadewitz_woods;
 		[node_ids]
 		{
 			0x00000002 = 0x4AB063E4,10;
