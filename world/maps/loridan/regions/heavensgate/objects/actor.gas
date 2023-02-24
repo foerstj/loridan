@@ -427,7 +427,7 @@
 {
 	[common]
 	{
-		screen_name = "rabenfütterer ex-=RC";
+		screen_name = "Rabenfütterer ex-=RC";
 	}
 	[conversation]
 	{
@@ -452,7 +452,7 @@
 	{
 	  b is_multi_player = true;
 	  b rollover_display = true;
-		screen_name = "slim fast";
+		screen_name = "Slim Fast";
 	}
 	[placement]
 	{
@@ -469,7 +469,7 @@
 	{
 	  b is_multi_player = true;
 	  b rollover_display = true;
-		screen_name = "weight watchers";
+		screen_name = "Weight Watchers";
 	}
 	[placement]
 	{
@@ -567,7 +567,7 @@
 {
 	[common]
 	{
-		screen_name = "blowmind";
+		screen_name = "Blowmind";
 	}
 	[mind]
 	{
@@ -583,7 +583,7 @@
 {
 	[common]
 	{
-		screen_name = "pietfox";
+		screen_name = "Pietfox";
 	}
 	[conversation]
 	{
@@ -653,7 +653,7 @@
 {
 	[common]
 	{
-		screen_name = "anpera";
+		screen_name = "Anpera";
 	}
 	[mind]
 	{
@@ -683,7 +683,7 @@
 {
 	[common]
 	{
-		screen_name = "tom bombadil";
+		screen_name = "Tom Bombadil";
 	}
 	[conversation]
 	{

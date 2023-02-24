@@ -3,10 +3,10 @@
 	[t:start_group,n:durathan]
 	{
 	  b default = false;
-		description = "welcome in durathan";
+		description = "Welcome in Durathan";
 	  b dev_only = false;
 	  i id = 4;
-		screen_name = "durathan";
+		screen_name = "Durathan";
 		[start_position]
 		{
 		  i id = 9;
@@ -125,7 +125,7 @@
 		description = "Hier gibt`s die besten Waffen und Tränke.";
 	  b dev_only = false;
 	  i id = 1;
-		screen_name = "galtohar";
+		screen_name = "Galtohar";
 		[start_position]
 		{
 		  i id = 5;
@@ -360,7 +360,7 @@
 	[t:start_group,n:wintersville]
 	{
 	  b default = false;
-		description = "zieh dich warm an";
+		description = "Zieh dich warm an";
 	  b dev_only = false;
 	  i id = 2;
 		screen_name = "Winterdorf";

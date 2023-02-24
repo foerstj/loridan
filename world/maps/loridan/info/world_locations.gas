@@ -3,12 +3,12 @@
     [t:location,n:galtohar]
     {
         id = 0101;
-        screen_name = "leider gottes Galtohar";
+        screen_name = "leider Gottes Galtohar";
     }
     [t:location,n:gadewitz_woods]
     {
         id = 0102;
-        screen_name = "um pilze zu suchen den Gadewitzer Busch";
+        screen_name = "um Pilze zu suchen den Gadewitzer Busch";
     }
     [t:location,n:small_cave]
     {
@@ -48,7 +48,7 @@
     [t:location,n:heavensgate]
     {
         id = 0110;
-        screen_name = "himmelpfort dank Redbull";
+        screen_name = "Himmelpfort dank Redbull";
     }
     [t:location,n:trog_canyon]
     {

@@ -11041,7 +11041,7 @@
 	[common]
 	{
 	  b rollover_display = true;
-		screen_name = "König Leopolt";
+		screen_name = "KÃ¶nig Leopolt";
 	}
 	[placement]
 	{
@@ -11830,7 +11830,7 @@
 {
 	[common]
 	{
-		screen_name = "hasso";
+		screen_name = "Hasso";
 	}
 	[placement]
 	{
