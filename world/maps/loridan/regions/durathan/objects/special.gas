@@ -859,14 +859,14 @@
 	}
 	[placement]
 	{
-	  p position = -0.162529,0.1,1.49683,0x82de076c;
+	  p position = 1.26404,0.1,-0.834503,0x82de076c;
 	}
 }
 [t:use_point,n:0x00d0082b]
 {
 	[placement]
 	{
-	  p position = 1.39307,0.1,0.172089,0x82de076c;
+	  p position = 0.351815,0.1,1.32147,0x82de076c;
 	}
 }
 [t:use_point,n:0x00d00833]

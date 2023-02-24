@@ -134,7 +134,7 @@
 {
 	[placement]
 	{
-	  p position = -0.539947,0.0999999,0.979298,0x7986ec05;
+	  p position = -1.1116,0.0999999,-0.676433,0x7986ec05;
 	}
 }
 [t:trigger_rec_msg_activate,n:0x00a0087f]
@@ -163,7 +163,7 @@
 	}
 	[placement]
 	{
-	  p position = 0.66776,0.100004,1.36653,0x7986ec05;
+	  p position = 0.192932,0.100004,1.45942,0x7986ec05;
 	}
 }
 [t:use_point,n:0x00a0089c]

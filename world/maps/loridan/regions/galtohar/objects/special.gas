@@ -1113,21 +1113,21 @@
 	}
 	[placement]
 	{
-	  p position = 1.11488,0.100025,0.997124,0x93f8a045;
+	  p position = 0.113945,0.100025,1.51474,0x93f8a045;
 	}
 }
 [t:use_point,n:0x001005f7]
 {
 	[placement]
 	{
-	  p position = 0.0103455,0.1,-0.980488,0x93f8a045;
+	  p position = 0.946831,0.1,-0.937084,0x93f8a045;
 	}
 }
 [t:use_point,n:0x00100600]
 {
 	[placement]
 	{
-	  p position = -0.633148,0.0999999,1.09095,0x93f8a045;
+	  p position = -1.15936,0.0999994,-0.44014,0x93f8a045;
 	}
 }
 [t:trigger_generic,n:0x00100315]

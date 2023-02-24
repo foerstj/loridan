@@ -24,7 +24,7 @@
 	[placement]
 	{
 	  q orientation = 0,0.980849,0,-0.194771;
-	  p position = 0.586026,0.0999975,-1.4481,0x88718cb4;
+	  p position = 0,5,0,0x88718cb4;
 	}
 }
 [t:elevator_instant_4s_1c,n:0x00500020]
@@ -52,7 +52,7 @@
 	}
 	[placement]
 	{
-	  p position = 0.918413,0.1,-0.916074,0xf0238c61;
+	  p position = 0,5,0,0xf0238c61;
 	}
 }
 [t:elevator_instant_4s_1c,n:0x0050002a]
@@ -80,7 +80,7 @@
 	}
 	[placement]
 	{
-	  p position = 0.395957,0.0999994,-1.36835,0xf12aa693;
+	  p position = 0,5,0,0xf12aa693;
 	}
 }
 [t:elevator_instant_4s_1c,n:0x0050003a]
@@ -108,6 +108,6 @@
 	}
 	[placement]
 	{
-	  p position = -0.0602775,0.1,-1.34874,0xbaee8c54;
+	  p position = 0,5,0,0xbaee8c54;
 	}
 }

@@ -23,7 +23,7 @@
 	}
 	[placement]
 	{
-	  p position = -1.1149,0.100002,-0.248657,0x93f8a045;
+	  p position = 0,5,0,0x93f8a045;
 	}
 }
 [t:elevator_2s_1c_1n,n:0x00100475]

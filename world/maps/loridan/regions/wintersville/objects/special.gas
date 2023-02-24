@@ -1323,7 +1323,7 @@
 {
 	[placement]
 	{
-	  p position = 0.652993,0.099998,0.930136,0x98dd388c;
+	  p position = 0.405324,0.099998,1.56406,0x98dd388c;
 	}
 }
 [t:trigger_rec_msg_activate,n:0x00400139]
@@ -1352,14 +1352,14 @@
 	}
 	[placement]
 	{
-	  p position = -1.13706,0.0999999,-0.790108,0x98dd388c;
+	  p position = 1.02806,0.0999999,-1.05677,0x98dd388c;
 	}
 }
 [t:use_point,n:0x0040040d]
 {
 	[placement]
 	{
-	  p position = 0.628833,0.0999999,-0.883263,0x98dd388c;
+	  p position = -1.31913,0.0999999,0.0371297,0x98dd388c;
 	}
 }
 [t:use_point,n:0x00400077]
