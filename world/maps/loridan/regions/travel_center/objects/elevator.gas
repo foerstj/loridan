@@ -8,19 +8,11 @@
 	  i connect_door_location2_level2 = 11;
 	  x connect_node_location1 = 0x5040E631;
 	  x connect_node_location2 = 0x661F3AB1;
-	  i e2_connect_door_location1_level1 = 23;
-	  i e2_connect_door_location1_level2 = 21;
-	  i e2_connect_door_location2_level1 = 10;
-	  i e2_connect_door_location2_level2 = 12;
-	  i e2_elevator_door_location1_level1 = 2;
-	  i e2_elevator_door_location1_level2 = 2;
-	  i e2_elevator_door_location2_level1 = 2;
-	  i e2_elevator_door_location2_level2 = 2;
+	  i e2_connect_door_location1_level1 = 24;
+	  i e2_connect_door_location1_level2 = 22;
+	  i e2_connect_door_location2_level1 = 9;
+	  i e2_connect_door_location2_level2 = 11;
 	  x e2_elevator_node = 0x98DD388C;
-	  i elevator_door_location1_level1 = 2;
-	  i elevator_door_location1_level2 = 2;
-	  i elevator_door_location2_level1 = 2;
-	  i elevator_door_location2_level2 = 2;
 	  x elevator_node = 0x88718CB4;
 		location1_moving_to_lv1_actioninfo = "multiplayer_world_new_hub_teleport";
 		location1_moving_to_lv2_actioninfo = "multiplayer_world_teleport";
@@ -41,23 +33,15 @@
 	{
 	  i connect_door_location1_level1 = 20;
 	  i connect_door_location1_level2 = 18;
-	  i connect_door_location2_level1 = 10;
-	  i connect_door_location2_level2 = 12;
+	  i connect_door_location2_level1 = 9;
+	  i connect_door_location2_level2 = 11;
 	  x connect_node_location1 = 0x5040E631;
 	  x connect_node_location2 = 0x2CEB2E20;
-	  i e2_connect_door_location1_level1 = 19;
-	  i e2_connect_door_location1_level2 = 17;
+	  i e2_connect_door_location1_level1 = 20;
+	  i e2_connect_door_location1_level2 = 18;
 	  i e2_connect_door_location2_level1 = 9;
 	  i e2_connect_door_location2_level2 = 11;
-	  i e2_elevator_door_location1_level1 = 2;
-	  i e2_elevator_door_location1_level2 = 2;
-	  i e2_elevator_door_location2_level1 = 2;
-	  i e2_elevator_door_location2_level2 = 2;
 	  x e2_elevator_node = 0x93F8A045;
-	  i elevator_door_location1_level1 = 2;
-	  i elevator_door_location1_level2 = 2;
-	  i elevator_door_location2_level1 = 2;
-	  i elevator_door_location2_level2 = 2;
 	  x elevator_node = 0xF0238C61;
 		location1_moving_to_lv1_actioninfo = "multiplayer_world_new_hub_teleport";
 		location1_moving_to_lv2_actioninfo = "multiplayer_world_teleport";
@@ -75,10 +59,10 @@
 {
 	[elevator_instant_4s_1c]
 	{
-	  i connect_door_location1_level1 = 27;
-	  i connect_door_location1_level2 = 25;
-	  i connect_door_location2_level1 = 10;
-	  i connect_door_location2_level2 = 12;
+	  i connect_door_location1_level1 = 28;
+	  i connect_door_location1_level2 = 26;
+	  i connect_door_location2_level1 = 9;
+	  i connect_door_location2_level2 = 11;
 	  x connect_node_location1 = 0x5040E631;
 	  x connect_node_location2 = 0x61899311;
 	  i e2_connect_door_location1_level1 = 28;
@@ -86,10 +70,6 @@
 	  i e2_connect_door_location2_level1 = 9;
 	  i e2_connect_door_location2_level2 = 11;
 	  x e2_elevator_node = 0x7986EC05;
-	  i elevator_door_location1_level1 = 2;
-	  i elevator_door_location1_level2 = 2;
-	  i elevator_door_location2_level1 = 2;
-	  i elevator_door_location2_level2 = 2;
 	  x elevator_node = 0xF12AA693;
 		location1_moving_to_lv1_actioninfo = "multiplayer_world_new_hub_teleport";
 		location1_moving_to_lv2_actioninfo = "multiplayer_world_teleport";
@@ -109,19 +89,15 @@
 	{
 	  i connect_door_location1_level1 = 32;
 	  i connect_door_location1_level2 = 30;
-	  i connect_door_location2_level1 = 10;
-	  i connect_door_location2_level2 = 12;
+	  i connect_door_location2_level1 = 9;
+	  i connect_door_location2_level2 = 11;
 	  x connect_node_location1 = 0x5040E631;
 	  x connect_node_location2 = 0xCA6573D0;
-	  i e2_connect_door_location1_level1 = 31;
-	  i e2_connect_door_location1_level2 = 29;
+	  i e2_connect_door_location1_level1 = 32;
+	  i e2_connect_door_location1_level2 = 30;
 	  i e2_connect_door_location2_level1 = 9;
 	  i e2_connect_door_location2_level2 = 11;
-	  i e2_elevator_door_location2_level1 = 2;
-	  i e2_elevator_door_location2_level2 = 2;
 	  x e2_elevator_node = 0x82DE076C;
-	  i elevator_door_location2_level1 = 2;
-	  i elevator_door_location2_level2 = 2;
 	  x elevator_node = 0xBAEE8C54;
 		location1_moving_to_lv1_actioninfo = "multiplayer_world_new_hub_teleport";
 		location1_moving_to_lv2_actioninfo = "multiplayer_world_teleport";
