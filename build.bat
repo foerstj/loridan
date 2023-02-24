@@ -20,6 +20,8 @@ echo %mode%
 
 :: pre-build checks
 pushd %gaspy%
+venv\Scripts\python -m build.check_conversations %map%
+if %errorlevel% neq 0 pause
 venv\Scripts\python -m build.check_player_world_locations %map%
 if %errorlevel% neq 0 pause
 venv\Scripts\python -m build.check_moods %map%
