@@ -56,5 +56,10 @@ popd
 %tc%\RTC.exe -source "%tmp%\Bits" -out "%ds%\DSLOA\%map_cs%.dsmap" -copyright "Minotaurus 2006" -title "%map_cs%" -author "Johannes Förstner"
 if %errorlevel% neq 0 pause
 
+if not "%mode%"=="light" (
+  :: Compile German language resource file
+  call "%doc_dsloa%\Bits\build-de.bat"
+)
+
 :: Cleanup
 rmdir /S /Q "%tmp%\Bits"

@@ -3,66 +3,66 @@
     [t:location,n:galtohar]
     {
         id = 0101;
-        screen_name = "leider Gottes Galtohar";
+        screen_name = "Galtohar, alas";
     }
     [t:location,n:gadewitz_woods]
     {
         id = 0102;
-        screen_name = "um Pilze zu suchen den Gadewitzer Busch";
+        screen_name = "the Gadewitz Woods to pick mushrooms";
     }
     [t:location,n:small_cave]
     {
         id = 0103;
-        screen_name = "die kleine Höhle";
+        screen_name = "the little cave";
     }
     [t:location,n:wintersville]
     {
         id = 0104;
-        screen_name = "das Winterdorf leicht angefroren";
+        screen_name = "Wintersville slightly frozen";
     }
     [t:location,n:travel_center]
     {
         id = 0105;
-        screen_name = "das Reisezentrum mit Urlaubslaune";
+        screen_name = "the travel center in a holiday mood";
     }
     [t:location,n:old_cellar]
     {
         id = 0106;
-        screen_name = "den alten Keller mit zitternden Beinen";
+        screen_name = "the old cellar with trembling legs";
     }
     [t:location,n:mountain_pass]
     {
         id = 0107;
-        screen_name = "den Bergpass";
+        screen_name = "the mountain pass";
     }
     [t:location,n:forgotten_grotto]
     {
         id = 0108;
-        screen_name = "die vergessene Grotte, wegen seines Übergewichtes";
+        screen_name = "the forgotten grotto, because of his overweight";
     }
     [t:location,n:large_cave]
     {
         id = 0109;
-        screen_name = "die große Höhle";
+        screen_name = "the big cave";
     }
     [t:location,n:heavensgate]
     {
         id = 0110;
-        screen_name = "Himmelpfort dank Redbull";
+        screen_name = "Heavensgate thanks to Redbull";
     }
     [t:location,n:trog_canyon]
     {
         id = 0111;
-        screen_name = "die Trogschlucht";
+        screen_name = "the Trog canyon";
     }
     [t:location,n:durathan]
     {
         id = 0112;
-        screen_name = "Durathan etwas ramponiert";
+        screen_name = "Durathan a bit battered";
     }
     [t:location,n:old_pathway]
     {
         id = 0113;
-        screen_name = "durch scharfes Nachdenken, den alten Weg";
+        screen_name = "the old pathway thanks to hard thinking";
     }
 }

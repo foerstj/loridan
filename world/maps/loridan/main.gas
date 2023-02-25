@@ -1,6 +1,6 @@
 [t:map,n:map]
 {
-	description = "Willkommen im Land Loridan";
+	description = "Welcome to the Land of Loridan";
   b dev_only = false;
 	screen_name = "Loridan (remastered)";
 	timeofday = 0h0m;

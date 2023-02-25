@@ -3,7 +3,7 @@
 	[t:start_group,n:durathan]
 	{
 	  b default = false;
-		description = "Welcome in Durathan";
+		description = "Welcome to Durathan";
 	  b dev_only = false;
 	  i id = 4;
 		screen_name = "Durathan";
@@ -122,7 +122,7 @@
 	[t:start_group,n:galtohar]
 	{
 	  b default = true;
-		description = "Hier gibt`s die besten Waffen und Tränke.";
+		description = "Here are the best weapons and potions.";
 	  b dev_only = false;
 	  i id = 1;
 		screen_name = "Galtohar";
@@ -241,10 +241,10 @@
 	[t:start_group,n:heavensgate]
 	{
 	  b default = false;
-		description = "Stadt der Engel";
+		description = "City of Angels";
 	  b dev_only = false;
 	  i id = 3;
-		screen_name = "Himmelpfort";
+		screen_name = "Heavensgate";
 		[start_position]
 		{
 		  i id = 1;
@@ -360,10 +360,10 @@
 	[t:start_group,n:wintersville]
 	{
 	  b default = false;
-		description = "Zieh dich warm an";
+		description = "Dress warmly";
 	  b dev_only = false;
 	  i id = 2;
-		screen_name = "Winterdorf";
+		screen_name = "Wintersville";
 		[start_position]
 		{
 		  i id = 1;

@@ -1,0 +1,287 @@
+[t:0x0407,n:text]
+{
+    // map
+	[0x0000]
+	{
+		from = "Welcome to the Land of Loridan";
+		to = "Willkommen im Land Loridan";
+	}
+
+    // player world locations
+	[0x0000]
+	{
+		from = "Galtohar, alas";
+		to = "leider Gottes Galtohar";
+	}
+	[0x0000]
+	{
+		from = "the Gadewitz Woods to pick mushrooms";
+		to = "um Pilze zu suchen den Gadewitzer Busch";
+	}
+	[0x0000]
+	{
+		from = "the little cave";
+		to = "die kleine Höhle";
+	}
+	[0x0000]
+	{
+		from = "Wintersville slightly frozen";
+		to = "das Winterdorf leicht angefroren";
+	}
+	[0x0000]
+	{
+		from = "the travel center in a holiday mood";
+		to = "das Reisezentrum mit Urlaubslaune";
+	}
+	[0x0000]
+	{
+		from = "the old cellar with trembling legs";
+		to = "den alten Keller mit zitternden Beinen";
+	}
+	[0x0000]
+	{
+		from = "the mountain pass";
+		to = "den Bergpass";
+	}
+	[0x0000]
+	{
+		from = "the forgotten grotto, because of his overweight";
+		to = "die vergessene Grotte, wegen seines Übergewichtes";
+	}
+	[0x0000]
+	{
+		from = "the big cave";
+		to = "die große Höhle";
+	}
+	[0x0000]
+	{
+		from = "Heavensgate thanks to Redbull";
+		to = "Himmelpfort dank Redbull";
+	}
+	[0x0000]
+	{
+		from = "the Trog canyon";
+		to = "die Trogschlucht";
+	}
+	[0x0000]
+	{
+		from = "Durathan a bit battered";
+		to = "Durathan etwas ramponiert";
+	}
+	[0x0000]
+	{
+		from = "the old pathway thanks to hard thinking";
+		to = "durch scharfes Nachdenken, den alten Weg";
+	}
+
+    // start positions
+	[0x0000]
+	{
+		from = "Here are the best weapons and potions.";
+		to = "Hier gibt`s die besten Waffen und Tränke.";
+	}
+	[0x0000]
+	{
+		from = "Wintersville";
+		to = "Winterdorf";
+	}
+	[0x0000]
+	{
+		from = "Dress warmly";
+		to = "Zieh dich warm an";
+	}
+	[0x0000]
+	{
+		from = "Heavensgate";
+		to = "Himmelpfort";
+	}
+	[0x0000]
+	{
+		from = "City of Angels";
+		to = "Stadt der Engel";
+	}
+	[0x0000]
+	{
+		from = "Welcome to Durathan";
+		to = "Willkommen in Durathan";
+	}
+
+    // names
+	[0x0000]
+	{
+		from = "Bronzebeard";
+		to = "Bronzebart";
+	}
+	[0x0000]
+	{
+		from = "Hertha the Gene Chicken";
+		to = "Hertha das Genhuhn";
+	}
+	[0x0000]
+	{
+		from = "Rudi Ruessel";
+		to = "Rudi Rüssel";
+	}
+	[0x0000]
+	{
+		from = "Raven feeder ex-=RC";
+		to = "Rabenfütterer ex-=RC";
+	}
+	[0x0000]
+	{
+		from = "Ruediger";
+		to = "Rüdiger";
+	}
+	[0x0000]
+	{
+		from = "Baerbel";
+		to = "Bärbel";
+	}
+	[0x0000]
+	{
+		from = "Herr von Boedefeld";
+		to = "Herr von Bödefeld";
+	}
+	[0x0000]
+	{
+		from = "King Leopolt";
+		to = "König Leopolt";
+	}
+
+    // signs
+	[0x0000]
+	{
+		from = "Come visit Rheiny and Su";
+		to = "Besuchen Sie doch mal Rheiny und Su";
+	}
+	[0x0000]
+	{
+		from = "The cheerful poisoner";
+		to = "Zur lustigen Giftmixerin";
+	}
+	[0x0000]
+	{
+		from = "-=Tyrael=- Protector of the city";
+		to = "-=Tyrael=- Hüter der Stadt";
+	}
+	[0x0000]
+	{
+		from = "Gary's hardware and shoe store";
+		to = "Gary's Schuhladen und Eisenwaren";
+	}
+	[0x0000]
+	{
+		from = "Beware! The architect of this bridge should be known from 'Asterix and Cleopatra'.";
+		to = "Beware! Der Architekt dieser Brücke müsste aus 'Asterix und Kleopatra' bekannt sein.";
+	}
+	[0x0000]
+	{
+		from = "Mage shop";
+		to = "Zauberladen";
+	}
+	[0x0000]
+	{
+		from = "The warm Cervicia";
+		to = "Zur warmen Cervisia";
+	}
+	[0x0000]
+	{
+		from = "Gary's shoe store";
+		to = "Gary's Schuhladen";
+	}
+	[0x0000]
+	{
+		from = "Under renovation. Please do not enter. Sincerely, Pietfox";
+		to = "Hier wird renoviert. Bitte nicht betreten. MfG Pietfox";
+	}
+	[0x0000]
+	{
+		from = "Beware! The bridge was constructed badly. Please enter carefully!";
+		to = "Beware! Die Brücke wurde falsch konstruiert. Bitte vorsichtig betreten!";
+	}
+	[0x0000]
+	{
+		from = "If there's no million you were too slow";
+		to = "wenn keine Million drin ist warst Du zulangsam";
+	}
+	[0x0000]
+	{
+		from = "Welcome to Wintersville";
+		to = "Willkommen in Winterdorf";
+	}
+	[0x0000]
+	{
+		from = "Mino's chair";
+		to = "Minos Stuhl";
+	}
+	[0x0000]
+	{
+		from = "Construction site! Parents are responsible for their children!";
+		to = "Hier wird gebaut! Eltern haften für ihre Kinder!";
+	}
+	[0x0000]
+	{
+		from = "Careful, free-roaming animals.";
+		to = "Vorsicht, freilaufende Tiere.";
+	}
+	[0x0000]
+	{
+		from = "Hoffmann & Sons";
+		to = "Hoffmann & Söhne";
+	}
+	[0x0000]
+	{
+		from = "Beware! This is no path for new characters";
+		to = "Beware! Dies ist kein Weg für neue Charaktere";
+	}
+	[0x0000]
+	{
+		from = "Kuestennebel makes small and ugly :-)";
+		to = "Küstennebel macht klein und haesslich :-)";
+	}
+	[0x0000]
+	{
+		from = "Rheiny, what are you doing here?";
+		to = "Rheiny, was machst du denn hier?";
+	}
+	[0x0000]
+	{
+		from = "Aunt Kaethe's magic room";
+		to = "Tante Käthes Zauberstube";
+	}
+	[0x0000]
+	{
+		from = "Clearance sale today";
+		to = "Heute Räumungsverkauf";
+	}
+	[0x0000]
+	{
+		from = "Regular space table";
+		to = "Raum-Stammtisch";
+	}
+	[0x0000]
+	{
+		from = "Find the lever, where bones become Furies a mushroom sees red";
+		to = "Finde den Schalter, wo Knochen zur Furie werden sieht ein Pilz rot";
+	}
+	[0x0000]
+	{
+		from = "Welcome to the valley of the clueless";
+		to = "Willkommen im Tal der Ahnungslosen";
+	}
+	[0x0000]
+	{
+		from = "For magicians and those who think they are";
+		to = "Für Magier und Solche die meinen es zu sein";
+	}
+	[0x0000]
+	{
+		from = "Grab the Million";
+		to = "Schnapp Dir die Million";
+	}
+	[0x0000]
+	{
+		from = "Hoffmann & Sons - Steel in its sharpest form";
+		to = "Hoffmann & Söhne - Stahl in seiner schärfsten Form";
+	}
+}
