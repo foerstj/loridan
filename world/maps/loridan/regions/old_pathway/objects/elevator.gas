@@ -50,6 +50,7 @@
 	  x elevator_node = 0xB12672EF;
 	  f level2_message_delay = 8;
 	  x level2_scid = 0x00C0010C;
+		material = "dc_pulley";
 	}
 	[placement]
 	{
