@@ -2,7 +2,7 @@
 {
 	[common]
 	{
-		screen_name = "Winterdorf";
+		screen_name = "Wintersville";
 	}
 	[on_off_lever]
 	{
@@ -44,7 +44,7 @@
 {
 	[common]
 	{
-		screen_name = "Himmelpfort";
+		screen_name = "Heavensgate";
 	}
 	[on_off_lever]
 	{

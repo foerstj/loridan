@@ -2,8 +2,8 @@
 {
 	[text*]
 	{
-		screen_text = "Ähm
-Hallo......tja .............ähm.......wie soll ich sagen?........Ich glaube....ähm.....ich hab mich verfahren. So ein Navi muß man ja auch erstmal bedienen können.";
+		screen_text = "Um...
+Hello... well... um... how should I say?... I think... um... I got lost. These navigation systems aren't easy to operate.";
 	  f scroll_rate = 5.000000;
 	}
 }

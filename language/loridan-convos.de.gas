@@ -148,8 +148,6 @@ Wie ich sehe bin ich nicht der einzige Tollpatsch.
 Ich war mit meinem Zögling Lobo auf dem Weg nach Himmelpfort, als ich mich plötzlich hier unten wiederfand. Zu meinem Pech ist mein Drache auch noch, in der Kälte dort oben, geschrumpft.
 Mit so einem Minidrachen kann ich doch nicht in den Kampf ziehen.";
 	}
-
-    // Heavensgate
 	[0x0000]
 	{
 		from = "Greetings!
@@ -288,7 +286,9 @@ Ich frag mich noch immer wieso ich diese Kratzbuerste geheiratet habe.";
 	}
 	[0x0000]
 	{
-		from = "";
+		from = "Hello!
+I'm the remnant of an old clown family.
+Unfortunately, my make-up is also slowly running out.";
 		to = "Hallo!
 Ich bin das Überbleibsel einer alten Clownfamilie.
 Leider geht meine Schminke auch langsam zur Neige.";
