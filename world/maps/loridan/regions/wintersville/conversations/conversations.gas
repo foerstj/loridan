@@ -2,9 +2,8 @@
 {
 	[text*]
 	{
-		screen_text = "Eine schönen Tag wünsch ich Fremder. Wie Ihr seht ist die Brücke eingestürzt. Es war vor 3 Tagen als hier so seltsame Gestalten vorbei kamen. Sie nannten sich die Keeper. Deren Drachen waren so fett, das nach Ihnen die Brücke einbrach.
-Jetzt suchen wir verzweifelt Handwerker die das wieder ins Reine bringen können. Die Zwerge hätten das nötige Werkzeug. Doch sie haben gerade Betriebsferien, weil ihr König Leopolt seine Nira geheiratet hat. Er hat sich dafür extra  einen Anzug  und 
-neue Turnschuhe gekauft";
+		screen_text = "Wish you a pleasant day, stranger. As you can see, the bridge has collapsed. It happened 3 days ago when some strange folks came by here. They called themselves the Keepers. Their dragons were so fat, that the bridge collapsed behind them.
+Now we are desperately looking for craftsmen that can fix it up. The Dwarves would have the right tools, but they're on company holidays since their King Leopolt marries his Nira. He even bought a suit and new sneakers.";
 	  f scroll_rate = 10.000000;
 	}
 }
@@ -12,8 +11,8 @@ neue Turnschuhe gekauft";
 {
 	[text*]
 	{
-		screen_text = "Oh
-Ich hätte nie gedacht das sich hier mal Jemand blicken läßt. Seit Tagen hopsen diese Biester da draußen rum. Könntet Ihr nicht den Weg  ins Dorf freimachen?";
+		screen_text = "Oh!
+Never would have thought someone would show up. Those beasts have been hopping around out there for days. Couldn't you clear the way into the village?";
 	  f scroll_rate = 10.000000;
 	}
 }
@@ -21,9 +20,9 @@ Ich hätte nie gedacht das sich hier mal Jemand blicken läßt. Seit Tagen hopsen d
 {
 	[text*]
 	{
-		screen_text = "Hallo
-Was wollt Ihr denn in diesem Kaff? Hier ist doch wirklich der Hund begraben.
-Wenn`s hier noch Esel gäbe, wär ich längst mit meinem Krempel verschwunden.";
+		screen_text = "Hello!
+What do you want in this hole? Here's where the dog is buried.
+If there were any donkeys left, I would have disappeared with my stuff long ago.";
 	  f scroll_rate = 10.000000;
 	}
 }
@@ -31,7 +30,7 @@ Wenn`s hier noch Esel gäbe, wär ich längst mit meinem Krempel verschwunden.";
 {
 	[text*]
 	{
-		screen_text = "Ich möchte nicht unhöflich erscheinen. Doch wir möchten gerade essen und ich bitte sie deshalb zu gehen.";
+		screen_text = "I don't want to seem rude. But we're about to eat, so I'm asking you to leave.";
 	  f scroll_rate = 10.000000;
 	}
 }
@@ -39,7 +38,7 @@ Wenn`s hier noch Esel gäbe, wär ich längst mit meinem Krempel verschwunden.";
 {
 	[text*]
 	{
-		screen_text = "Wie tief muss man denn sinken, das man mit Lilo aufs Zimmer geht?";
+		screen_text = "How low do you have to sink to go to the room with Lilo?";
 	  f scroll_rate = 10.000000;
 	}
 }
@@ -47,8 +46,8 @@ Wenn`s hier noch Esel gäbe, wär ich längst mit meinem Krempel verschwunden.";
 {
 	[text*]
 	{
-		screen_text = "Verzeihung, aber leider hab ich keine Esel mehr. 
-Die letzten 4 hab ich an die Keeper verkauft. Sie brauchten auf die Schnelle was für Ihre Drachen, zum verfüttern.";
+		screen_text = "I'm sorry, but I don't have any donkeys left.
+I sold last 4 of them to the Keepers. They needed something to feed their dragons quickly.";
 	  f scroll_rate = 10.000000;
 	}
 }
@@ -56,9 +55,9 @@ Die letzten 4 hab ich an die Keeper verkauft. Sie brauchten auf die Schnelle was
 {
 	[text*]
 	{
-		screen_text = "Hi
-Ich bin Lilo.
- Wenn Du Zeit hättest, ich hab oben ein Zimmer.";
+		screen_text = "Hi!
+I am Lilo.
+If you have time, I have a room upstairs.";
 	  f scroll_rate = 10.000000;
 	}
 }
@@ -67,8 +66,8 @@ Ich bin Lilo.
 	[text*]
 	{
 		choice = shop;
-		screen_text = "Hallo einsamer Wanderer!
-Ihr solltet Euch bei mir mit neuen Zaubersprüchen und Tränken ausrüsten. Ich hörte von vielen Gefahren die in den Höhlen und Wäldern lauern sollen.";
+		screen_text = "Hello, lonesome wanderer!
+You should kit up with new spells and potions from me. I heard of many dangers lurking in the caves and forests.";
 	  f scroll_rate = 10.000000;
 	}
 }
@@ -77,10 +76,10 @@ Ihr solltet Euch bei mir mit neuen Zaubersprüchen und Tränken ausrüsten. Ich hör
 	[text*]
 	{
 		choice = shop;
-		screen_text = "Na, habt ihr mich also gefunden!
-Der Haupteingang ist leider wegen Platzmangel versperrt.
-Wir führen Damenschuhe jeder Größe.
-Ich kann Euch auch meine besten Schwerter und Rüstungen zu einem günstigem Preis anbieten. Schaut Euch nur um.";
+		screen_text = "Well, have you found me!
+The main entrance is unfortunately blocked due to lack of space.
+We carry women's shoes of all sizes.
+I can also offer you my best swords and armor at a bargain price. Just look around.";
 	  f scroll_rate = 10.000000;
 	}
 }
@@ -88,8 +87,8 @@ Ich kann Euch auch meine besten Schwerter und Rüstungen zu einem günstigem Preis
 {
 	[text*]
 	{
-		screen_text = "Guten Tag
-Leider kann ich mich kaum noch an etwas erinnern. Ich weiß nur das ich einen Weg auf die andere Seite der Brücke suchte. Ich war, glaube ich in einer Art von Keller, als mich diese Biester angriffen. Bevor ich bewußtlos wurde, muss ich mich noch bis zum Schmied geschleppt haben. Denn dort fand mich dann Helga.";
+		screen_text = "Good day.
+Unfortunately I can hardly remember anything. I only know I was looking for a way to the other side of the bridge. I think I was in a kind of cellar, when those beasts attacked me. Before I fell unconscious, I must have managed to drag myself to the smith. Cause that's where Helga found me.";
 	  f scroll_rate = 10.000000;
 	}
 }
@@ -97,9 +96,9 @@ Leider kann ich mich kaum noch an etwas erinnern. Ich weiß nur das ich einen Weg
 {
 	[text*]
 	{
-		screen_text = "Guten Tag!
-Ich will nicht lang drumherum reden. Setzt Euch hin, wartet bis Ihr bedient werdet und verhaltet Euch ruhig.
-Wenn es wegen Euch hier drin Ärger gibt, fliegt ihr schneller raus als Gom seinen Stab  aus der Erde ziehen kann.";
+		screen_text = "Hello!
+I don't want to beat around the bush. Sit down, wait to be served and keep quiet.
+If there's trouble in here because of you, you'll be out faster than Gom can pull his staff out of the ground.";
 	  f scroll_rate = 10.000000;
 	}
 }

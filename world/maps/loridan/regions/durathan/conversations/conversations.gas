@@ -2,9 +2,9 @@
 {
 	[text*]
 	{
-		screen_text = "Hallo Fremder
-Wir versuchen hier die Stellung zu halten bis Verstärkung kommt.
-Odin und Bronzebart sind die 2 dicksten.......ähm.......kampfstärksten Zwerge die ich je sah. Ohne diese beiden würde es schlecht um uns stehen.";
+		screen_text = "Hello, stranger.
+We're trying to hold the position here until reinforcements arrive.
+Odin and Bronzebeard are the 2 fattest... um... strongest dwarves I've ever seen. Without these two, things would be bad for us.";
 	  f scroll_rate = 10.000000;
 	}
 }
@@ -13,10 +13,9 @@ Odin und Bronzebart sind die 2 dicksten.......ähm.......kampfstärksten Zwerge di
 	[text*]
 	{
 		choice = shop;
-		screen_text = "Moin Moin
-Wat hamm`se denn für Sorgen?
-Klinge stumpf oder Rost an der Rüstung?
-";
+		screen_text = "Moin Moin!
+What's your trouble?
+Blade dull or rusty armor?";
 	  f scroll_rate = 10.000000;
 	}
 }
@@ -25,7 +24,7 @@ Klinge stumpf oder Rost an der Rüstung?
 	[text*]
 	{
 		choice = shop;
-		screen_text = "Kommt nur Herein und schaut was ich für Euch habe.";
+		screen_text = "Just come in and see what I have for you.";
 	  f scroll_rate = 10.000000;
 	}
 }
@@ -33,8 +32,8 @@ Klinge stumpf oder Rost an der Rüstung?
 {
 	[text*]
 	{
-		screen_text = "Guten Tag
-Ich bin Else Kling. Darf ich Dir zur Stärkung etwas Buttermilch anbieten?";
+		screen_text = "Good day.
+I am Else Kling. May I offer you some buttermilk to strengthen you?";
 	  f scroll_rate = 10.000000;
 	}
 }
@@ -44,15 +43,15 @@ Ich bin Else Kling. Darf ich Dir zur Stärkung etwas Buttermilch anbieten?";
 	{
 		choice = more;
 	  i order = 0;
-		screen_text = "Hallo
-Kennst Du meine Alte schon?
-Ich frag mich noch immer wieso ich diese Kratzbuerste geheiratet habe.";
+		screen_text = "Hello.
+Do you already know my old lady?
+I still wonder why I married that scratching brush.";
 	  f scroll_rate = 10.000000;
 	}
 	[text*]
 	{
 	  i order = 1;
-		screen_text = "Hast Du nicht zufällig ein Fläschchen Weinbrand? Mir ist so komisch, ich fühle mich.........so..........nüchtern.";
+		screen_text = "Don't you happen to have a bottle of brandy? I'm so weird, feeling... so... sober.";
 	  f scroll_rate = 10.000000;
 	}
 }
@@ -60,7 +59,7 @@ Ich frag mich noch immer wieso ich diese Kratzbuerste geheiratet habe.";
 {
 	[text*]
 	{
-		screen_text = "Geht besser nicht da hinter. Ich sah dort schreckliche Kreaturen.";
+		screen_text = "Better not go back there. I saw terrible creatures there.";
 	  f scroll_rate = 10.000000;
 	}
 }
@@ -68,9 +67,9 @@ Ich frag mich noch immer wieso ich diese Kratzbuerste geheiratet habe.";
 {
 	[text*]
 	{
-		screen_text = "Hallo
-Ich bin das Überbleibsel einer alten Clownfamilie.
-Leider geht meine Schminke auch langsam zur Neige.";
+		screen_text = "Hello!
+I'm the remnant of an old clown family.
+Unfortunately, my make-up is also slowly running out.";
 	  f scroll_rate = 10.000000;
 	}
 }

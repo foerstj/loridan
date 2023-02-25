@@ -2,7 +2,7 @@
 {
 	[text*]
 	{
-		screen_text = "Endlich läßt sich mal jemand blicken. Ich sitze hier 2 Tage fest. Mein Bruder hat ein Haus im Gadewitzer Busch. Er wollte mich vor 4 Tagen besuchen. Doch als er Vorgestern immer noch nicht bei mir war, machte ich mich auf den Weg ihn zu suchen. ";
+		screen_text = "Finally someone shows up. I'm stuck here for 2 days. My brother has a house in the Gadewitz Woods. He wanted to visit me 4 days ago. But when he was still not with me the day before yesterday, I set out to look for him.";
 	  f scroll_rate = 10.000000;
 	}
 }
@@ -10,7 +10,7 @@
 {
 	[text*]
 	{
-		screen_text = "Habt Ihr was von meinem Bruder gehört?.";
+		screen_text = "Have you heard anything from my brother?";
 	  f scroll_rate = 10.000000;
 	}
 }

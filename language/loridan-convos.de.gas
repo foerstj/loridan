@@ -1,0 +1,296 @@
+[t:0x0407,n:text]
+{
+    // Galtohar
+	[0x0000]
+	{
+		from = "Stop! I have to warn you, the way to Wintersville is blocked by wild creatures.
+Surely you have noticed that Galtohar is fairly deserted. Well, I assume they are all still in Heavensgate at the wedding.
+Unfortunately the travel center is already in the hands of these monsters and I don't want to go over the mountain pass by foot.
+The weather up there is so bad that I can hardly see anything with my weak eyes.";
+		to = "Halt! Ich muss Euch warnen, der Weg nach Winterdorf wird von wilden Kreaturen blockiert.
+Sicher habt Ihr auch bemerkt, dass Galtohar ziemlich verlassen ist. Nun, die sind wohl noch alle in Himmelpfort bei der Hochzeit.
+Leider ist das Reisezentrum schon in den Händen dieser Monster und zu Fuss über den Bergpass will ich nicht gehen.
+Dort ist so mieses Wetter, dass ich mit meinen schwachen Augen kaum was sehen kann.";
+	}
+	[0x0000]
+	{
+		from = "Step closer and choose wisely.";
+		to = "So tretet nur näher und wählet mit Bedacht.";
+	}
+	[0x0000]
+	{
+		from = "I hope my humble offer will find your approval.";
+		to = "Ich hoffe mein bescheidenes Angebot findet Eure Anerkennung.";
+	}
+	[0x0000]
+	{
+		from = "Greetings.
+Our opening hours are: Monday to Friday from 8 till 19 o'clock.
+But better ask my sister to be sure. She also conducts the sales talks.";
+		to = "Ich heiße Euch willkommen.
+Unsere Öffnungszeiten sind: Montags bis Freitags von 8 bis 19 Uhr.
+Aber fragen Sie zur Sicherheit lieber nochmal meine Schwester. Sie führt auch die Verkaufsgespräche.";
+	}
+
+    // small cave
+	[0x0000]
+	{
+		from = "Finally someone shows up. I'm stuck here for 2 days. My brother has a house in the Gadewitz Woods. He wanted to visit me 4 days ago. But when he was still not with me the day before yesterday, I set out to look for him.";
+		to = "Endlich lässt sich mal jemand blicken. Ich sitze hier 2 Tage fest. Mein Bruder hat ein Haus im Gadewitzer Busch. Er wollte mich vor 4 Tagen besuchen. Doch als er vorgestern immer noch nicht bei mir war, machte ich mich auf den Weg ihn zu suchen.";
+	}
+	[0x0000]
+	{
+		from = "Have you heard anything from my brother?";
+		to = "Habt Ihr was von meinem Bruder gehört?";
+	}
+
+    // Wintersville
+	[0x0000]
+	{
+		from = "Wish you a pleasant day, stranger. As you can see, the bridge has collapsed. It happened 3 days ago when some strange folks came by here. They called themselves the Keepers. Their dragons were so fat, that the bridge collapsed behind them.
+Now we are desperately looking for craftsmen that can fix it up. The Dwarves would have the right tools, but they're on company holidays since their King Leopolt marries his Nira. He even bought a suit and new sneakers.";
+		to = "Einen schönen Tag wünsch' ich, Fremder. Wie Ihr seht ist die Brücke eingestürzt. Es war vor 3 Tagen als hier so seltsame Gestalten vorbei kamen. Sie nannten sich die Keeper. Deren Drachen waren so fett, das nach Ihnen die Brücke einbrach.
+Jetzt suchen wir verzweifelt Handwerker die das wieder ins Reine bringen können. Die Zwerge hätten das nötige Werkzeug. Doch sie haben gerade Betriebsferien, weil ihr König Leopolt seine Nira geheiratet hat. Er hat sich dafür extra einen Anzug und neue Turnschuhe gekauft.";
+	}
+	[0x0000]
+	{
+		from = "Oh!
+Never would have thought someone would show up. Those beasts have been hopping around out there for days. Couldn't you clear the way into the village?";
+		to = "Oh!
+Ich hätte nie gedacht dass sich hier mal jemand blicken lässt. Seit Tagen hopsen diese Biester da draußen rum. Könntet Ihr nicht den Weg ins Dorf freimachen?";
+	}
+	[0x0000]
+	{
+		from = "Hello!
+What do you want in this hole? Here's where the dog is buried.
+If there were any donkeys left, I would have disappeared with my stuff long ago.";
+		to = "Hallo!
+Was wollt Ihr denn in diesem Kaff? Hier ist doch wirklich der Hund begraben.
+Wenn's hier noch Esel gäbe, wär ich längst mit meinem Krempel verschwunden.";
+	}
+	[0x0000]
+	{
+		from = "I don't want to seem rude. But we're about to eat, so I'm asking you to leave.";
+		to = "Ich möchte nicht unhöflich erscheinen. Doch wir möchten gerade essen und ich bitte Sie deshalb zu gehen.";
+	}
+	[0x0000]
+	{
+		from = "Hi!
+I am Lilo.
+If you have time, I have a room upstairs.";
+		to = "Hi!
+Ich bin Lilo.
+Wenn Du Zeit hättest, ich hab oben ein Zimmer.";
+	}
+	[0x0000]
+	{
+		from = "How low do you have to sink to go to the room with Lilo?";
+		to = "Wie tief muss man denn sinken, dass man mit Lilo aufs Zimmer geht?";
+	}
+	[0x0000]
+	{
+		from = "I'm sorry, but I don't have any donkeys left.
+I sold last 4 of them to the Keepers. They needed something to feed their dragons quickly.";
+		to = "Verzeihung, aber leider hab ich keine Esel mehr. 
+Die letzten 4 hab ich an die Keeper verkauft. Sie brauchten auf die Schnelle was für Ihre Drachen, zum verfüttern.";
+	}
+	[0x0000]
+	{
+		from = "Hello, lonesome wanderer!
+You should kit up with new spells and potions from me. I heard of many dangers lurking in the caves and forests.";
+		to = "Hallo, einsamer Wanderer!
+Ihr solltet Euch bei mir mit neuen Zaubersprüchen und Tränken ausrüsten. Ich hörte von vielen Gefahren die in den Höhlen und Wäldern lauern sollen.";
+	}
+	[0x0000]
+	{
+		from = "Well, have you found me!
+The main entrance is unfortunately blocked due to lack of space.
+We carry women's shoes of all sizes.
+I can also offer you my best swords and armor at a bargain price. Just look around.";
+		to = "Na, habt ihr mich also gefunden!
+Der Haupteingang ist leider wegen Platzmangel versperrt.
+Wir führen Damenschuhe jeder Größe.
+Ich kann Euch auch meine besten Schwerter und Rüstungen zu einem günstigem Preis anbieten. Schaut Euch nur um.";
+	}
+	[0x0000]
+	{
+		from = "Good day.
+Unfortunately I can hardly remember anything. I only know I was looking for a way to the other side of the bridge. I think I was in a kind of cellar, when those beasts attacked me. Before I fell unconscious, I must have managed to drag myself to the smith. Cause that's where Helga found me.";
+		to = "Guten Tag.
+Leider kann ich mich kaum noch an etwas erinnern. Ich weiß nur dass ich einen Weg auf die andere Seite der Brücke suchte. Ich war glaube ich in einer Art von Keller, als mich diese Biester angriffen. Bevor ich bewusstlos wurde, muss ich mich noch bis zum Schmied geschleppt haben. Denn dort fand mich dann Helga.";
+	}
+	[0x0000]
+	{
+		from = "Hello!
+I don't want to beat around the bush. Sit down, wait to be served and keep quiet.
+If there's trouble in here because of you, you'll be out faster than Gom can pull his staff out of the ground.";
+		to = "Guten Tag!
+Ich will nicht lang drumherum reden. Setzt Euch hin, wartet bis Ihr bedient werdet und verhaltet Euch ruhig.
+Wenn es wegen Euch hier drin Ärger gibt, fliegt Ihr schneller raus als Gom seinen Stab aus der Erde ziehen kann.";
+	}
+
+    // forgotten grotto
+	[0x0000]
+	{
+		from = "Um...
+Hello... well... um... how should I say?... I think... um... I got lost. These navigation systems aren't easy to operate.";
+		to = "Ähm...
+Hallo... tja... ähm... wie soll ich sagen?... Ich glaube... ähm... ich hab mich verfahren. So ein Navi muss man ja auch erstmal bedienen können.";
+	}
+	[0x0000]
+	{
+		from = "Oh hello!
+As I can see I'm not the only blunderer here.
+I was on the way to Heavensgate with my Lobo when I suddenly found myself down here. Unfortunately for me, my dragon also shrunk in the cold up there.
+I can't go into battle with a mini dragon like that.";
+		to = "Oh Hallo!
+Wie ich sehe bin ich nicht der einzige Tollpatsch. 
+Ich war mit meinem Zögling Lobo auf dem Weg nach Himmelpfort, als ich mich plötzlich hier unten wiederfand. Zu meinem Pech ist mein Drache auch noch, in der Kälte dort oben, geschrumpft.
+Mit so einem Minidrachen kann ich doch nicht in den Kampf ziehen.";
+	}
+
+    // Heavensgate
+	[0x0000]
+	{
+		from = "Greetings!
+It's a mystery to me how you made it here. These damn Trog are getting ever more audacious. Last night they attacked our outpost.
+Of course, today I'm lucky enough to be on guard duty.";
+		to = "Ich grüsse Euch!
+Es ist mir ein Rätsel wie Ihr es hierher geschafft habt. Diese verdammten Trogs werden immer dreister. Gestern Nacht haben sie unseren Vorposten überfallen.
+Natürlich habe ich heute das Glück, Wache schieben zu dürfen.";
+	}
+	[0x0000]
+	{
+		from = "Can you tell me where I should make the first cut?";
+		to = "Kannst Du mir mal verraten wo ich den ersten Schnitt machen soll?";
+	}
+	[0x0000]
+	{
+		from = "Actually I should be on guard duty.
+But a sip in honor...";
+		to = "Eigentlich muss ich doch Wache schieben.
+Aber ein Schlückchen in Ehren...";
+	}
+	[0x0000]
+	{
+		from = "Take care, I think Poldi wants to eat ya.";
+		to = "Pass auf, ich glaub Poldi will Dir fressen.";
+	}
+	[0x0000]
+	{
+		from = "Hi!
+I am -=AFK=- Mace, Blowmind has assigned me to watch after all. Even though today I had the day off.
+Hopefully there'll still be some Kuestennebel left over from Leo.";
+		to = "Hi!
+Ich bin -=AFK=- Mace, Blowmind hat mich nun doch zur Wache eingeteilt. Dabei hatte ich doch heute frei.
+Hoffentlich lässt Leo noch Küstennebel übrig.";
+	}
+	[0x0000]
+	{
+		from = "Come on in.
+It's been rare lately that someone from Wintersville finds our way.";
+		to = "Tretet nur ein.
+Es kommt in letzter Zeit selten vor, dass jemand aus Winterdorf zu uns findet.";
+	}
+	[0x0000]
+	{
+		from = "That's what happens when you think you can do one more Kuestennebel.
+Great wedding.";
+		to = "Das kommt davon wenn man meint ein Küstennebel geht noch.
+Tolle Hochzeit.";
+	}
+	[0x0000]
+	{
+		from = "G'day. I hope you stayed away from my house in Galtohar. It is currently being overhauled. Do you know if my old gray horses are doing well? I'm getting worried about the two of them.";
+		to = "Tach. Ich hoffe Ihr habt Euch von meinem Haus in Galtohar fern gehalten. Es wird gerade generalüberholt. Wisst Ihr ob es meinen alten Grauschimmeln gut geht? So langsam mache ich mir Sorgen wegen der beiden.";
+	}
+	[0x0000]
+	{
+		from = "Hi.
+Please don't disturb my ravens. As you can see they are fed a bit too well and therefore have problems with taking off.";
+		to = "Hi.
+Bitte stör meine Raben nicht. Wie Du siehst sind sie etwas zu gut gefüttert und haben deshalb Probleme mit dem abheben.";
+	}
+	[0x0000]
+	{
+		from = "Howdy.
+Since the trade routes were blocked by the Trog, business has been so bad that I had to close my forge and now I'm throwing everything out in this hut at a bargain price.";
+		to = "Grüss Dich.
+Seit die Handelsrouten durch die Trogs blockiert sind, läuft das Geschäft so mies, dass ich meine Schmiede schliessen musste und jetzt in dieser Hütte alles zum Schleuderpreis rauswerfe.";
+	}
+	[0x0000]
+	{
+		from = "I'd rather celebrate too, but someone has to do the serving.";
+		to = "Ich würde ja auch lieber feiern, aber einer muss ja den Ausschank machen.";
+	}
+	[0x0000]
+	{
+		from = "Good day.
+I've been wanting to sell my pig for weeks. But I'm afraid nobody wants it.";
+		to = "Guten Tag.
+Ich will schon seit Wochen mein Schwein verkaufen. Doch ich glaube das mag keiner.";
+	}
+	[0x0000]
+	{
+		from = "The most important thing is to always turn and pour over evenly.";
+		to = "Das wichtigste ist, immer gleichmäßig drehen und übergießen.";
+	}
+
+    // Durathan
+	[0x0000]
+	{
+		from = "Hello, stranger.
+We're trying to hold the position here until reinforcements arrive.
+Odin and Bronzebeard are the 2 fattest... um... strongest dwarves I've ever seen. Without these two, things would be bad for us.";
+		to = "Hallo, Fremder.
+Wir versuchen hier die Stellung zu halten bis Verstärkung kommt.
+Odin und Bronzebart sind die 2 dicksten... ähm... kampfstärksten Zwerge die ich je sah. Ohne diese beiden würde es schlecht um uns stehen.";
+	}
+	[0x0000]
+	{
+		from = "Moin Moin!
+What's your trouble?
+Blade dull or rusty armor?";
+		to = "Moin Moin!
+Wat hamm'se denn für Sorgen?
+Klinge stumpf oder Rost an der Rüstung?";
+	}
+	[0x0000]
+	{
+		from = "Just come in and see what I have for you.";
+		to = "Kommt nur herein und schaut was ich für Euch habe.";
+	}
+	[0x0000]
+	{
+		from = "Good day.
+I am Else Kling. May I offer you some buttermilk to strengthen you?";
+		to = "Guten Tag.
+Ich bin Else Kling. Darf ich Dir zur Stärkung etwas Buttermilch anbieten?";
+	}
+	[0x0000]
+	{
+		from = "Hello.
+Do you already know my old lady?
+I still wonder why I married that scratching brush.";
+		to = "Hallo.
+Kennst Du meine Alte schon?
+Ich frag mich noch immer wieso ich diese Kratzbuerste geheiratet habe.";
+	}
+	[0x0000]
+	{
+		from = "Don't you happen to have a bottle of brandy? I'm so weird, feeling... so... sober.";
+		to = "Hast Du nicht zufällig ein Fläschchen Weinbrand? Mir ist so komisch, ich fühle mich... so... nüchtern.";
+	}
+	[0x0000]
+	{
+		from = "Better not go back there. I saw terrible creatures there.";
+		to = "Geht besser nicht da hinter. Ich sah dort schreckliche Kreaturen.";
+	}
+	[0x0000]
+	{
+		from = "";
+		to = "Hallo!
+Ich bin das Überbleibsel einer alten Clownfamilie.
+Leider geht meine Schminke auch langsam zur Neige.";
+	}
+}

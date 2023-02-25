@@ -11,10 +11,10 @@ Hallo......tja .............ähm.......wie soll ich sagen?........Ich glaube....ä
 {
 	[text*]
 	{
-		screen_text = "Oh Hallo
-Wie ich sehe bin ich nicht der einzige Tollpatsch. 
-Ich war mit meinem Zögling Lobo auf dem Weg nach Himmelpfort, als ich mich plötzlich hier unten wiederfand. Zu meinem Pech ist mein Drache auch noch, in der Kälte dort oben, geschrumpft.
-Mit so einem Minidrachen kann ich doch nicht in den Kampf ziehen. ";
+		screen_text = "Oh hello!
+As I can see I'm not the only blunderer here.
+I was on the way to Heavensgate with my Lobo when I suddenly found myself down here. Unfortunately for me, my dragon also shrunk in the cold up there.
+I can't go into battle with a mini dragon like that.";
 	  f scroll_rate = 8.000000;
 	}
 }

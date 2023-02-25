@@ -2,10 +2,10 @@
 {
 	[text*]
 	{
-		screen_text = "Halt! Ich muß Euch warnen, der Weg nach Winterdorf wird von wilden Kreaturen blockiert.
-Sicher habt Ihr auch bemerkt das Galtohar ziemlich verlassen ist. Nun, die sind wohl noch alle in Himmelpfort bei der Hochzeit.
-Leider ist das Reisezentrum schon in den Händen dieser Monster und zu Fuss  über den Bergpass will ich nicht gehen.
-Dort ist so mieses Wetter das ich mit meinen schwachen Augen kaum was sehen kann.";
+		screen_text = "Stop! I have to warn you, the way to Wintersville is blocked by wild creatures.
+Surely you have noticed that Galtohar is fairly deserted. Well, I assume they are all still in Heavensgate at the wedding.
+Unfortunately the travel center is already in the hands of these monsters and I don't want to go over the mountain pass by foot.
+The weather up there is so bad that I can hardly see anything with my weak eyes.";
 	  f scroll_rate = 10.000000;
 	}
 }
@@ -14,7 +14,7 @@ Dort ist so mieses Wetter das ich mit meinen schwachen Augen kaum was sehen kann
 	[text*]
 	{
 		choice = shop;
-		screen_text = "So tretet nur näher und wählet mit bedacht.";
+		screen_text = "Step closer and choose wisely.";
 	  f scroll_rate = 10.000000;
 	}
 }
@@ -23,8 +23,7 @@ Dort ist so mieses Wetter das ich mit meinen schwachen Augen kaum was sehen kann
 	[text*]
 	{
 		choice = shop;
-		screen_text = "Ich hoffe mein bescheidenes Angebot findet eure Anerkennung.
-";
+		screen_text = "I hope my humble offer will find your approval.";
 	  f scroll_rate = 10.000000;
 	}
 }
@@ -33,10 +32,9 @@ Dort ist so mieses Wetter das ich mit meinen schwachen Augen kaum was sehen kann
 	[text*]
 	{
 		choice = more;
-		screen_text = "Ich heiße Euch willkommen.
-Unsere Öffnungszeiten sind: Montags bis Freitags von 8 bis 19Uhr
-Aber fragen sie zur Sicherheit lieber nochmal meine Schwester. Sie führt auch die Verkaufsgespräche.
-";
+		screen_text = "Greetings.
+Our opening hours are: Monday to Friday from 8 till 19 o'clock.
+But better ask my sister to be sure. She also conducts the sales talks.";
 	  f scroll_rate = 10.000000;
 	}
 }

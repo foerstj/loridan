@@ -2,9 +2,9 @@
 {
 	[text*]
 	{
-		screen_text = "Ich grüsse Euch
-Es ist mir ein Rätsel wie Ihr es hierher geschafft habt. Diese verdammten Trog`s werden immer dreißter. Gestern nacht  haben sie unseren Vorposten überfallen.
-Natürlich habe  ich heute das Glück, Wache schieben zu dürfen.";
+		screen_text = "Greetings!
+It's a mystery to me how you made it here. These damn Trog are getting ever more audacious. Last night they attacked our outpost.
+Of course, today I'm lucky enough to be on guard duty.";
 	  f scroll_rate = 10.000000;
 	}
 }
@@ -12,7 +12,7 @@ Natürlich habe  ich heute das Glück, Wache schieben zu dürfen.";
 {
 	[text*]
 	{
-		screen_text = "Kannst Du mir mal verraten wo ich den ersten Schnitt machen soll?";
+		screen_text = "Can you tell me where I should make the first cut?";
 	  f scroll_rate = 10.000000;
 	}
 }
@@ -20,8 +20,8 @@ Natürlich habe  ich heute das Glück, Wache schieben zu dürfen.";
 {
 	[text*]
 	{
-		screen_text = "Eigentlich muss  ich doch  Wache schieben.
-Aber ein Schlückchen in Ehren..............";
+		screen_text = "Actually I should be on guard duty.
+But a sip in honor...";
 	  f scroll_rate = 10.000000;
 	}
 }
@@ -29,7 +29,7 @@ Aber ein Schlückchen in Ehren..............";
 {
 	[text*]
 	{
-		screen_text = "Pass auf,  ich glaub Poldi will Dir fressen.";
+		screen_text = "Take care, I think Poldi wants to eat ya.";
 	  f scroll_rate = 10.000000;
 	}
 }
@@ -37,10 +37,9 @@ Aber ein Schlückchen in Ehren..............";
 {
 	[text*]
 	{
-		screen_text = "Hi
-Ich bin -=AFK=-  Mace, Blowmind hat mich nun doch zur Wache eingeteilt. Dabei hatte  ich doch heute frei. 
-Hoffentlich lässt Leo  noch Küstennebel übrig.
-";
+		screen_text = "Hi!
+I am -=AFK=- Mace, Blowmind has assigned me to watch after all. Even though today I had the day off.
+Hopefully there'll still be some Kuestennebel left over from Leo.";
 	  f scroll_rate = 10.000000;
 	}
 }
@@ -49,8 +48,8 @@ Hoffentlich lässt Leo  noch Küstennebel übrig.
 	[text*]
 	{
 		choice = shop;
-		screen_text = "Tretet nur ein.
-Es kommt  in letzter Zeit selten vor, das jemand aus Winterdorf zu uns findet.";
+		screen_text = "Come on in.
+It's been rare lately that someone from Wintersville finds our way.";
 	  f scroll_rate = 10.000000;
 	}
 }
@@ -58,8 +57,8 @@ Es kommt  in letzter Zeit selten vor, das jemand aus Winterdorf zu uns findet.";
 {
 	[text*]
 	{
-		screen_text = "Das kommt davon  wenn man  meint  ein Küstennebel geht noch.
-Tolle  Hochzeit.";
+		screen_text = "That's what happens when you think you can do one more Kuestennebel.
+Great wedding.";
 	  f scroll_rate = 10.000000;
 	}
 }
@@ -67,9 +66,7 @@ Tolle  Hochzeit.";
 {
 	[text*]
 	{
-		screen_text = "Tach. Ich hoffe Ihr habt Euch von meinem Haus in Galtohar fern gehalten. Es wird
- gerade generalüberholt. Wißt Ihr ob es meinen alten Grauschimmeln gut geht? So langsam mache ich mir Sorgen
- wegen der Beiden.";
+		screen_text = "G'day. I hope you stayed away from my house in Galtohar. It is currently being overhauled. Do you know if my old gray horses are doing well? I'm getting worried about the two of them.";
 	  f scroll_rate = 10.000000;
 	}
 }
@@ -77,8 +74,8 @@ Tolle  Hochzeit.";
 {
 	[text*]
 	{
-		screen_text = "Hi
-Bitte stör meine Raben nicht. Wie Du siehst sind sie etwas zu gut gefüttert und haben deshalb Probleme mit dem abheben.";
+		screen_text = "Hi.
+Please don't disturb my ravens. As you can see they are fed a bit too well and therefore have problems with taking off.";
 	  f scroll_rate = 10.000000;
 	}
 }
@@ -87,8 +84,8 @@ Bitte stör meine Raben nicht. Wie Du siehst sind sie etwas zu gut gefüttert und 
 	[text*]
 	{
 		choice = shop;
-		screen_text = "Grüss Dich.
-Seit die Handelsrouten durch die Trog`s blockiert sind, läuft das Geschäft so mies, das ich meine Schmiede schliessen mußte und jetzt in dieser Hütte  alles zum schleuder Preis  rauswerfe.";
+		screen_text = "Howdy.
+Since the trade routes were blocked by the Trog, business has been so bad that I had to close my forge and now I'm throwing everything out in this hut at a bargain price.";
 	  f scroll_rate = 10.000000;
 	}
 }
@@ -96,7 +93,7 @@ Seit die Handelsrouten durch die Trog`s blockiert sind, läuft das Geschäft so mi
 {
 	[text*]
 	{
-		screen_text = "Ich würde ja auch lieber feiern, aber einer muss ja den Ausschank machen.";
+		screen_text = "I'd rather celebrate too, but someone has to do the serving.";
 	  f scroll_rate = 10.000000;
 	}
 }
@@ -104,8 +101,8 @@ Seit die Handelsrouten durch die Trog`s blockiert sind, läuft das Geschäft so mi
 {
 	[text*]
 	{
-		screen_text = "Guten Tag
-Ich will schon seit Wochen mein Schwein verkaufen. Doch ich glaube das mag keiner.";
+		screen_text = "Good day.
+I've been wanting to sell my pig for weeks. But I'm afraid nobody wants it.";
 	  f scroll_rate = 10.000000;
 	}
 }
@@ -113,7 +110,7 @@ Ich will schon seit Wochen mein Schwein verkaufen. Doch ich glaube das mag keine
 {
 	[text*]
 	{
-		screen_text = "Das wichtigste  ist,  immer gleichmäßig drehen und übergießen.";
+		screen_text = "The most important thing is to always turn and pour over evenly.";
 	  f scroll_rate = 10.000000;
 	}
 }
