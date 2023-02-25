@@ -138,12 +138,11 @@
 {
 	[common]
 	{
-		dev_instance_text = "camera help";
 		[instance_triggers]
 		{
 			[*]
 			{
-				action* = fade_nodes(0x00000004,1,-1,-1,"out:black");
+				action* = fade_nodes(0x00000004,-1,-1,-1,"out:black");
 				action* = mood_change("map_world_sr_r1_3");
 			  b can_self_destruct = true;
 				condition* = party_member_within_bounding_box(0.200000,0.500000,3.500000,"on_every_enter");
@@ -184,13 +183,12 @@
 {
 	[common]
 	{
-		dev_instance_text = "camera help";
 		[instance_triggers]
 		{
 			[*]
 			{
 				action* = mood_change("multiplayer_world_snow_town_3");
-				action* = fade_nodes(0x00000004,1,-1,-1,"in");
+				action* = fade_nodes(0x00000004,-1,-1,-1,"in");
 			  b can_self_destruct = true;
 				condition* = party_member_within_bounding_box(0.200000,0.500000,3.500000,"on_every_enter");
 			  f delay = 0.000000;
@@ -313,7 +311,7 @@
 			[*]
 			{
 				action* = mood_change("multiplayer_world_snow_town_3");
-				action* = fade_nodes(0x00000004,1,-1,-1,"in");
+				action* = fade_nodes(0x00000004,-1,-1,-1,"in");
 				action* = send_world_message("we_req_activate",0x00600016,0f,"all_conditions","every",0);
 			  b can_self_destruct = true;
 				condition* = party_member_within_bounding_box(0.200000,0.500000,2.500000,"on_every_enter");
@@ -354,12 +352,11 @@
 {
 	[common]
 	{
-		dev_instance_text = "camera help";
 		[instance_triggers]
 		{
 			[*]
 			{
-				action* = fade_nodes(0x00000004,1,-1,-1,"out:black");
+				action* = fade_nodes(0x00000004,-1,-1,-1,"out:black");
 				action* = mood_change("map_world_sr_r1_3");
 			  b can_self_destruct = true;
 				condition* = party_member_within_bounding_box(0.200000,0.500000,2.500000,"on_every_enter");
