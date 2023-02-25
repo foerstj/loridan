@@ -156,3 +156,11 @@
 	  p position = 1.19576,-0.699835,-0.00889206,0xdd17fc32;
 	}
 }
+[t:post_ice_01,n:0x0060010e]
+{
+	[placement]
+	{
+	  q orientation = 0,-0.707107,0,0.707107;
+	  p position = 3.94966,0,-0.302303,0xba86d5b6;
+	}
+}
