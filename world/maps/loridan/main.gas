@@ -2,7 +2,7 @@
 {
 	description = "Welcome to the Land of Loridan";
   b dev_only = false;
-	screen_name = "Loridan (remastered)";
+	screen_name = "Loridan (revisited)";
 	timeofday = 0h0m;
   b use_node_mesh_index = true;
   f world_frustum_radius = 45.000000;
