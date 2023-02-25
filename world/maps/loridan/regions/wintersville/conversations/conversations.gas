@@ -2,7 +2,7 @@
 {
 	[text*]
 	{
-		screen_text = "Wish you a pleasant day, stranger. As you can see, the bridge has collapsed. It happened 3 days ago when some strange folks came by here. They called themselves the Keepers. Their dragons were so fat, that the bridge collapsed behind them.
+		screen_text = "Wish you a pleasant day, stranger. As you can see, the bridge has collapsed. It happened three days ago when some strange folks came by here. They called themselves the Keepers. Their dragons were so fat, that the bridge collapsed behind them.
 Now we are desperately looking for craftsmen that can fix it up. The Dwarves would have the right tools, but they're on company holidays since their King Leopolt marries his Nira. He even bought a suit and new sneakers.";
 	  f scroll_rate = 10.000000;
 	}
@@ -47,7 +47,7 @@ If there were any donkeys left, I would have disappeared with my stuff long ago.
 	[text*]
 	{
 		screen_text = "I'm sorry, but I don't have any donkeys left.
-I sold last 4 of them to the Keepers. They needed something to feed their dragons quickly.";
+I sold last four of them to the Keepers. They needed something to feed their dragons quickly.";
 	  f scroll_rate = 10.000000;
 	}
 }

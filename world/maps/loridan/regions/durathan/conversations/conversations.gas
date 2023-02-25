@@ -4,7 +4,7 @@
 	{
 		screen_text = "Hello, stranger.
 We're trying to hold the position here until reinforcements arrive.
-Odin and Bronzebeard are the 2 fattest... um... strongest dwarves I've ever seen. Without these two, things would be bad for us.";
+Odin and Bronzebeard are the two fattest... um... strongest dwarves I've ever seen. Without these two, things would be bad for us.";
 	  f scroll_rate = 10.000000;
 	}
 }

@@ -2,7 +2,7 @@
 {
 	[text*]
 	{
-		screen_text = "Finally someone shows up. I'm stuck here for 2 days. My brother has a house in the Gadewitz Woods. He wanted to visit me 4 days ago. But when he was still not with me the day before yesterday, I set out to look for him.";
+		screen_text = "Finally someone shows up. I'm stuck here for two days. My brother has a house in the Gadewitz Woods. He wanted to visit me four days ago. But when he was still not with me the day before yesterday, I set out to look for him.";
 	  f scroll_rate = 10.000000;
 	}
 }

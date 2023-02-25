@@ -46,7 +46,7 @@
 	[0x0000]
 	{
 		from = "the forgotten grotto, because of his overweight";
-		to = "die vergessene Grotte, wegen seines Übergewichtes";
+		to = "die vergessene Grotte wegen seines Übergewichtes";
 	}
 	[0x0000]
 	{
@@ -71,14 +71,14 @@
 	[0x0000]
 	{
 		from = "the old pathway thanks to hard thinking";
-		to = "durch scharfes Nachdenken, den alten Weg";
+		to = "durch scharfes Nachdenken den alten Weg";
 	}
 
     // start positions
 	[0x0000]
 	{
-		from = "Here are the best weapons and potions.";
-		to = "Hier gibt's die besten Waffen und Tränke.";
+		from = "Here are the best weapons and potions";
+		to = "Hier gibt's die besten Waffen und Tränke";
 	}
 	[0x0000]
 	{
@@ -172,7 +172,7 @@
 	[0x0000]
 	{
 		from = "Beware! The architect of this bridge should be known from 'Asterix and Cleopatra'.";
-		to = "Beware! Der Architekt dieser Brücke müsste aus 'Asterix und Kleopatra' bekannt sein.";
+		to = "Vorsicht! Der Architekt dieser Brücke müsste aus 'Asterix und Kleopatra' bekannt sein.";
 	}
 	[0x0000]
 	{
@@ -197,12 +197,12 @@
 	[0x0000]
 	{
 		from = "Beware! The bridge was constructed badly. Please enter carefully!";
-		to = "Beware! Die Brücke wurde falsch konstruiert. Bitte vorsichtig betreten!";
+		to = "Vorsicht! Die Brücke wurde falsch konstruiert. Bitte vorsichtig betreten!";
 	}
 	[0x0000]
 	{
-		from = "If there's no million you were too slow";
-		to = "wenn keine Million drin ist warst Du zulangsam";
+		from = "If there's no million in it, you were too slow";
+		to = "Wenn keine Million drin ist, warst Du zu langsam";
 	}
 	[0x0000]
 	{
@@ -232,7 +232,7 @@
 	[0x0000]
 	{
 		from = "Beware! This is no path for new characters";
-		to = "Beware! Dies ist kein Weg für neue Charaktere";
+		to = "Vorsicht! Dies ist kein Weg für neue Charaktere";
 	}
 	[0x0000]
 	{
@@ -272,7 +272,7 @@
 	[0x0000]
 	{
 		from = "For magicians and those who think they are";
-		to = "Für Magier und Solche die meinen es zu sein";
+		to = "Für Magier und solche die meinen es zu sein";
 	}
 	[0x0000]
 	{

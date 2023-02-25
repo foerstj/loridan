@@ -35,8 +35,8 @@ Aber fragen Sie zur Sicherheit lieber nochmal meine Schwester. Sie führt auch d
     // small cave
 	[0x0000]
 	{
-		from = "Finally someone shows up. I'm stuck here for 2 days. My brother has a house in the Gadewitz Woods. He wanted to visit me 4 days ago. But when he was still not with me the day before yesterday, I set out to look for him.";
-		to = "Endlich lässt sich mal jemand blicken. Ich sitze hier 2 Tage fest. Mein Bruder hat ein Haus im Gadewitzer Busch. Er wollte mich vor 4 Tagen besuchen. Doch als er vorgestern immer noch nicht bei mir war, machte ich mich auf den Weg ihn zu suchen.";
+		from = "Finally someone shows up. I'm stuck here for two days. My brother has a house in the Gadewitz Woods. He wanted to visit me four days ago. But when he was still not with me the day before yesterday, I set out to look for him.";
+		to = "Endlich lässt sich mal jemand blicken. Ich sitze hier zwei Tage fest. Mein Bruder hat ein Haus im Gadewitzer Busch. Er wollte mich vor vier Tagen besuchen. Doch als er vorgestern immer noch nicht bei mir war, machte ich mich auf den Weg ihn zu suchen.";
 	}
 	[0x0000]
 	{
@@ -47,9 +47,9 @@ Aber fragen Sie zur Sicherheit lieber nochmal meine Schwester. Sie führt auch d
     // Wintersville
 	[0x0000]
 	{
-		from = "Wish you a pleasant day, stranger. As you can see, the bridge has collapsed. It happened 3 days ago when some strange folks came by here. They called themselves the Keepers. Their dragons were so fat, that the bridge collapsed behind them.
+		from = "Wish you a pleasant day, stranger. As you can see, the bridge has collapsed. It happened three days ago when some strange folks came by here. They called themselves the Keepers. Their dragons were so fat, that the bridge collapsed behind them.
 Now we are desperately looking for craftsmen that can fix it up. The Dwarves would have the right tools, but they're on company holidays since their King Leopolt marries his Nira. He even bought a suit and new sneakers.";
-		to = "Einen schönen Tag wünsch' ich, Fremder. Wie Ihr seht ist die Brücke eingestürzt. Es war vor 3 Tagen als hier so seltsame Gestalten vorbei kamen. Sie nannten sich die Keeper. Deren Drachen waren so fett, das nach Ihnen die Brücke einbrach.
+		to = "Einen schönen Tag wünsch' ich, Fremder. Wie Ihr seht ist die Brücke eingestürzt. Es war vor drei Tagen als hier so seltsame Gestalten vorbei kamen. Sie nannten sich die Keeper. Deren Drachen waren so fett, das nach Ihnen die Brücke einbrach.
 Jetzt suchen wir verzweifelt Handwerker die das wieder ins Reine bringen können. Die Zwerge hätten das nötige Werkzeug. Doch sie haben gerade Betriebsferien, weil ihr König Leopolt seine Nira geheiratet hat. Er hat sich dafür extra einen Anzug und neue Turnschuhe gekauft.";
 	}
 	[0x0000]
@@ -90,9 +90,9 @@ Wenn Du Zeit hättest, ich hab oben ein Zimmer.";
 	[0x0000]
 	{
 		from = "I'm sorry, but I don't have any donkeys left.
-I sold last 4 of them to the Keepers. They needed something to feed their dragons quickly.";
+I sold last four of them to the Keepers. They needed something to feed their dragons quickly.";
 		to = "Verzeihung, aber leider hab ich keine Esel mehr. 
-Die letzten 4 hab ich an die Keeper verkauft. Sie brauchten auf die Schnelle was für Ihre Drachen, zum verfüttern.";
+Die letzten vier hab ich an die Keeper verkauft. Sie brauchten auf die Schnelle was für Ihre Drachen, zum verfüttern.";
 	}
 	[0x0000]
 	{
@@ -239,10 +239,10 @@ Ich will schon seit Wochen mein Schwein verkaufen. Doch ich glaube das mag keine
 	{
 		from = "Hello, stranger.
 We're trying to hold the position here until reinforcements arrive.
-Odin and Bronzebeard are the 2 fattest... um... strongest dwarves I've ever seen. Without these two, things would be bad for us.";
+Odin and Bronzebeard are the two fattest... um... strongest dwarves I've ever seen. Without these two, things would be bad for us.";
 		to = "Hallo, Fremder.
 Wir versuchen hier die Stellung zu halten bis Verstärkung kommt.
-Odin und Bronzebart sind die 2 dicksten... ähm... kampfstärksten Zwerge die ich je sah. Ohne diese beiden würde es schlecht um uns stehen.";
+Odin und Bronzebart sind die zwei dicksten... ähm... kampfstärksten Zwerge die ich je sah. Ohne diese beiden würde es schlecht um uns stehen.";
 	}
 	[0x0000]
 	{
