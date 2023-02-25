@@ -38,7 +38,7 @@
 {
 	[common]
 	{
-		screen_name = "Tante Käthe`s Zauberstube";
+		screen_name = "Aunt Kaethe's magic room";
 	}
 	[placement]
 	{
@@ -50,7 +50,7 @@
 {
 	[common]
 	{
-		screen_name = "Heute Räumungsverkauf";
+		screen_name = "Clearance sale today";
 	}
 	[placement]
 	{
@@ -62,7 +62,7 @@
 {
 	[common]
 	{
-		screen_name = "Winterdorf";
+		screen_name = "Wintersville";
 	}
 	[placement]
 	{
@@ -74,7 +74,7 @@
 {
 	[common]
 	{
-		screen_name = "Winterdorf";
+		screen_name = "Wintersville";
 	}
 	[placement]
 	{
@@ -107,7 +107,7 @@
 {
 	[common]
 	{
-		screen_name = "Zur warmen Cervicia";
+		screen_name = "The warm Cervicia";
 	}
 	[placement]
 	{

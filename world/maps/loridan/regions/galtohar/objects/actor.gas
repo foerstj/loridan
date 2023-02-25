@@ -41,7 +41,7 @@
 	{
 	  b is_multi_player = true;
 	  b rollover_display = true;
-		screen_name = "Herr von Bödefeld";
+		screen_name = "Herr von Boedefeld";
 	}
 	[placement]
 	{
@@ -601,7 +601,7 @@
 	{
 	  b is_multi_player = true;
 	  b rollover_display = true;
-		screen_name = "Bärbel";
+		screen_name = "Baerbel";
 	}
 	[mind]
 	{
@@ -869,7 +869,7 @@
 	{
 	  b is_multi_player = true;
 	  b rollover_display = true;
-		screen_name = "Rudi Rüssel";
+		screen_name = "Rudi Ruessel";
 	}
 	[mind]
 	{

@@ -28,7 +28,7 @@
 {
 	[common]
 	{
-		screen_name = "wenn keine Million drin ist warst Du zulangsam";
+		screen_name = "If there's no million you were too slow";
 	}
 	[placement]
 	{
@@ -65,7 +65,7 @@
 {
 	[common]
 	{
-		screen_name = "Hoffmann & Söhne    Stahl in seiner schärfsten Form";
+		screen_name = "Hoffmann & Sons - Steel in its sharpest form";
 	}
 	[placement]
 	{
@@ -86,7 +86,7 @@
 {
 	[common]
 	{
-		screen_name = "zur lustigen Giftmixerin";
+		screen_name = "The cheerful poisoner";
 	}
 	[placement]
 	{
@@ -105,7 +105,7 @@
 {
 	[common]
 	{
-		screen_name = "Winterdorf";
+		screen_name = "Wintersville";
 	}
 	[placement]
 	{
@@ -117,7 +117,7 @@
 {
 	[common]
 	{
-		screen_name = "schnapp Dir die Million";
+		screen_name = "Grab the Million";
 	}
 	[placement]
 	{
@@ -129,7 +129,7 @@
 {
 	[common]
 	{
-		screen_name = "zur lustigen Giftmixerin";
+		screen_name = "The cheerful poisoner";
 	}
 	[placement]
 	{
@@ -141,7 +141,7 @@
 {
 	[common]
 	{
-		screen_name = "Hoffmann & Söhne";
+		screen_name = "Hoffmann & Sons";
 	}
 	[placement]
 	{
@@ -187,7 +187,7 @@
 {
 	[common]
 	{
-		screen_name = "Winterdorf";
+		screen_name = "Wintersville";
 	}
 	[placement]
 	{
@@ -199,7 +199,7 @@
 {
 	[common]
 	{
-		screen_name = "Besuchen Sie doch mal Rheiny und Su";
+		screen_name = "Come visit Rheiny and Su";
 	}
 	[placement]
 	{
@@ -211,7 +211,7 @@
 {
 	[common]
 	{
-		screen_name = "Vorsicht, freilaufende Tiere.";
+		screen_name = "Careful, free-roaming animals.";
 	}
 	[placement]
 	{
@@ -232,7 +232,7 @@
 {
 	[common]
 	{
-		screen_name = "Beware! Dies ist kein Weg für neue Charaktere";
+		screen_name = "Beware! This is no path for new characters";
 	}
 	[placement]
 	{
@@ -252,7 +252,7 @@
 {
 	[common]
 	{
-		screen_name = "Hier wird gebaut! Eltern haften für Ihre Kinder!";
+		screen_name = "Construction site! Parents are responsible for their children!";
 	}
 	[placement]
 	{
@@ -264,7 +264,7 @@
 {
 	[common]
 	{
-		screen_name = "Willkommen im Tal der Ahnungslosen";
+		screen_name = "Welcome to the valley of the clueless";
 	}
 	[placement]
 	{

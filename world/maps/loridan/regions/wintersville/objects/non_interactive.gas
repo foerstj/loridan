@@ -8751,7 +8751,7 @@
 	[common]
 	{
 	  b rollover_display = true;
-		screen_name = "Mino`s Stuhl";
+		screen_name = "Mino's chair";
 	}
 	[placement]
 	{
@@ -9392,7 +9392,7 @@
 	[common]
 	{
 	  b rollover_display = true;
-		screen_name = "-=Tyrael=- Hüter der Stadt";
+		screen_name = "-=Tyrael=- Protector of the city";
 	}
 	[placement]
 	{

@@ -6577,7 +6577,7 @@
 	[common]
 	{
 	  b rollover_display = true;
-		screen_name = "Hier wird renoviert. Bitte nicht betreten. MfG Pietfox";
+		screen_name = "Under renovation. Please do not enter. Sincerely, Pietfox";
 	}
 	[placement]
 	{

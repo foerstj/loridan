@@ -19,7 +19,7 @@
 {
 	[common]
 	{
-		screen_name = "Rheiny  was machst du denn hier?";
+		screen_name = "Rheiny, what are you doing here?";
 	}
 	[placement]
 	{
@@ -31,7 +31,7 @@
 {
 	[common]
 	{
-		screen_name = "Beware! Die Brücke wurde falsch konstruiert. Bitte vorsichtig betreten!";
+		screen_name = "Beware! The bridge was constructed badly. Please enter carefully!";
 	}
 	[placement]
 	{
@@ -43,7 +43,7 @@
 {
 	[common]
 	{
-		screen_name = "Beware! Der Architekt dieser Brücke  müßte aus -Asterix und Cleopatra- bekannt sein.";
+		screen_name = "Beware! The architect of this bridge should be known from 'Asterix and Cleopatra'.";
 	}
 	[placement]
 	{

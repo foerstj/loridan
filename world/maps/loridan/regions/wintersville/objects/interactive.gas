@@ -27,7 +27,7 @@
 {
 	[common]
 	{
-		screen_name = "Winterdorf";
+		screen_name = "Wintersville";
 	}
 	[placement]
 	{
@@ -48,7 +48,7 @@
 {
 	[common]
 	{
-		screen_name = "Gary`s Schuhladen";
+		screen_name = "Gary's shoe store";
 	}
 	[placement]
 	{
@@ -59,7 +59,7 @@
 {
 	[common]
 	{
-		screen_name = "Zauberladen";
+		screen_name = "Mage shop";
 	}
 	[placement]
 	{
@@ -92,7 +92,7 @@
 {
 	[common]
 	{
-		screen_name = "Für Magier und Solche die meinen es zu sein";
+		screen_name = "For magicians and those who think they are";
 	}
 	[placement]
 	{
@@ -104,7 +104,7 @@
 {
 	[common]
 	{
-		screen_name = "Willkommen in Winterdorf";
+		screen_name = "Welcome to Wintersville";
 	}
 	[placement]
 	{
@@ -116,7 +116,7 @@
 {
 	[common]
 	{
-		screen_name = "Himmelpfort";
+		screen_name = "Heavensgate";
 	}
 	[placement]
 	{
@@ -179,7 +179,7 @@
 {
 	[common]
 	{
-		screen_name = "Gary`s Schuhladen und Eisenwaren";
+		screen_name = "Gary's hardware and shoe store";
 	}
 	[placement]
 	{
@@ -216,7 +216,7 @@
 {
 	[common]
 	{
-		screen_name = "Raum-Stammtisch";
+		screen_name = "Regular space table";
 	}
 	[placement]
 	{
