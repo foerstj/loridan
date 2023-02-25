@@ -31,7 +31,6 @@ The weather up there is so bad that I can hardly see anything with my weak eyes.
 {
 	[text*]
 	{
-		choice = more;
 		screen_text = "Greetings.
 Our opening hours are: Monday to Friday from 8 till 19 o'clock.
 But better ask my sister to be sure. She also conducts the sales talks.";
