@@ -78,7 +78,7 @@
 	[0x0000]
 	{
 		from = "Here are the best weapons and potions.";
-		to = "Hier gibt`s die besten Waffen und Tränke.";
+		to = "Hier gibt's die besten Waffen und Tränke.";
 	}
 	[0x0000]
 	{
