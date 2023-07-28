@@ -4,6 +4,7 @@
   f actor_ambient_intensity = 1.000000;
   x ambient_color = 0x00000079;
   f ambient_intensity = 1.000000;
+	environment_map = b_em_sphere;
   x object_ambient_color = 0x00000079;
   f object_ambient_intensity = 1.000000;
   x targetnode = 0x27FCF071;
@@ -14326,7 +14327,7 @@
 	}
 	[t:snode,n:0x3b096dcb]
 	{
-	  b bounds_camera = true;
+	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x3B096DCB;
 	  x mesh_guid = 0x000008EC;

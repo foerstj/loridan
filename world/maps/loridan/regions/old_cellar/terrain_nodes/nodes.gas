@@ -4,6 +4,7 @@
   f actor_ambient_intensity = 1.000000;
   x ambient_color = 0x00004040;
   f ambient_intensity = 1.000000;
+	environment_map = b_em_sphere;
   x object_ambient_color = 0x00004040;
   f object_ambient_intensity = 1.000000;
   x targetnode = 0x22A41F4C;
@@ -1081,7 +1082,7 @@
 	}
 	[t:snode,n:0x199d4314]
 	{
-	  b bounds_camera = true;
+	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x199D4314;
 	  x mesh_guid = 0x000005A5;
@@ -1309,7 +1310,7 @@
 	}
 	[t:snode,n:0x1d12eb49]
 	{
-	  b bounds_camera = true;
+	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x1D12EB49;
 	  x mesh_guid = 0x00000615;
@@ -1653,7 +1654,7 @@
 	}
 	[t:snode,n:0x219c73e8]
 	{
-	  b bounds_camera = true;
+	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x219C73E8;
 	  x mesh_guid = 0x000005A5;
@@ -1714,7 +1715,7 @@
 	}
 	[t:snode,n:0x22a41f4c]
 	{
-	  b bounds_camera = true;
+	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x22A41F4C;
 	  x mesh_guid = 0x000005A5;
@@ -2363,7 +2364,7 @@
 	}
 	[t:snode,n:0x2fc410d6]
 	{
-	  b bounds_camera = true;
+	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x2FC410D6;
 	  x mesh_guid = 0x000005A5;
@@ -3440,7 +3441,7 @@
 	}
 	[t:snode,n:0x44d7c170]
 	{
-	  b bounds_camera = true;
+	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x44D7C170;
 	  x mesh_guid = 0x000005A5;
@@ -4062,7 +4063,7 @@
 	}
 	[t:snode,n:0x5188b9d5]
 	{
-	  b bounds_camera = true;
+	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x5188B9D5;
 	  x mesh_guid = 0x000005D5;
@@ -4340,7 +4341,7 @@
 	}
 	[t:snode,n:0x56f7f22e]
 	{
-	  b bounds_camera = true;
+	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x56F7F22E;
 	  x mesh_guid = 0x000005A5;
@@ -5074,7 +5075,7 @@
 	}
 	[t:snode,n:0x651a2d05]
 	{
-	  b bounds_camera = true;
+	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x651A2D05;
 	  x mesh_guid = 0x0000061F;
@@ -6042,7 +6043,7 @@
 	}
 	[t:snode,n:0x83aa58fa]
 	{
-	  b bounds_camera = true;
+	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x83AA58FA;
 	  x mesh_guid = 0x0000061F;
@@ -6534,7 +6535,7 @@
 	}
 	[t:snode,n:0x885aba5b]
 	{
-	  b bounds_camera = true;
+	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x885ABA5B;
 	  x mesh_guid = 0x000005A5;
@@ -6921,7 +6922,7 @@
 	}
 	[t:snode,n:0x8d07d15d]
 	{
-	  b bounds_camera = true;
+	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x8D07D15D;
 	  x mesh_guid = 0x000005D5;
@@ -8530,7 +8531,7 @@
 	}
 	[t:snode,n:0xb0599dc0]
 	{
-	  b bounds_camera = true;
+	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xB0599DC0;
 	  x mesh_guid = 0x000005A5;
@@ -9078,7 +9079,7 @@
 	}
 	[t:snode,n:0xc083a034]
 	{
-	  b bounds_camera = true;
+	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xC083A034;
 	  x mesh_guid = 0x00000610;
@@ -10867,7 +10868,7 @@
 	}
 	[t:snode,n:0xe766e06a]
 	{
-	  b bounds_camera = true;
+	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xE766E06A;
 	  x mesh_guid = 0x000005D5;
@@ -10935,7 +10936,7 @@
 	}
 	[t:snode,n:0xe8ab9292]
 	{
-	  b bounds_camera = true;
+	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xE8AB9292;
 	  x mesh_guid = 0x0000061F;
@@ -11384,7 +11385,7 @@
 	}
 	[t:snode,n:0xf48d3243]
 	{
-	  b bounds_camera = true;
+	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xF48D3243;
 	  x mesh_guid = 0x000005D8;
@@ -11551,7 +11552,7 @@
 	}
 	[t:snode,n:0xf87b2091]
 	{
-	  b bounds_camera = true;
+	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xF87B2091;
 	  x mesh_guid = 0x000005A5;
@@ -11612,7 +11613,7 @@
 	}
 	[t:snode,n:0xf8d01690]
 	{
-	  b bounds_camera = true;
+	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xF8D01690;
 	  x mesh_guid = 0x000005A5;
@@ -11981,7 +11982,7 @@
 	}
 	[t:snode,n:0xfedaa02f]
 	{
-	  b bounds_camera = true;
+	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0xFEDAA02F;
 	  x mesh_guid = 0x000005D8;
