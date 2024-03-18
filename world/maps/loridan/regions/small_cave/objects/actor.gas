@@ -2127,7 +2127,8 @@
 	}
 	[placement]
 	{
-	  p position = -0.0769272,3.8147e-006,1.25374,0x9300e2fb;
+	  q orientation = 0,1,0,2.98023e-008;
+	  p position = -3.25049,16,3.51274,0xc05b8651;
 	}
 }
 [t:mucosa_small,n:0x0030015c]
@@ -2135,7 +2136,7 @@
 	[placement]
 	{
 	  q orientation = 0,0.190646,0,0.981659;
-	  p position = 3.56302,0,2.61074,0x9300e2fb;
+	  p position = 1.42905,-1.90735e-006,0.372574,0xa0c7524e;
 	}
 }
 [t:mucosa_small,n:0x003000a1]
