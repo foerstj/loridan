@@ -44,7 +44,7 @@ venv\Scripts\python -m build.fix_start_positions_required_levels %map% "%tmp%\Bi
 if %errorlevel% neq 0 pause
 setlocal EnableDelayedExpansion
 if "%mode%"=="release" (
-  venv\Scripts\python -m build.add_world_levels %map% "%tmp%\Bits" "%doc_ds%\Bits"
+  venv\Scripts\python -m build.add_world_levels %map% "%tmp%\Bits" "%doc_dsloa%\Bits"
   if !errorlevel! neq 0 pause
 )
 endlocal
