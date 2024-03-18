@@ -14,27 +14,23 @@ set tc=..\TankCreator
 :: path of GasPy
 set gaspy=..\gaspy
 
+set copyright=Minotaurus 2006
+set title=%map_cs%
+set author=Johannes Förstner
+
 :: param
 set mode=%1
 echo %mode%
 
 :: pre-build checks
 pushd %gaspy%
-venv\Scripts\python -m build.check_conversations %map%
-if %errorlevel% neq 0 pause
-venv\Scripts\python -m build.check_player_world_locations %map%
-if %errorlevel% neq 0 pause
-venv\Scripts\python -m build.check_moods %map%
-if %errorlevel% neq 0 pause
-venv\Scripts\python -m build.check_quests %map%
-if %errorlevel% neq 0 pause
-venv\Scripts\python -m build.check_dupe_node_ids %map%
-if %errorlevel% neq 0 pause
-venv\Scripts\python -m build.check_tips %map%
-if %errorlevel% neq 0 pause
 setlocal EnableDelayedExpansion
-if "%mode%"=="release" (
-  venv\Scripts\python -m build.check_cam_blocks %map%
+if not "%mode%"=="light" (
+  set checks=standard
+  if "%mode%"=="release" (
+    set checks=all
+  )
+  venv\Scripts\python -m build.pre_build_checks %map% --check !checks!
   if !errorlevel! neq 0 pause
 )
 endlocal
@@ -46,14 +42,14 @@ robocopy "%doc_dsloa%\Bits\world\maps\%map%" "%tmp%\Bits\world\maps\%map%" /E
 pushd %gaspy%
 venv\Scripts\python -m build.fix_start_positions_required_levels %map% "%tmp%\Bits"
 if %errorlevel% neq 0 pause
-setlocal enableDelayedExpansion
-if not "%mode%"=="light" (
-  venv\Scripts\python -m build.add_world_levels %map% "%tmp%\Bits" "%doc_dsloa%\Bits"
+setlocal EnableDelayedExpansion
+if "%mode%"=="release" (
+  venv\Scripts\python -m build.add_world_levels %map% "%tmp%\Bits" "%doc_ds%\Bits"
   if !errorlevel! neq 0 pause
 )
 endlocal
 popd
-%tc%\RTC.exe -source "%tmp%\Bits" -out "%ds%\DSLOA\%map_cs%.dsmap" -copyright "Minotaurus 2006" -title "%map_cs%" -author "Johannes Förstner"
+%tc%\RTC.exe -source "%tmp%\Bits" -out "%ds%\DSLOA\%map_cs%.dsmap" -copyright "%copyright%" -title "%title%" -author "%author%"
 if %errorlevel% neq 0 pause
 
 if not "%mode%"=="light" (

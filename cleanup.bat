@@ -6,4 +6,4 @@ set map_cs=Loridan
 set ds=.
 
 :: Cleanup resources so as not to confuse Siege Editor
-del "%ds%\DSLOA\%map_cs%-de.dsres"
+del "%ds%\DSLOA\%map_cs%.de.dsres"
