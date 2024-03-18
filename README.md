@@ -18,16 +18,20 @@ This map is re-buildable and editable. I opened & saved every region in Siege Ed
 ## What I did (revisit)
 
 The "revisited" map variant is based on the remaster, with these changes applied:
-- Translate German names, conversations etc. to English
-- Add dsres for German re-translation (fixing typos along the way)
+- Translated German names, conversations etc. to English
+- Added dsres for German re-translation (fixing typos along the way)
 - Made world-location triggers multiplayer-only
-- Fix required levels not being applied to start positions in regular mode
-- Fix teleport platforms not fitting well, and positioning of the teleport effects
+- Fixed required levels not being applied to start positions in regular mode
+- Fixed teleport platforms not fitting well, and positioning of the teleport effects
 - Brushed up plants (randomize size & orientation where not set)
-- Add sign pointing directly at the walk-thru wall
+- Added sign pointing directly at the walk-thru wall
 - Removed a few cam-block flags from nodes
-- Re-use unused conversation item in the small cave
+- Re-used unused conversation item in the small cave
 - Replaced veteran & test containers with normal ones, configured a mana shrine, positioned a door, and more mini fixes
+- Fixed North vector in Old Pathway
+- Fixed overlapping terrain in Small Cave
+- Fixed a few terrain texture borders
+- Fixed asymmetric fading bug of Old Cellar
 
 ## How to build
 
