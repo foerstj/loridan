@@ -7,99 +7,6 @@
 		use_point_scids = 0x0040008d,0x0040008e;
 	}
 }
-[t:sign_glb_01,n:0x0040056a]
-{
-	[aspect]
-	{
-	  f scale_multiplier = 0.75;
-	}
-	[common]
-	{
-		screen_name = "Galtohar";
-	}
-	[placement]
-	{
-	  q orientation = 0,0.760406,0,0.649448;
-	  p position = 0.469902,0.618779,0.626131,0x75b7a19a;
-	}
-}
-[t:sign_glb_01,n:0x004006e3]
-{
-	[common]
-	{
-		screen_name = "Wintersville";
-	}
-	[placement]
-	{
-	  q orientation = 0,0.737277,0,-0.67559;
-	  p position = 0.117477,-0.242058,0.499428,0x75b7a19a;
-	}
-}
-[t:door_grs_barn_right,n:0x004000c5]
-{
-	[placement]
-	{
-	  q orientation = 0,0.983255,0,0.182235;
-	  p position = 0.237762,-2.95,-1.23226,0xa526c8db;
-		use_point_scids = 0x004000c7,0x004000c6;
-	}
-}
-[t:sign_glb_01,n:0x004006e5]
-{
-	[common]
-	{
-		screen_name = "Gary's shoe store";
-	}
-	[placement]
-	{
-	  p position = -2.24158,0,-1.11108,0xda9efcd9;
-	}
-}
-[t:sign_glb_01,n:0x004006e6]
-{
-	[common]
-	{
-		screen_name = "Mage shop";
-	}
-	[placement]
-	{
-	  q orientation = 0,-0.809017,0,0.587785;
-	  p position = -2.11028,-0.356979,-1.28625,0xda9efcd9;
-	}
-}
-[t:sign_glb_01,n:0x00400742]
-{
-	[common]
-	{
-		screen_name = "Galtohar";
-	}
-	[placement]
-	{
-	  q orientation = 0,0.707107,0,0.707107;
-	  p position = -1.81821,-0.572732,-1.08273,0xda9efcd9;
-	}
-}
-[t:door_ice_peasant_left,n:0x00400082]
-{
-	[placement]
-	{
-	  q orientation = 0,-1,0,5.42961e-007;
-	  p position = 0.969154,-1.5,-7.80424,0xa254d816;
-		use_point_scids = 0x00400089,0x00400088;
-	}
-}
-[t:sign_glb_magic_left,n:0x0040080c]
-{
-	[common]
-	{
-		screen_name = "For magicians and those who think they are";
-	}
-	[placement]
-	{
-	  q orientation = 0,0.688354,0,-0.725375;
-	  p position = 1.32782,9.53674e-007,3.44089,0x06bd696e;
-	}
-}
 [t:sign_ice_glacern,n:0x004000cd]
 {
 	[common]
@@ -196,6 +103,24 @@
 		use_point_scids = 0x004000a8,0x004000a7;
 	}
 }
+[t:respawn_statue,n:0x00400075]
+{
+	[placement]
+	{
+	  q orientation = 0,1,0,0;
+	  p position = -1.61313,-5.94627,-4.43988,0x5a90ff75;
+		use_point_scids = 0x00400077;
+	}
+}
+[t:door_grs_barn_right,n:0x004000c5]
+{
+	[placement]
+	{
+	  q orientation = 0,0.983255,0,0.182235;
+	  p position = 0.237762,-2.95,-1.23226,0xa526c8db;
+		use_point_scids = 0x004000c7,0x004000c6;
+	}
+}
 [t:door_ice_peasant_left,n:0x0040007d]
 {
 	[placement]
@@ -224,6 +149,108 @@
 	  p position = 1.84569,-1.04246,5.91456,0x06b15121;
 	}
 }
+[t:door_ice_peasant_left,n:0x00400082]
+{
+	[placement]
+	{
+	  q orientation = 0,-1,0,5.42961e-007;
+	  p position = 0.969154,-1.5,-7.80424,0xa254d816;
+		use_point_scids = 0x00400089,0x00400088;
+	}
+}
+[t:sign_glb_01,n:0x004006e5]
+{
+	[common]
+	{
+		screen_name = "Gary's shoe store";
+	}
+	[placement]
+	{
+	  p position = -2.24158,0,-1.11108,0xda9efcd9;
+	}
+}
+[t:sign_glb_01,n:0x004006e6]
+{
+	[common]
+	{
+		screen_name = "Mage shop";
+	}
+	[placement]
+	{
+	  q orientation = 0,-0.809017,0,0.587785;
+	  p position = -2.11028,-0.356979,-1.28625,0xda9efcd9;
+	}
+}
+[t:sign_glb_01,n:0x00400742]
+{
+	[common]
+	{
+		screen_name = "Galtohar";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.707107,0,0.707107;
+	  p position = -1.81821,-0.572732,-1.08273,0xda9efcd9;
+	}
+}
+[t:sign_glb_01,n:0x0040056a]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.75;
+	}
+	[common]
+	{
+		screen_name = "Galtohar";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.760406,0,0.649448;
+	  p position = 0.469902,0.618779,0.626131,0x75b7a19a;
+	}
+}
+[t:sign_glb_01,n:0x004006e3]
+{
+	[common]
+	{
+		screen_name = "Wintersville";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.737277,0,-0.67559;
+	  p position = 0.117477,-0.242058,0.499428,0x75b7a19a;
+	}
+}
+[t:lever_glb_06,n:0x00400136]
+{
+	[on_off_lever]
+	{
+		off_message = we_req_activate;
+	  x off_scid = 0x0040013A;
+	  x on_scid = 0x0040013A;
+	  f required_level = 6;
+	  f reset_time = 16;
+	  f reset_time_2 = 16;
+	}
+	[placement]
+	{
+	  q orientation = 0.681998,0,0,-0.731354;
+	  p position = 0.0426485,2.22742,0.193953,0x98dd388c;
+		use_point_scids = 0x00400138,0x0040040d;
+	}
+}
+[t:sign_glb_magic_left,n:0x0040080c]
+{
+	[common]
+	{
+		screen_name = "For magicians and those who think they are";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.688354,0,-0.725375;
+	  p position = 1.32782,9.53674e-007,3.44089,0x06bd696e;
+	}
+}
 [t:door_grs_left_05,n:0x0040009d]
 {
 	[placement]
@@ -248,32 +275,5 @@
 	{
 	  p position = 3.26997,-1.4,0.526703,0xf5a48e8e;
 		use_point_scids = 0x00400093,0x00400095;
-	}
-}
-[t:lever_glb_06,n:0x00400136]
-{
-	[on_off_lever]
-	{
-		off_message = we_req_activate;
-	  x off_scid = 0x0040013A;
-	  x on_scid = 0x0040013A;
-	  f required_level = 6;
-	  f reset_time = 16;
-	  f reset_time_2 = 16;
-	}
-	[placement]
-	{
-	  q orientation = 0.681998,0,0,-0.731354;
-	  p position = 0.0426485,2.22742,0.193953,0x98dd388c;
-		use_point_scids = 0x00400138,0x0040040d;
-	}
-}
-[t:respawn_statue,n:0x00400075]
-{
-	[placement]
-	{
-	  q orientation = 0,1,0,0;
-	  p position = -1.61313,-5.94627,-4.43988,0x5a90ff75;
-		use_point_scids = 0x00400077;
 	}
 }

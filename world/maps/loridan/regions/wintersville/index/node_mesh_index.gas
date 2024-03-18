@@ -62,6 +62,7 @@
 	0x00000853 = t_xxx_pth_08x04-d;
 	0x00000854 = t_xxx_pth_08x04-e;
 	0x00000855 = t_xxx_pth_08x04-f;
+	0x00000860 = t_xxx_pth_08x08-g;
 	0x00000861 = t_xxx_pth_08x08-h;
 	0x00000875 = t_xxx_rmp_cnr-ccav;
 	0x00000877 = t_xxx_rmp_ctx-04-l;
