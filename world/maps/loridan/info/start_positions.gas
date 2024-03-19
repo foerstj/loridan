@@ -9,7 +9,7 @@
 		screen_name = "Durathan";
 		[start_position]
 		{
-		  i id = 9;
+		  i id = 1;
 			position = 3.279079,0.000000,-3.318878,0x3B140F3E;
 			[camera]
 			{
@@ -21,7 +21,7 @@
 		}
 		[start_position]
 		{
-		  i id = 10;
+		  i id = 2;
 			position = 3.222397,0.000004,2.520912,0xD222FCA9;
 			[camera]
 			{
@@ -33,7 +33,7 @@
 		}
 		[start_position]
 		{
-		  i id = 9;
+		  i id = 3;
 			position = -1.552628,0.000000,0.246552,0xD222FCA9;
 			[camera]
 			{
@@ -45,7 +45,7 @@
 		}
 		[start_position]
 		{
-		  i id = 9;
+		  i id = 4;
 			position = 2.036711,0.000004,0.591888,0x3B140F3E;
 			[camera]
 			{
@@ -57,7 +57,7 @@
 		}
 		[start_position]
 		{
-		  i id = 9;
+		  i id = 5;
 			position = 0.793425,0.000002,0.891312,0xC376A79E;
 			[camera]
 			{
@@ -69,7 +69,7 @@
 		}
 		[start_position]
 		{
-		  i id = 10;
+		  i id = 6;
 			position = 1.609909,0.000002,1.251207,0x840F2B16;
 			[camera]
 			{
@@ -81,7 +81,7 @@
 		}
 		[start_position]
 		{
-		  i id = 9;
+		  i id = 7;
 			position = 3.425331,0.000000,-0.040589,0x8991D7C8;
 			[camera]
 			{
@@ -93,7 +93,7 @@
 		}
 		[start_position]
 		{
-		  i id = 10;
+		  i id = 8;
 			position = 1.376655,0.000000,-0.275589,0x287BC35B;
 			[camera]
 			{
