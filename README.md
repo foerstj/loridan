@@ -4,6 +4,12 @@ The original 3rd-party Loridan map, remastered.
 ## About
 A map with four towns. The original map is in German, now translated to English. The names & conversations contain lots of jokes, often referring to real-world events or insider jokes of the people who made it. Difficulty progression is too steep for singleplayer.
 
+## Installation & Compatibility
+- This map requires LoA.
+- To install, put the dsmap & dsres files into your DSLOA folder.
+- To uninstall, simply remove the files again.
+- No known incompatibilities.
+
 ## What I did
 This map is re-buildable and editable. I opened & saved every region in Siege Editor v1.7. The dsmap file can be rebuilt using the batch scripts, provided you have the folder structure of Dungeon Siege, TankCreator and gaspy.
 - SE saves the "required_level" attributes for multiplayer start positions with an "i" in front, which however breaks the level requirement.\
