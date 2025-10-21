@@ -2,7 +2,7 @@
 The original 3rd-party Loridan map, remastered.
 
 ## About
-A map with four towns. The original map is in German, now translated to English. The names & conversations contain lots of jokes, often referring to real-world events or insider jokes of the people who made it. Difficulty progression is too steep for singleplayer.
+A map with four towns. The original map is in German, now translated to English. The names & conversations contain lots of jokes, often referring to real-world events or insider jokes of the people who made it. Difficulty progression is a bit steep for singleplayer. Goes up to level 35.
 
 ## Installation & Compatibility
 - This map requires LoA.
