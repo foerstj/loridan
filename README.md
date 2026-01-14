@@ -40,12 +40,14 @@ The "revisited" map variant is based on the remaster, with these changes applied
 - Fixed asymmetric fading bug of Old Cellar
 
 ## How to build
-GasPy repo: https://github.com/foerstj/gaspy
 
-- Put TankCreator and gaspy on the same folder level as your Dungeon Siege installation. Basically in the upper folder, you should have a "Dungeon Siege" folder, a "TankCreator" folder, and a "gaspy" folder.
-- Put this repo as "Bits" into your personal Dungeon Siege LoA folder (where the savegames & screenshots are).
-- Go into your Dungeon Siege installation folder and open CMD there.
-- %USERPROFILE%\Documents\Dungeon Siege LoA\Bits\build.bat
+- Provide environment variables:
+  - %DungeonSiege% - path to DS installation
+  - %TankCreator% - path to TC installation
+  - %GasPy% - path to GasPy repo
+- Run the build.bat in the repo root
+
+GasPy repo: https://github.com/foerstj/gaspy
 
 ## Attribution
 This map was created by one "Minotaurus", not me. I'm just doing minor changes here.
