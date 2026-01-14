@@ -60274,7 +60274,7 @@
 	[t:snode,n:0xacf16813]
 	{
 	  b bounds_camera = false;
-	  b camera_fade = false;
+	  b camera_fade = true;
 	  x guid = 0xACF16813;
 	  x mesh_guid = 0x00000DB4;
 	  x nodelevel = 0xFFFFFFFF;
