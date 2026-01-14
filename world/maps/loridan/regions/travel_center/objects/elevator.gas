@@ -23,7 +23,6 @@
 	}
 	[placement]
 	{
-	  q orientation = 0,0.980849,0,-0.194771;
 	  p position = 0,5,0,0x88718cb4;
 	}
 }

@@ -4,6 +4,7 @@
   f actor_ambient_intensity = 1.000000;
   x ambient_color = 0x00400000;
   f ambient_intensity = 1.000000;
+	environment_map = b_em_sphere;
   x object_ambient_color = 0x00400000;
   f object_ambient_intensity = 1.000000;
   x targetnode = 0x5040E631;

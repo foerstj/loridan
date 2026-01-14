@@ -906,7 +906,7 @@
 	}
 	[placement]
 	{
-	  p position = 0.0335083,-0.369678,0.302414,0x75416c32;
+	  p position = 0,-0.5,0,0x75416c32;
 	}
 }
 [t:trigger_health_shrine,n:0x001004de]

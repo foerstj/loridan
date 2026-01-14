@@ -667,8 +667,7 @@
 	}
 	[placement]
 	{
-	  q orientation = 0,0.707107,0,0.707107;
-	  p position = -0.0134583,0.456642,-0.0748978,0x8fd21c13;
+	  p position = 0,-0.5,0,0x8fd21c13;
 	}
 }
 [t:blocking_object,n:0x007002de]

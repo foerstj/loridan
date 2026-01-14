@@ -235,7 +235,7 @@
 	}
 	[placement]
 	{
-	  p position = -0.0693893,0.0600224,-0.0902405,0x01aa3c91;
+	  p position = 0,0,0,0x01aa3c91;
 	}
 }
 [t:frag_glb_krug_commander_01,n:0x0030013c]
