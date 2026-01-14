@@ -53,6 +53,32 @@
 		event_sound = "env_waterfall";
 	}
 }
+[t:emt_sound_act,n:0x00d0105a]
+{
+	[placement]
+	{
+	  p position = -5.51553,-3.90882,-5.21902,0xfcc0d4db;
+	}
+	[sound_emitter_act]
+	{
+		event_sound = "secret_found_2";
+	  b repeat = false;
+	  b start_on_creation = false;
+	}
+}
+[t:emt_sound_act,n:0x00d00f89]
+{
+	[placement]
+	{
+	  p position = 3.61123,0,1.44942,0x7aa44775;
+	}
+	[sound_emitter_act]
+	{
+	  b continual_loop = true;
+		event_sound = "secret_nearby";
+	  b stop_instantly = true;
+	}
+}
 [t:emt_sound_act,n:0x00d0001f]
 {
 	[placement]
