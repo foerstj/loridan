@@ -4,7 +4,7 @@
 	description = "Alter Hassatiweg";
   x guid = 0x0000000C;
 	lastmodified = FLUPSNPUPS,flups;
-  x mesh_range = 0x00000001;
+  x mesh_range = 0x0000000C;
 	notes = none;
   x scid_range = 0x0000000C;
 	se_version = 1.70.0.4;

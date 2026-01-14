@@ -1,6 +1,6 @@
 [node_mesh_index]
 {
-	0x00000fca = t_th01_teleport-hub-elevator-45-a;
-	0x00000fcb = t_th01_teleport-hub-elevator-a;
-	0x00000fcc = t_th01_teleport-hub-top-a;
+	0x00500fca = t_th01_teleport-hub-elevator-45-a;
+	0x00500fcb = t_th01_teleport-hub-elevator-a;
+	0x00500fcc = t_th01_teleport-hub-top-a;
 }
