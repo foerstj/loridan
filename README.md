@@ -24,6 +24,7 @@ This map is re-buildable and editable. I opened & saved every region in Siege Ed
 
 ## What I did (revisit)
 The "revisited" map variant is based on the remaster, with these changes applied:
+- Assigned separate mesh ranges to each region (same as scid ranges)
 - Translated German names, conversations etc. to English
 - Added dsres for German re-translation (fixing typos along the way)
 - Made world-location triggers multiplayer-only
@@ -38,6 +39,7 @@ The "revisited" map variant is based on the remaster, with these changes applied
 - Fixed overlapping terrain in Small Cave
 - Fixed a few terrain texture borders
 - Fixed asymmetric fading bug of Old Cellar
+- Made the lever for the Old Pathway a bit easier to find
 
 ## How to build
 
