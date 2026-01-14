@@ -18,6 +18,10 @@
 }
 [t:lever_glb_02,n:0x00d00231]
 {
+	[aspect]
+	{
+	  f scale_multiplier = 1.5;
+	}
 	[on_off_lever]
 	{
 		off_message = we_req_activate;
@@ -25,8 +29,8 @@
 	}
 	[placement]
 	{
-	  q orientation = -0.0197935,0.992421,0.105861,-0.0591765;
-	  p position = -0.435059,-4,-1.94708,0xe7213ca3;
+	  q orientation = -0.0608589,-0.659904,-0.0888512,0.743592;
+	  p position = -5.20401,-3.08924,-5.45149,0xfcc0d4db;
 		use_point_scids = 0x00d00232;
 	}
 }
