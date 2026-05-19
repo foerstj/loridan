@@ -2,6 +2,7 @@
 {
 	[text*]
 	{
+		sample = s_v_xp_dm_galtohar_akira_1;
 		screen_text = "Stop! I have to warn you, the way to Wintersville is blocked by wild creatures.
 Surely you have noticed that Galtohar is fairly deserted. Well, I assume they are all still in Heavensgate at the wedding.
 Unfortunately the travel center is already in the hands of these monsters and I don't want to go over the mountain pass by foot.
@@ -9,28 +10,34 @@ The weather up there is so bad that I can hardly see anything with my weak eyes.
 	  f scroll_rate = 10.000000;
 	}
 }
+
 [conversation_adw]
 {
 	[text*]
 	{
 		choice = shop;
+		sample = s_v_xp_dm_galtohar_adw_1;
 		screen_text = "Step closer and choose wisely.";
 	  f scroll_rate = 10.000000;
 	}
 }
+
 [greetings_stranger]
 {
 	[text*]
 	{
 		choice = shop;
+		sample = s_v_xp_dm_galtohar_stranger_1;
 		screen_text = "I hope my humble offer will find your approval.";
 	  f scroll_rate = 10.000000;
 	}
 }
+
 [gday]
 {
 	[text*]
 	{
+		sample = s_v_xp_dm_galtohar_gday_1;
 		screen_text = "Greetings.
 Our opening hours are: Monday to Friday from 8 till 19 o'clock.
 But better ask my sister to be sure. She also conducts the sales talks.";

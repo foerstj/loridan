@@ -2,114 +2,139 @@
 {
 	[text*]
 	{
+		sample = s_v_xp_dm_heavensgate_garl_1;
 		screen_text = "Greetings!
 It's a mystery to me how you made it here. These damn Trog are getting ever more audacious. Last night they attacked our outpost.
 Of course, today I'm lucky enough to be on guard duty.";
 	  f scroll_rate = 10.000000;
 	}
 }
+
 [conv_kami]
 {
 	[text*]
 	{
+		sample = s_v_xp_dm_heavensgate_kami_1;
 		screen_text = "Can you tell me where I should make the first cut?";
 	  f scroll_rate = 10.000000;
 	}
 }
+
 [conv_klf]
 {
 	[text*]
 	{
+		sample = s_v_xp_dm_heavensgate_klf_1;
 		screen_text = "Actually I should be on guard duty.
 But a sip in honor...";
 	  f scroll_rate = 10.000000;
 	}
 }
+
 [conv_lobo]
 {
 	[text*]
 	{
+		sample = s_v_xp_dm_heavensgate_lobo_1;
 		screen_text = "Take care, I think Poldi wants to eat ya.";
 	  f scroll_rate = 10.000000;
 	}
 }
+
 [conv_mace]
 {
 	[text*]
 	{
+		sample = s_v_xp_dm_heavensgate_mace_1;
 		screen_text = "Hi!
 I am -=AFK=- Mace, Blowmind has assigned me to watch after all. Even though today I had the day off.
 Hopefully there'll still be some Kuestennebel left over from Leo.";
 	  f scroll_rate = 10.000000;
 	}
 }
+
 [conv_mage]
 {
 	[text*]
 	{
 		choice = shop;
+		sample = s_v_xp_dm_heavensgate_mage_1;
 		screen_text = "Come on in.
 It's been rare lately that someone from Wintersville finds our way.";
 	  f scroll_rate = 10.000000;
 	}
 }
+
 [conv_nira]
 {
 	[text*]
 	{
+		sample = s_v_xp_dm_heavensgate_nira_1;
 		screen_text = "That's what happens when you think you can do one more Kuestennebel.
 Great wedding.";
 	  f scroll_rate = 10.000000;
 	}
 }
+
 [conv_piet]
 {
 	[text*]
 	{
+		sample = s_v_xp_dm_heavensgate_piet_1;
 		screen_text = "G'day. I hope you stayed away from my house in Galtohar. It is currently being overhauled. Do you know if my old gray horses are doing well? I'm getting worried about the two of them.";
 	  f scroll_rate = 10.000000;
 	}
 }
+
 [conv_raven]
 {
 	[text*]
 	{
+		sample = s_v_xp_dm_heavensgate_raven_1;
 		screen_text = "Hi.
 Please don't disturb my ravens. As you can see they are fed a bit too well and therefore have problems with taking off.";
 	  f scroll_rate = 10.000000;
 	}
 }
+
 [conv_smith]
 {
 	[text*]
 	{
 		choice = shop;
+		sample = s_v_xp_dm_heavensgate_smith_1;
 		screen_text = "Howdy.
 Since the trade routes were blocked by the Trog, business has been so bad that I had to close my forge and now I'm throwing everything out in this hut at a bargain price.";
 	  f scroll_rate = 10.000000;
 	}
 }
+
 [conv_tom]
 {
 	[text*]
 	{
+		sample = s_v_xp_dm_heavensgate_tom_1;
 		screen_text = "I'd rather celebrate too, but someone has to do the serving.";
 	  f scroll_rate = 10.000000;
 	}
 }
+
 [conv_uschi]
 {
 	[text*]
 	{
+		sample = s_v_xp_dm_heavensgate_uschi_1;
 		screen_text = "Good day.
 I've been wanting to sell my pig for weeks. But I'm afraid nobody wants it.";
 	  f scroll_rate = 10.000000;
 	}
 }
+
 [conv_yelchi]
 {
 	[text*]
 	{
+		sample = s_v_xp_dm_heavensgate_yelchi_1;
 		screen_text = "The most important thing is to always turn and pour over evenly.";
 	  f scroll_rate = 10.000000;
 	}

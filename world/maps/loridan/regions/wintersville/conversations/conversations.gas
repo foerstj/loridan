@@ -2,80 +2,97 @@
 {
 	[text*]
 	{
+		sample = s_v_xp_dm_wintersville_bridge_1;
 		screen_text = "Wish you a pleasant day, stranger. As you can see, the bridge has collapsed. It happened three days ago when some strange folks came by here. They called themselves the Keepers. Their dragons were so fat, that the bridge collapsed behind them.
 Now we are desperately looking for craftsmen that can fix it up. The Dwarves would have the right tools, but they're on company holidays since their King Leopolt marries his Nira. He even bought a suit and new sneakers.";
 	  f scroll_rate = 10.000000;
 	}
 }
+
 [conversation_gabi]
 {
 	[text*]
 	{
+		sample = s_v_xp_dm_wintersville_gabi_1;
 		screen_text = "Oh!
 Never would have thought someone would show up. Those beasts have been hopping around out there for days. Couldn't you clear the way into the village?";
 	  f scroll_rate = 10.000000;
 	}
 }
+
 [conversation_hannes]
 {
 	[text*]
 	{
+		sample = s_v_xp_dm_wintersville_hannes_1;
 		screen_text = "Hello!
 What do you want in this hole? Here's where the dog is buried.
 If there were any donkeys left, I would have disappeared with my stuff long ago.";
 	  f scroll_rate = 10.000000;
 	}
 }
+
 [conversation_helga]
 {
 	[text*]
 	{
+		sample = s_v_xp_dm_wintersville_helga_1;
 		screen_text = "I don't want to seem rude. But we're about to eat, so I'm asking you to leave.";
 	  f scroll_rate = 10.000000;
 	}
 }
+
 [conversation_jenny]
 {
 	[text*]
 	{
+		sample = s_v_xp_dm_wintersville_jenny_1;
 		screen_text = "How low do you have to sink to go to the room with Lilo?";
 	  f scroll_rate = 10.000000;
 	}
 }
+
 [conversation_krilliac]
 {
 	[text*]
 	{
+		sample = s_v_xp_dm_wintersville_krilliac_1;
 		screen_text = "I'm sorry, but I don't have any donkeys left.
 I sold last four of them to the Keepers. They needed something to feed their dragons quickly.";
 	  f scroll_rate = 10.000000;
 	}
 }
+
 [conversation_lilo]
 {
 	[text*]
 	{
+		sample = s_v_xp_dm_wintersville_lilo_1;
 		screen_text = "Hi!
 I am Lilo.
 If you have time, I have a room upstairs.";
 	  f scroll_rate = 10.000000;
 	}
 }
+
 [conversation_lilya]
 {
 	[text*]
 	{
 		choice = shop;
+		sample = s_v_xp_dm_wintersville_lilya_1;
 		screen_text = "Hello, lonesome wanderer!
 You should kit up with new spells and potions from me. I heard of many dangers lurking in the caves and forests.";
 	  f scroll_rate = 10.000000;
 	}
 }
+
 [conversation_smith]
 {
 	[text*]
 	{
 		choice = shop;
+		sample = s_v_xp_dm_wintersville_smith_1;
 		screen_text = "Well, have you found me!
 The main entrance is unfortunately blocked due to lack of space.
 We carry women's shoes of all sizes.
@@ -83,19 +100,23 @@ I can also offer you my best swords and armor at a bargain price. Just look arou
 	  f scroll_rate = 10.000000;
 	}
 }
+
 [conversation_soldier]
 {
 	[text*]
 	{
+		sample = s_v_xp_dm_wintersville_soldier_1;
 		screen_text = "Good day.
 Unfortunately I can hardly remember anything. I only know I was looking for a way to the other side of the bridge. I think I was in a kind of cellar, when those beasts attacked me. Before I fell unconscious, I must have managed to drag myself to the smith. Cause that's where Helga found me.";
 	  f scroll_rate = 10.000000;
 	}
 }
+
 [conversation_host]
 {
 	[text*]
 	{
+		sample = s_v_xp_dm_wintersville_host_1;
 		screen_text = "Hello!
 I don't want to beat around the bush. Sit down, wait to be served and keep quiet.
 If there's trouble in here because of you, you'll be out faster than Gom can pull his staff out of the ground.";

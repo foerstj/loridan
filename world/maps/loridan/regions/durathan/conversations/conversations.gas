@@ -2,71 +2,86 @@
 {
 	[text*]
 	{
+		sample = s_v_xp_dm_durathan_clint_1;
 		screen_text = "Hello, stranger.
 We're trying to hold the position here until reinforcements arrive.
 Odin and Bronzebeard are the two fattest... um... strongest dwarves I've ever seen. Without these two, things would be bad for us.";
 	  f scroll_rate = 10.000000;
 	}
 }
+
 [durathan_smith]
 {
 	[text*]
 	{
 		choice = shop;
+		sample = s_v_xp_dm_durathan_smith_1;
 		screen_text = "Moin Moin!
 What's your trouble?
 Blade dull or rusty armor?";
 	  f scroll_rate = 10.000000;
 	}
 }
+
 [durathan_mage]
 {
 	[text*]
 	{
 		choice = shop;
+		sample = s_v_xp_dm_durathan_mage_1;
 		screen_text = "Just come in and see what I have for you.";
 	  f scroll_rate = 10.000000;
 	}
 }
+
 [else_kling]
 {
 	[text*]
 	{
+		sample = s_v_xp_dm_durathan_else_kling_1;
 		screen_text = "Good day.
 I am Else Kling. May I offer you some buttermilk to strengthen you?";
 	  f scroll_rate = 10.000000;
 	}
 }
+
 [harald]
 {
 	[text*]
 	{
 		choice = more;
 	  i order = 0;
+		sample = s_v_xp_dm_durathan_harald_1;
 		screen_text = "Hello.
 Do you already know my old lady?
 I still wonder why I married that scratching brush.";
 	  f scroll_rate = 10.000000;
 	}
+
 	[text*]
 	{
 	  i order = 1;
+		sample = s_v_xp_dm_durathan_harald_2;
 		screen_text = "Don't you happen to have a bottle of brandy? I'm so weird, feeling... so... sober.";
 	  f scroll_rate = 10.000000;
 	}
 }
+
 [nixusminimax]
 {
 	[text*]
 	{
+		sample = s_v_xp_dm_durathan_nixusminimax_1;
 		screen_text = "Better not go back there. I saw terrible creatures there.";
 	  f scroll_rate = 10.000000;
 	}
 }
+
 [utraean]
 {
 	[text*]
 	{
+		sample = s_v_xp_dm_durathan_utraean_1;
 		screen_text = "Hello!
 I'm the remnant of an old clown family.
 Unfortunately, my make-up is also slowly running out.";

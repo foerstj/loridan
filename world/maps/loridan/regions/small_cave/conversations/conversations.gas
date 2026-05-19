@@ -4,11 +4,13 @@
 	{
         choice = more;
       i order = 0;
+		sample = s_v_xp_dm_small_cave_finally_1;
 		screen_text = "Finally someone shows up. I'm stuck here for two days. My brother has a house in the Gadewitz Woods. He wanted to visit me four days ago. But when he was still not with me the day before yesterday, I set out to look for him.";
 	  f scroll_rate = 10.000000;
 	}
 	[text*]
 	{
+		sample = s_v_xp_dm_small_cave_finally_2;
 		screen_text = "Have you heard anything from my brother?";
 	  f scroll_rate = 10.000000;
 	}
